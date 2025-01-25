@@ -47,6 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bouncesToLive: 1
   transferBackRatio: 0.5
+  popParticles: {fileID: 692901878141586365, guid: 1366f04bf387a1742b4ce6ee306455d0, type: 3}
 --- !u!1 &6662883901078961346
 GameObject:
   m_ObjectHideFlags: 0

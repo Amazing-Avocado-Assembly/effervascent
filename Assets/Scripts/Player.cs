@@ -17,6 +17,7 @@ public class Player : MonoBehaviour
     private Vector3 projectileDirection;
 
     private static readonly float projectileOffset = 0.01f;
+    public ParticleSystem popParticles;
 
     void Awake()
     {
@@ -98,7 +99,10 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            Game.Instance.KillAndRespawn();
+            if (popParticles != null) {
+                Instantiate(popParticles, transform.position, Quaternion.identity);
+            }
+        Game.Instance.KillAndRespawn();
         }
     }
 

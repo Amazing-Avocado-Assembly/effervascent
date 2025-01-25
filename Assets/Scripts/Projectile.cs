@@ -7,6 +7,7 @@ public class Projectile : MonoBehaviour
     public Bubble Bubble { get; private set; }
     public int bouncesToLive = 1;
     public float transferBackRatio = 0.5f;
+    public ParticleSystem popParticles;
 
     private Captureable captured = null;
 
@@ -41,7 +42,7 @@ public class Projectile : MonoBehaviour
         Bubble otherBubble = collision.gameObject.GetComponentInChildren<Bubble>();
         if (otherBubble != null) {
             otherBubble.volume += Bubble.volume * transferBackRatio;
-            Destroy(gameObject);
+            Pop();
             // TODO: Play pop animation
             return;
         }
@@ -79,7 +80,15 @@ public class Projectile : MonoBehaviour
         bouncesToLive--;
 
         if (bouncesToLive < 0) {
-            Destroy(gameObject);
+            Pop();
+        }
+    }
+
+    private void Pop() {
+        Destroy(gameObject);
+        // Instantiate popParticles at the position of the projectile
+        if (popParticles != null) {
+            Instantiate(popParticles, transform.position, Quaternion.identity);
         }
     }
 }
