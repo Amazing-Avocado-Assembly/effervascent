@@ -6,6 +6,7 @@ public class Bubble : MonoBehaviour
     private static readonly float globalObjectScale = 0.2f;
 
     public float initialVolume = 100;
+
     public float volumeScale = 1;
 
     public float volume;

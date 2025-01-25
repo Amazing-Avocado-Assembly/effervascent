@@ -218,6 +218,7 @@ MonoBehaviour:
   indicator: {fileID: 8320157616383393828}
   pushForce: 10
   volumePerSecond: 10
+  maxVolume: 150
 --- !u!1 &6155639884741461144
 GameObject:
   m_ObjectHideFlags: 0
