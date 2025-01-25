@@ -1,9 +1,12 @@
 using UnityEngine;
+using NaughtyAttributes;
 
 public class EnemyController : MonoBehaviour
 {
     protected Transform Player => Game.Instance.Player.transform;
     protected Rigidbody2D rb;
+    [SerializeField, Layer] protected string groundLayer = "Ground";
+    [SerializeField, Layer] protected string blockLayer = "EnemyBlocker";
 
     protected virtual void Awake()
     {

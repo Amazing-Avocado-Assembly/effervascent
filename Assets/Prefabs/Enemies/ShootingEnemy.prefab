@@ -315,5 +315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c7389cc2bd16f047abc9b8747d701b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  groundLayer: Ground
+  blockLayer: EnemyBlocker
   bulletPrefab: {fileID: 664720748610903456, guid: 4c1c20bec78e2c3429989dcb0d27f5f8, type: 3}
   coolDown: 2

@@ -1,6 +1,7 @@
 using System;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
@@ -19,24 +20,31 @@ public class Player : MonoBehaviour
 
     private static readonly float projectileOffset = 0.01f;
     public ParticleSystem popParticles;
+    
+    private InputAction mousePositionAction;
+    private InputAction attackAction;
 
     void Awake()
     {
         Bubble = GetComponentInChildren<Bubble>();
         RB = GetComponent<Rigidbody2D>();
+        
+        mousePositionAction = InputSystem.actions.FindAction("MousePosition");
+        attackAction = InputSystem.actions.FindAction("Attack");
     }
 
     void Update()
     {
         // If the player presses the left mouse button, spawn a projectile as a child of the player
-        if (Input.GetMouseButtonDown(0))
+        if (attackAction.WasPressedThisFrame())
         {
             if (projectile == null)
             {
                 GameObject projectileObject = Instantiate(projectilePrefab.gameObject);
                 projectileObject.transform.parent = transform;
 
-                Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+                var look = mousePositionAction.ReadValue<Vector2>();
+                Vector3 mousePosition = Camera.main.ScreenToWorldPoint(look);
                 Vector3 direction = mousePosition - transform.position;
                 direction.z = 0;
                 direction.Normalize();
@@ -49,7 +57,7 @@ public class Player : MonoBehaviour
             }
         }
         // If the player holds the left mouse button, transfer volume from self to the bubble
-        else if (Input.GetMouseButton(0))
+        else if (attackAction.IsPressed())
         {
             if (projectile != null)
             {
@@ -60,7 +68,7 @@ public class Player : MonoBehaviour
             }
         }
         // If the player let's go of the mouse button, release the projectile
-        else if (Input.GetMouseButtonUp(0))
+        else if (attackAction.WasReleasedThisFrame())
         {
             if (projectile != null)
             {
@@ -83,9 +91,10 @@ public class Player : MonoBehaviour
         }
 
         // If the mouse is not pressed, update indicator to be oriented towards the mouse
-        if (!Input.GetMouseButton(0))
+        if (!attackAction.IsPressed())
         {
-            Vector3 mousePositionWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            var look = mousePositionAction.ReadValue<Vector2>();
+            Vector3 mousePositionWorld = Camera.main.ScreenToWorldPoint(look);
             Vector3 directionIndicator = mousePositionWorld - transform.position;
             directionIndicator.z = 0;
             directionIndicator.Normalize();
