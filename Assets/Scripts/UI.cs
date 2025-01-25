@@ -7,8 +7,8 @@ public class UI : MonoBehaviour
     public event Action Ascended;
     public event Action Escaped;
 
-    public Button AscendButton;
-    public Button EscapeButton;
+    public UnityEngine.UI.Button AscendButton;
+    public UnityEngine.UI.Button EscapeButton;
     public Canvas Canvas;
 
     private void Awake()
