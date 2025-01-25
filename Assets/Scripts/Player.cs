@@ -1,3 +1,4 @@
+using System;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -10,6 +11,7 @@ public class Player : MonoBehaviour
     public Transform indicator;
     public float pushForce = 10;
     public float volumePerSecond = 10f;
+    public float maxVolume = 200;
 
     private Projectile projectile = null;
     private Vector3 projectileDirection;
@@ -97,6 +99,20 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Enemy"))
         {
             RespawnPoint.Instance.Respawn();
+        }
+    }
+
+    void OnTriggerStay2D(Collider2D collision)
+    {
+        Debug.Log("Colliding with " + collision.gameObject.name);
+
+        if (collision.gameObject.CompareTag("Pipe"))
+        {
+            // If the player is colliding with a pipe, add volume to the bubble (deltaTime)
+            Pipe pipe = collision.gameObject.GetComponent<Pipe>();
+            if (!pipe) return;
+
+            Bubble.volume = Math.Min(Bubble.volume + Time.deltaTime * pipe.volumePerSecond, maxVolume);
         }
     }
 }
