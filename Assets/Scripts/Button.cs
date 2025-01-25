@@ -21,6 +21,10 @@ public class Button : MonoBehaviour
 
             // Tween the door to the open position
             foreach (Transform door in doors) {
+                if (door.TryGetComponent<AudioSource>(out var audioSource))
+                {
+                    audioSource.Play();
+                }
                 door.DOLocalMove(Vector3.zero, 2f).SetEase(Ease.InOutCubic);
             }
 
