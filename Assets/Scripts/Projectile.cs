@@ -21,7 +21,7 @@ public class Projectile : MonoBehaviour
         // If the scale is zero or if distance from camera is greater, than 20, destroy self
         if (transform.localScale.magnitude < 0.01f || Vector3.Distance(transform.position, Camera.main.transform.position) > 20) {
             transform.DOComplete();
-            Destroy(gameObject);
+            Pop();
         }
     }
 
@@ -43,7 +43,6 @@ public class Projectile : MonoBehaviour
         if (otherBubble != null) {
             otherBubble.volume += Bubble.volume * transferBackRatio;
             Pop();
-            // TODO: Play pop animation
             return;
         }
         

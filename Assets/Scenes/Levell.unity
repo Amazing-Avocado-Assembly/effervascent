@@ -2029,6 +2029,10 @@ PrefabInstance:
       value: Button
       objectReference: {fileID: 0}
     - target: {fileID: 8975478643004743727, guid: f6cf696db39f8254899b071d63d20667, type: 3}
+      propertyPath: lineRenderer
+      value: 
+      objectReference: {fileID: 4537164057168694272}
+    - target: {fileID: 8975478643004743727, guid: f6cf696db39f8254899b071d63d20667, type: 3}
       propertyPath: 'doors.Array.data[0]'
       value: 
       objectReference: {fileID: 999615042}
@@ -6253,7 +6257,7 @@ LineRenderer:
       m_NumAlphaKeys: 2
     numCornerVertices: 1
     numCapVertices: 0
-    alignment: 0
+    alignment: 1
     textureMode: 0
     textureScale: {x: 1, y: 1}
     shadowBias: 0.5
