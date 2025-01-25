@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    protected Transform Player => RespawnPoint.Instance.Player.transform;
+    protected Transform Player => Game.Instance.Player.transform;
     protected Rigidbody2D rb;
 
     protected virtual void Awake()
