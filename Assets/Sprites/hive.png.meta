@@ -1,40 +1,31 @@
 fileFormatVersion: 2
-guid: 0aef6296e797e0945a86dae141acaa5a
+guid: ccbab763fc3102441ad1d2076013a472
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3622856754838255118
-    second: monsters-4_0
+      213: 5920260895808310015
+    second: hive_0
   - first:
-      213: -892987772546460347
-    second: monsters-4_1
+      213: 6922112239655953235
+    second: hive_1
   - first:
-      213: 2573150656020383554
-    second: monsters-4_2
+      213: 5398510974356908833
+    second: hive_2
   - first:
-      213: -5093567587275362233
-    second: monsters-4_3
+      213: -3688699087110734193
+    second: hive_3
   - first:
-      213: -3986904667458763199
-    second: monsters-4_4
+      213: 7544129111467168566
+    second: hive_4
   - first:
-      213: 848503978282660291
-    second: monsters-4_5
+      213: 2559114405210908322
+    second: hive_5
   - first:
-      213: -6930111027859903195
-    second: monsters-4_6
+      213: 487575142164225419
+    second: hive_6
   - first:
-      213: -2088107982145034897
-    second: monsters-4_7
-  - first:
-      213: 6816500187598631147
-    second: monsters-4_8
-  - first:
-      213: -4888487940146706200
-    second: monsters-4_9
-  - first:
-      213: -6557837244633528004
-    second: monsters-4_10
+      213: 6747972056913120346
+    second: hive_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -76,12 +67,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 160
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -156,57 +147,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: monsters-4_0
+      name: hive_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 150
-        width: 23
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0632481609f64230800000000000000
-      internalID: 3622856754838255118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_1
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 156
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 545d9942a587b93f0800000000000000
-      internalID: -892987772546460347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_2
-      rect:
-        serializedVersion: 2
-        x: 5
         y: 0
-        width: 251
-        height: 256
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,152 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24788a573eaa5b320800000000000000
-      internalID: 2573150656020383554
+      spriteID: ffa4a48faedf82250800000000000000
+      internalID: 5920260895808310015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monsters-4_3
+      name: hive_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 146
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 740320924430059b0800000000000000
-      internalID: -5093567587275362233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_4
-      rect:
-        serializedVersion: 2
-        x: 232
-        y: 149
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 14606c6145baba8c0800000000000000
-      internalID: -3986904667458763199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_5
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 146
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c13b086fdd76cb00800000000000000
-      internalID: 848503978282660291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_6
-      rect:
-        serializedVersion: 2
-        x: 12
-        y: 139
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 52da46accbc43df90800000000000000
-      internalID: -6930111027859903195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_7
-      rect:
-        serializedVersion: 2
-        x: 236
-        y: 145
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f65669f7adc8503e0800000000000000
-      internalID: -2088107982145034897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_8
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 140
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be033352ec2199e50800000000000000
-      internalID: 6816500187598631147
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-4_9
-      rect:
-        serializedVersion: 2
-        x: 12
-        y: 130
+        x: 500
+        y: 110
         width: 6
-        height: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8e846c66e1a982cb0800000000000000
-      internalID: -4888487940146706200
+      spriteID: 353a3143868401060800000000000000
+      internalID: 6922112239655953235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monsters-4_10
+      name: hive_2
       rect:
         serializedVersion: 2
-        x: 228
-        y: 135
-        width: 11
-        height: 10
+        x: 505
+        y: 100
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,8 +206,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c39caca55c1edf4a0800000000000000
-      internalID: -6557837244633528004
+      spriteID: 12b679ee02d5bea40800000000000000
+      internalID: 5398510974356908833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hive_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef47d49bb1fccc0800000000000000
+      internalID: -3688699087110734193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hive_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6331fa4d47122b860800000000000000
+      internalID: 7544129111467168566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hive_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 52
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a66e262efcc38320800000000000000
+      internalID: 2559114405210908322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hive_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 29
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d520e220734c600800000000000000
+      internalID: 487575142164225419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hive_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c819e55dc95ad50800000000000000
+      internalID: 6747972056913120346
       vertices: []
       indices: 
       edges: []
@@ -401,7 +326,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -411,17 +336,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      monsters-4_0: 3622856754838255118
-      monsters-4_1: -892987772546460347
-      monsters-4_10: -6557837244633528004
-      monsters-4_2: 2573150656020383554
-      monsters-4_3: -5093567587275362233
-      monsters-4_4: -3986904667458763199
-      monsters-4_5: 848503978282660291
-      monsters-4_6: -6930111027859903195
-      monsters-4_7: -2088107982145034897
-      monsters-4_8: 6816500187598631147
-      monsters-4_9: -4888487940146706200
+      hive_0: 5920260895808310015
+      hive_1: 6922112239655953235
+      hive_2: 5398510974356908833
+      hive_3: -3688699087110734193
+      hive_4: 7544129111467168566
+      hive_5: 2559114405210908322
+      hive_6: 487575142164225419
+      hive_7: 6747972056913120346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
