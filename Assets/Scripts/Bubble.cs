@@ -13,6 +13,8 @@ public class Bubble : MonoBehaviour
 
     private float VolumeToRadius(float volume)
     {
+        if (volume <= 0) return 0;
+        
         // Sphere volume to radius
         return Mathf.Pow((3 * volume) / (4 * Mathf.PI), 1.0f / 3.0f) * globalObjectScale;
     }
