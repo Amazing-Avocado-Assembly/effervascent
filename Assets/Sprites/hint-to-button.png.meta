@@ -166,9 +166,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -218,6 +218,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1138,7 +1151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -1147,7 +1160,48 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hint-to-button_0: -999530364755064967
+      hint-to-button_1: 486332312406075322
+      hint-to-button_10: 2975292898762261520
+      hint-to-button_11: -5053750216766987254
+      hint-to-button_12: 1622949999397661347
+      hint-to-button_13: 2267446056048458630
+      hint-to-button_14: 2701763304857225171
+      hint-to-button_15: 6535158605459768206
+      hint-to-button_16: 8814625115856311587
+      hint-to-button_17: -5089529699586844874
+      hint-to-button_18: 8908360238543658462
+      hint-to-button_19: -3250828962627322576
+      hint-to-button_2: -7956938811388536744
+      hint-to-button_20: -2677531828401569166
+      hint-to-button_21: 4480960231099974701
+      hint-to-button_22: -9129078395498582233
+      hint-to-button_23: 1347888009691449281
+      hint-to-button_24: -8746998959508411507
+      hint-to-button_25: 1188961975582335380
+      hint-to-button_26: -5183570923504017457
+      hint-to-button_27: -7715489327840799217
+      hint-to-button_28: 2835311728557271897
+      hint-to-button_29: -2767652806342537076
+      hint-to-button_3: 7367479188551693424
+      hint-to-button_30: -3956293743822789563
+      hint-to-button_31: -3127366541378356107
+      hint-to-button_32: -6243796073057325746
+      hint-to-button_33: 3081620686695727587
+      hint-to-button_34: -1178254584435671580
+      hint-to-button_35: -8653034368653092368
+      hint-to-button_36: 6481355427346603901
+      hint-to-button_37: 2459736806949265686
+      hint-to-button_38: -8067243200756567427
+      hint-to-button_39: 2121411179349634268
+      hint-to-button_4: -4119841998756787493
+      hint-to-button_40: 4902691513783665882
+      hint-to-button_5: 3095274745402461783
+      hint-to-button_6: 6945434497539236862
+      hint-to-button_7: 1283064093151625556
+      hint-to-button_8: -349771875857983646
+      hint-to-button_9: 3237610891949571779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
