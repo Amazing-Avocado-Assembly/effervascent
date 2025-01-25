@@ -271,18 +271,18 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 250
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -329,6 +329,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2063,7 +2076,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -2072,7 +2085,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wall-corner-1024_0: -1573227424462483421
+      wall-corner-1024_1: 6913771119645804835
+      wall-corner-1024_10: 3792703184715526565
+      wall-corner-1024_11: 1290125369119338762
+      wall-corner-1024_12: -1381400343886324805
+      wall-corner-1024_13: 6530375181552029636
+      wall-corner-1024_14: 5891262476725509030
+      wall-corner-1024_15: 1696781809294075401
+      wall-corner-1024_16: 2649915999307882342
+      wall-corner-1024_17: 181776603870869846
+      wall-corner-1024_18: 2006856571467384694
+      wall-corner-1024_19: -5581937786229408729
+      wall-corner-1024_2: -8304789931725932772
+      wall-corner-1024_20: -1985952040956486947
+      wall-corner-1024_21: 4105063237733875768
+      wall-corner-1024_22: 4125943349614808972
+      wall-corner-1024_23: 658400910698335290
+      wall-corner-1024_24: 1816513054044241144
+      wall-corner-1024_25: 1730488515691775904
+      wall-corner-1024_26: 4242286308806203260
+      wall-corner-1024_27: 8662258950754914537
+      wall-corner-1024_28: -7106195021195413699
+      wall-corner-1024_29: 7630923978371319496
+      wall-corner-1024_3: 5105172511256595079
+      wall-corner-1024_30: -1473044420008145147
+      wall-corner-1024_31: 7093858371109438877
+      wall-corner-1024_32: 5698700274312752063
+      wall-corner-1024_33: -4270441918368544474
+      wall-corner-1024_34: -3976580516883391689
+      wall-corner-1024_35: -1521044962910014232
+      wall-corner-1024_36: -2494565390759989257
+      wall-corner-1024_37: -2105851124904573848
+      wall-corner-1024_38: -218242804832254770
+      wall-corner-1024_39: -617433550204936379
+      wall-corner-1024_4: -2102776097203307038
+      wall-corner-1024_40: 7076257559731362765
+      wall-corner-1024_41: 5051099823743593206
+      wall-corner-1024_42: 2514340294397430149
+      wall-corner-1024_43: -4586532630869218478
+      wall-corner-1024_44: -3865236757662697910
+      wall-corner-1024_45: 2546832160987949966
+      wall-corner-1024_46: 7659848968248685972
+      wall-corner-1024_47: 5982430022398076440
+      wall-corner-1024_48: 3293236457870534388
+      wall-corner-1024_49: 4730036508978001416
+      wall-corner-1024_5: 1492312044581471853
+      wall-corner-1024_50: 7735072281781365626
+      wall-corner-1024_51: -7363089325368442658
+      wall-corner-1024_52: 2502478596408252735
+      wall-corner-1024_53: -3339779630200522844
+      wall-corner-1024_54: 3543673512549721564
+      wall-corner-1024_55: 1602449089563550001
+      wall-corner-1024_56: 4969437143279395809
+      wall-corner-1024_57: 8138489325475442589
+      wall-corner-1024_58: -5580433109538811580
+      wall-corner-1024_59: 8082894867366390751
+      wall-corner-1024_6: -4419283864768077342
+      wall-corner-1024_60: -4760985864906986146
+      wall-corner-1024_61: -2024595119292587426
+      wall-corner-1024_62: 1633854623760129905
+      wall-corner-1024_63: 2555517311578274005
+      wall-corner-1024_64: -7751118547042622343
+      wall-corner-1024_65: 160728922130860002
+      wall-corner-1024_66: -153366757841430998
+      wall-corner-1024_67: -4519449015030174547
+      wall-corner-1024_68: -2141225138269000129
+      wall-corner-1024_69: -8190426069366475081
+      wall-corner-1024_7: -8451481423176080723
+      wall-corner-1024_70: -5193325615437911631
+      wall-corner-1024_71: -8627569275289202305
+      wall-corner-1024_72: -2274573642580469239
+      wall-corner-1024_73: 997367749892921748
+      wall-corner-1024_74: -6412078178158882998
+      wall-corner-1024_75: 4470009986871911733
+      wall-corner-1024_76: 3583498632547407102
+      wall-corner-1024_77: -2262939327287902978
+      wall-corner-1024_8: 5700575685354772062
+      wall-corner-1024_9: 4933693647140081632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
