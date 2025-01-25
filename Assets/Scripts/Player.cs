@@ -16,7 +16,7 @@ public class Player : MonoBehaviour
 
     private static readonly float projectileOffset = 0.01f;
 
-    void OnEnable()
+    void Awake()
     {
         Bubble = GetComponentInChildren<Bubble>();
         RB = GetComponent<Rigidbody2D>();
@@ -31,7 +31,7 @@ public class Player : MonoBehaviour
             {
                 GameObject projectileObject = Instantiate(projectilePrefab.gameObject);
                 projectileObject.transform.parent = transform;
-                
+
                 Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
                 Vector3 direction = mousePosition - transform.position;
                 direction.z = 0;
@@ -40,7 +40,7 @@ public class Player : MonoBehaviour
                 projectileDirection = direction;
 
                 projectileObject.transform.localPosition = (Bubble.GetRadius() + projectileObject.GetComponentInChildren<Bubble>().GetRadius() + projectileOffset) * direction;
-                
+
                 projectile = projectileObject.GetComponent<Projectile>();
             }
         }
@@ -89,6 +89,14 @@ public class Player : MonoBehaviour
             float angle = Mathf.Atan2(directionIndicator.y, directionIndicator.x) * Mathf.Rad2Deg - 90;
             indicator.rotation = Quaternion.Euler(0, 0, angle);
             indicator.localScale = Bubble.transform.localScale;
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            RespawnPoint.Instance.Respawn();
         }
     }
 }
