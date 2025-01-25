@@ -6,6 +6,8 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
+    private const float ExpectedMaxProjectileVolumeHeuristic = 25f;
+    
     public Bubble Bubble { get; private set; }
     public Rigidbody2D RB { get; private set; }
 
@@ -23,7 +25,7 @@ public class Player : MonoBehaviour
     private static readonly float projectileOffset = 0.01f;
     public ParticleSystem popParticles;
     public AudioSource bubbleReleaseSound;
-    
+
     private InputAction mousePositionAction;
     private InputAction attackAction;
 
@@ -31,7 +33,7 @@ public class Player : MonoBehaviour
     {
         Bubble = GetComponentInChildren<Bubble>();
         RB = GetComponent<Rigidbody2D>();
-        
+
         mousePositionAction = InputSystem.actions.FindAction("MousePosition");
         attackAction = InputSystem.actions.FindAction("Attack");
     }
@@ -39,7 +41,8 @@ public class Player : MonoBehaviour
     void Update()
     {
         // If the RB is not dynamic, return
-        if (RB.bodyType != RigidbodyType2D.Dynamic) {
+        if (RB.bodyType != RigidbodyType2D.Dynamic)
+        {
             indicator.gameObject.SetActive(false);
             return;
         }
@@ -89,6 +92,17 @@ public class Player : MonoBehaviour
         {
             if (projectile != null)
             {
+                // play bubble release sound
+                if (bubbleReleaseSound != null)
+                {
+                    bubbleReleaseSound.pitch = 1f + UnityEngine.Random.Range(-0.15f, 0.15f);
+                    bubbleReleaseSound.volume = Mathf.Lerp(
+                        0.1f,
+                        1.0f,
+                        projectile.Bubble.volume / ExpectedMaxProjectileVolumeHeuristic);
+                    bubbleReleaseSound.Play();
+                }
+
                 projectile.transform.parent = null;
 
                 // Add rigidbody to the projectile
@@ -104,11 +118,6 @@ public class Player : MonoBehaviour
                 Bubble.ApplyForce(projectile.Bubble, pushForce);
 
                 projectile = null;
-
-                if (bubbleReleaseSound != null) {
-                    bubbleReleaseSound.pitch = 1f + UnityEngine.Random.Range(-0.15f, 0.15f);
-                    bubbleReleaseSound.Play();
-                }
             }
         }
 
@@ -148,8 +157,10 @@ public class Player : MonoBehaviour
         }
     }
 
-    private void Pop() {
-        if (popParticles != null) {
+    private void Pop()
+    {
+        if (popParticles != null)
+        {
             Instantiate(popParticles, transform.position, Quaternion.identity);
         }
         Game.Instance.PlayGlobalSound(popSound);
