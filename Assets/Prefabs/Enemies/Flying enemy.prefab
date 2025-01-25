@@ -51,6 +51,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 256ee2a378346c447b2adb73100ce3c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  groundLayer: Ground
+  blockLayer: EnemyBlocker
   speed: 5
   maxAcceleration: 1
   avoidRadius: 1

@@ -269,9 +269,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sprite: {fileID: 7177219020143515364}
-  doors: []
-  lineRenderer: {fileID: 0}
-  activeLineMaterial: {fileID: 0}
+  doors:
+  - {fileID: 0}
+  - {fileID: 0}
+  lineRenderer: {fileID: 359962979274077085, guid: 94c8b7a9bfd392a4baf277950f7ab564, type: 3}
+  activeLineMaterial: {fileID: 2100000, guid: d4720b156e7d8a34599280e48854aa14, type: 2}
 --- !u!61 &3209248413212805084
 BoxCollider2D:
   m_ObjectHideFlags: 0

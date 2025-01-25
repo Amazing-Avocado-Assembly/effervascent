@@ -9,7 +9,6 @@ public class WalkingEnemyController : EnemyController
     [SerializeField] float wallCheckOffset = .2f;
     [SerializeField] float wallDistance = .05f;
     [SerializeField] float speed = 1.0f;
-    [SerializeField, Layer] int groundLayer;
     [ShowNonSerializedField] Direction currentDirection = Direction.Left;
 
     void FixedUpdate()
@@ -62,7 +61,7 @@ public class WalkingEnemyController : EnemyController
             transform.position + transform.right * (int)direction * width / 2 - transform.up * 0.01f,
             -transform.up,
             groundDistance + 0.01f,
-            1 << groundLayer);
+            LayerMask.GetMask(groundLayer, blockLayer));
     }
 
     bool CheckWall(Direction direction)
@@ -71,6 +70,6 @@ public class WalkingEnemyController : EnemyController
             transform.position + transform.right * (int)direction * (width / 2 - 0.01f) + transform.up * wallCheckOffset,
             transform.right * (int)direction,
             wallDistance + 0.01f,
-            1 << groundLayer);
+            LayerMask.GetMask(groundLayer, blockLayer));
     }
 }

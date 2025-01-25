@@ -107,12 +107,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f42adf2ec8dbecc4283bb3e74d0165f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  groundLayer: Ground
+  blockLayer: EnemyBlocker
   width: 0.5
   groundDistance: 0.1
   wallCheckOffset: 0.2
   wallDistance: 0.05
   speed: 1
-  groundLayer: 6
 --- !u!114 &678520655412260221
 MonoBehaviour:
   m_ObjectHideFlags: 0
