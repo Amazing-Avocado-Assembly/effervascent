@@ -14,7 +14,7 @@ public class Hive : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        if ((other.gameObject.CompareTag("Player") || other.gameObject.CompareTag("Projectile")) && Time.time - lastSpawnTime > coolDown)
+        if (Time.time - lastSpawnTime > coolDown)
         {
             // Spawn enemies
             int spawnCount = Random.Range(enemySpawnCount.x, enemySpawnCount.y + 1);

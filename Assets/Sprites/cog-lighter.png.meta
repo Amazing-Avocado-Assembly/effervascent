@@ -1,31 +1,40 @@
 fileFormatVersion: 2
-guid: ee9b610de695c9f47957798a0e79a90a
+guid: 7802756e6bd82eb42a323d17a65a7699
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8313879288059987205
-    second: monsters-1_0
+      213: 418449583310756071
+    second: cog-lighter_0
   - first:
-      213: 52860216932770870
-    second: monsters-1_1
+      213: -3472421791576689424
+    second: cog-lighter_1
   - first:
-      213: -2341039594949032857
-    second: monsters-1_2
+      213: 942628166307912941
+    second: cog-lighter_2
   - first:
-      213: -6910923734773793843
-    second: monsters-1_3
+      213: -6371234431227673167
+    second: cog-lighter_3
   - first:
-      213: 4096398370979364559
-    second: monsters-1_4
+      213: -1108094959199429030
+    second: cog-lighter_4
   - first:
-      213: 5384282748818210893
-    second: monsters-1_5
+      213: -7765315729933120146
+    second: cog-lighter_5
   - first:
-      213: -7643719481948831368
-    second: monsters-1_6
+      213: -1139378059255339545
+    second: cog-lighter_6
   - first:
-      213: 3227997980264822973
-    second: monsters-1_7
+      213: 965101578679407144
+    second: cog-lighter_7
+  - first:
+      213: 2823654092801940369
+    second: cog-lighter_8
+  - first:
+      213: 3822080285495840852
+    second: cog-lighter_9
+  - first:
+      213: 7444456002455807835
+    second: cog-lighter_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -67,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 160
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -130,30 +139,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: monsters-1_0
+      name: cog-lighter_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 256
-        height: 256
+        x: 96
+        y: 116
+        width: 293
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfaf4b916da2f9c80800000000000000
-      internalID: -8313879288059987205
+      spriteID: 7e8d5a1dda1aec500800000000000000
+      internalID: 418449583310756071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monsters-1_1
+      name: cog-lighter_1
       rect:
         serializedVersion: 2
-        x: 84
-        y: 242
-        width: 6
-        height: 7
+        x: 294
+        y: 390
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,18 +180,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6342705561ccbb000800000000000000
-      internalID: 52860216932770870
+      spriteID: 0f4feba37ca7fcfc0800000000000000
+      internalID: -3472421791576689424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monsters-1_2
+      name: cog-lighter_2
       rect:
         serializedVersion: 2
-        x: 92
-        y: 247
+        x: 297
+        y: 371
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec9f00b253e41d00800000000000000
+      internalID: 942628166307912941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cog-lighter_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 390
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5cfe18a04d497a0800000000000000
+      internalID: -6371234431227673167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cog-lighter_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 281
         width: 8
         height: 7
       alignment: 0
@@ -206,107 +246,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76440f944e4f28fd0800000000000000
-      internalID: -2341039594949032857
+      spriteID: a5e548b61814f90f0800000000000000
+      internalID: -1108094959199429030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monsters-1_3
+      name: cog-lighter_5
       rect:
         serializedVersion: 2
-        x: 1
-        y: 178
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dcbfdf69a777710a0800000000000000
-      internalID: -6910923734773793843
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-1_4
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 170
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fceb6b06d9459d830800000000000000
-      internalID: 4096398370979364559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-1_5
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 182
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d40c29502a0d8ba40800000000000000
-      internalID: 5384282748818210893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-1_6
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 164
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87105bb11ad0ce590800000000000000
-      internalID: -7643719481948831368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monsters-1_7
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 85
-        width: 7
+        x: 367
+        y: 262
+        width: 6
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -316,8 +268,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db8fc557f072ccc20800000000000000
-      internalID: 3227997980264822973
+      spriteID: e6d459c6c7e0c3490800000000000000
+      internalID: -7765315729933120146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cog-lighter_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5263911bd1030f0800000000000000
+      internalID: -1139378059255339545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cog-lighter_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822da51c5cab46d00800000000000000
+      internalID: 965101578679407144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cog-lighter_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 250
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b9902ef62af2720800000000000000
+      internalID: 2823654092801940369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cog-lighter_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 123
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450d008f4c1ca0530800000000000000
+      internalID: 3822080285495840852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cog-lighter_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572764ba45005760800000000000000
+      internalID: 7444456002455807835
       vertices: []
       indices: 
       edges: []
@@ -326,7 +388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -335,15 +397,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      monsters-1_0: -8313879288059987205
-      monsters-1_1: 52860216932770870
-      monsters-1_2: -2341039594949032857
-      monsters-1_3: -6910923734773793843
-      monsters-1_4: 4096398370979364559
-      monsters-1_5: 5384282748818210893
-      monsters-1_6: -7643719481948831368
-      monsters-1_7: 3227997980264822973
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
