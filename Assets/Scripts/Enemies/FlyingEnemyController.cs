@@ -14,7 +14,7 @@ public class FlyingEnemyController : EnemyController
 
     void FixedUpdate()
     {
-        Vector2 direction = (player.position - transform.position).normalized;
+        Vector2 direction = (Player.position - transform.position).normalized;
         rb.linearVelocity = Vector2.Lerp(rb.linearVelocity, direction * speed, acceleration * Time.fixedDeltaTime);
     }
 }
