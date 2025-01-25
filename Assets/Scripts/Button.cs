@@ -7,6 +7,8 @@ public class Button : MonoBehaviour
 {
     public Transform sprite;
     public Transform[] doors;
+    public LineRenderer lineRenderer;
+    public Material activeLineMaterial;
 
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -20,6 +22,11 @@ public class Button : MonoBehaviour
             // Tween the door to the open position
             foreach (Transform door in doors) {
                 door.DOLocalMove(Vector3.zero, 2f).SetEase(Ease.InOutCubic);
+            }
+
+            // If the line renderer is set, change the material color to white
+            if (lineRenderer != null) {
+                lineRenderer.material = activeLineMaterial;
             }
         }
     }
