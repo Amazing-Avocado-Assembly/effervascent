@@ -39,7 +39,7 @@ public class Bubble : MonoBehaviour
         return volume * volumeScale;
     }
 
-    private void OnEnable()
+    private void Awake()
     {
         volume = initialVolume;
         Rb = GetComponentInParent<Rigidbody2D>();

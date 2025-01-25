@@ -1,3 +1,4 @@
+using DG.Tweening;
 using Unity.Cinemachine;
 using UnityEngine;
 
@@ -24,5 +25,17 @@ public class RespawnPoint : MonoBehaviour
         if (playerFollowCamera != null) {
             playerFollowCamera.Follow = Player.transform;
         }
+
+        Bubble bubble = Player.GetComponentInChildren<Bubble>();
+        bubble.volume = 0;
+        bubble.Rb.bodyType = RigidbodyType2D.Static;
+
+        Tween t = bubble.DOVolume(bubble.initialVolume, 2.0f);
+        t.SetDelay(2f);
+        t.onComplete += () => {
+            bubble.Rb.bodyType = RigidbodyType2D.Dynamic;
+            // Add up velocity to the player
+            Player.RB.linearVelocity = new Vector2(0, 1);
+        };
     }
 }
