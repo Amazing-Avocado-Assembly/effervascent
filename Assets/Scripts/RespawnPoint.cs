@@ -41,10 +41,10 @@ public class RespawnPoint : MonoBehaviour
         if (playerFollowCamera != null) {
             playerFollowCamera.Follow = Player.transform;
         }
+        Player.RB.bodyType = RigidbodyType2D.Static;
 
         Bubble bubble = Player.GetComponentInChildren<Bubble>();
-        bubble.volume = 0;
-        bubble.Rb.bodyType = RigidbodyType2D.Static;
+        bubble.volume = 0;        
 
         // Instantiate Cog above the screen and spawn point
         cog = Instantiate(cogPrefab, spawnPoint.position + new Vector3(0, 10, 0), Quaternion.identity);
@@ -59,7 +59,7 @@ public class RespawnPoint : MonoBehaviour
             Tween t = bubble.DOVolume(bubble.initialVolume, 2.0f);
             t.SetDelay(2f);
             t.onComplete += () => {
-                bubble.Rb.bodyType = RigidbodyType2D.Dynamic;
+                Player.RB.bodyType = RigidbodyType2D.Dynamic;
                 // Add up velocity to the player
                 Player.RB.linearVelocity = new Vector2(0, 1);
                 // Set cog's parent to the player

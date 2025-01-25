@@ -1263,10 +1263,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
-    - target: {fileID: 1174590223085868705, guid: bb6c9af466d59164b8cc0f7336368aba, type: 3}
-      propertyPath: m_Antialiasing
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 1784924823382561877, guid: bb6c9af466d59164b8cc0f7336368aba, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.123649895
@@ -1306,10 +1302,6 @@ PrefabInstance:
     - target: {fileID: 1784924823382561877, guid: bb6c9af466d59164b8cc0f7336368aba, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8546305852299673115, guid: bb6c9af466d59164b8cc0f7336368aba, type: 3}
-      propertyPath: orthographic size
-      value: 7.976945
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
