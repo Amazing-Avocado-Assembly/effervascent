@@ -1,4 +1,5 @@
 using System;
+using Unity.Mathematics;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -21,6 +22,7 @@ public class Player : MonoBehaviour
 
     private static readonly float projectileOffset = 0.01f;
     public ParticleSystem popParticles;
+    public AudioSource bubbleReleaseSound;
     
     private InputAction mousePositionAction;
     private InputAction attackAction;
@@ -102,6 +104,11 @@ public class Player : MonoBehaviour
                 Bubble.ApplyForce(projectile.Bubble, pushForce);
 
                 projectile = null;
+
+                if (bubbleReleaseSound != null) {
+                    bubbleReleaseSound.pitch = 1f + UnityEngine.Random.Range(-0.15f, 0.15f);
+                    bubbleReleaseSound.Play();
+                }
             }
         }
 
