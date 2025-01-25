@@ -393,6 +393,7 @@ PlayerSettings:
   openGLRequireES31AEP: 0
   openGLRequireES32: 0
   m_TemplateCustomTags:
+    HIDE_FULL_SCREEN_BUTTON: false
     PRODUCT_DESCRIPTION: 
   mobileMTRendering:
     Android: 1
