@@ -47,13 +47,16 @@ public class Projectile : MonoBehaviour
             if (captureable.minVolume <= Bubble.volume) {
                 // Capture the captureable
                 // * Remove the captureable rigidbody
-                Destroy(captureable.GetComponent<Rigidbody2D>());                
-                // * Make the bubble parent of the captureable and disable the captureable's EnemyController
+                Destroy(captureable.GetComponent<Rigidbody2D>());
+                // * Make the bubble parent of the captureable
                 captureable.transform.SetParent(transform);
+                // * Disable the captureable's EnemyController on the captureable
+                EnemyController ec = captureable.GetComponent<EnemyController>();
+                if (ec) ec.enabled = false;
                 // * Tween the captureOrigin of the captureable to the center of the bubble
                 captureable.transform.DOLocalMove(-captureable.captureOrigin.localPosition, 0.5f);
                 // * Tween the volume of the bubble to the volume of the minWrappingBubbleVolume of the captureable
-                
+                Bubble.DOVolume(Bubble.RadiusToVolume(captureable.minWrappingBubbleRadius), 0.5f);
                 // * Change gravity scale of the bubble to -0.1f
                 Bubble.Rb.gravityScale = -0.1f;
 

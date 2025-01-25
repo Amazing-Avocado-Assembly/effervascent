@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minVolume: 1
-  minWrappingBubbleVolume: 1
+  minWrappingBubbleRadius: 0.5
   captureOrigin: {fileID: 2035166929371054695}
 --- !u!1 &7300973359476488229
 GameObject:
