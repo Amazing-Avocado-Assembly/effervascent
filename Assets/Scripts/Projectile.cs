@@ -17,14 +17,18 @@ public class Projectile : MonoBehaviour
 
     void Update()
     {
-        
+        // If the scale is zero, destroy self
+        if (transform.localScale.magnitude < 0.01f) {
+            transform.DOComplete();
+            Destroy(gameObject);
+        }
     }
 
     // On collision with anything, kill self
     void OnCollisionEnter2D(Collision2D collision)
     {
         // Only process if the projectile has rigidbody
-        if (Bubble.Rb == null) {
+        if (Bubble == null || Bubble.Rb == null) {
             return;
         }
 
@@ -38,6 +42,7 @@ public class Projectile : MonoBehaviour
         if (otherBubble != null) {
             otherBubble.volume += Bubble.volume * transferBackRatio;
             Destroy(gameObject);
+            // TODO: Play pop animation
             return;
         }
         
@@ -61,7 +66,9 @@ public class Projectile : MonoBehaviour
                 // * Change gravity scale of the bubble to -0.1f and damping to 0.4f
                 Bubble.Rb.gravityScale = -0.1f;
                 Bubble.Rb.linearDamping = 0.5f;
-
+                // * Tween the projectile scale to 0
+                transform.DOScale(Vector3.zero, 1.0f);
+                // * Set captured to the captureable
                 captured = captureable;                
                 return;
             }
