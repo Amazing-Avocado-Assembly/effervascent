@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
 
     public Transform projectilePrefab;
     public Transform indicator;
+    public AudioClip popSound;
     public float pushForce = 10;
     public float volumePerSecond = 10f;
     public float maxVolume = 200;
@@ -102,7 +103,8 @@ public class Player : MonoBehaviour
             if (popParticles != null) {
                 Instantiate(popParticles, transform.position, Quaternion.identity);
             }
-        Game.Instance.KillAndRespawn();
+            Game.Instance.PlayGlobalSound(popSound);
+            Game.Instance.KillAndRespawn();
         }
     }
 

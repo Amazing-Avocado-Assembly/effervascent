@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 
 public class Game : MonoBehaviour
@@ -10,6 +12,11 @@ public class Game : MonoBehaviour
     public UI UI;
 
     public Player Player => RespawnPoint.Player;
+
+    private InputAction pauseAction;
+    private bool isPaused = false;
+    private bool isFinished = false;
+    private AudioSource audioSource;
 
     private void Awake()
     {
@@ -24,7 +31,9 @@ public class Game : MonoBehaviour
         UI.Hide();
         FinishPoint.Finished += () =>
         {
+            UI.HeaderText = UI.TheEndText;
             UI.Show();
+            isFinished = true;
         };
 
         UI.Ascended += () =>
@@ -32,6 +41,7 @@ public class Game : MonoBehaviour
             UI.Hide();
             RespawnPoint.Kill().onComplete += () =>
             {
+                isFinished = false;
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             };
         };
@@ -39,6 +49,9 @@ public class Game : MonoBehaviour
         {
             Application.Quit();
         };
+
+        pauseAction = InputSystem.actions.FindAction("Pause");
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Start()
@@ -46,11 +59,36 @@ public class Game : MonoBehaviour
         Spawn();
     }
 
-    public void Spawn() {
+    public void Spawn()
+    {
         RespawnPoint.Spawn();
     }
 
-    public void KillAndRespawn() {
+    public void KillAndRespawn()
+    {
         RespawnPoint.Respawn();
+    }
+
+    public void PlayGlobalSound(AudioClip clip)
+    {
+        audioSource.clip = clip;
+        audioSource.Play();
+    }
+
+    private void Update()
+    {
+        if (pauseAction.WasPressedThisFrame() && !isFinished)
+        {
+            isPaused = !isPaused;
+            if (isPaused)
+            {
+                UI.HeaderText = UI.PauseText;
+                UI.Show();
+            }
+            else
+            {
+                UI.Hide();
+            }
+        }
     }
 }

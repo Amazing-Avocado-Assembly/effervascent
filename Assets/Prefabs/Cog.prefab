@@ -97,6 +97,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4295983085564959758}
   - component: {fileID: 5373969619088179966}
+  - component: {fileID: 2977670201294042939}
   m_Layer: 0
   m_Name: Cog
   m_TagString: Untagged
@@ -133,3 +134,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   state: 0
+--- !u!81 &2977670201294042939
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4403945810125905478}
+  m_Enabled: 1

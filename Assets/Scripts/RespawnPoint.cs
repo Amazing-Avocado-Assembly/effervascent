@@ -14,20 +14,23 @@ public class RespawnPoint : MonoBehaviour
 
     public void Respawn()
     {
-        Kill().onComplete += () => {    
+        Kill().onComplete += () =>
+        {
             // Spawn a new cog
             Spawn();
         };
     }
 
-    public Tween Kill() {
+    public Tween Kill()
+    {
         // Unparent the cog
         cog.transform.SetParent(null);
         // Kill the player
         Destroy(Player.gameObject);
         // Tween the cog down from the screen
         Tween t = cog.transform.DOMoveY(-10, 1.0f).SetEase(Ease.InQuad);
-        t.onComplete += () => {   
+        t.onComplete += () =>
+        {
             // Destroy the cog
             Destroy(cog.gameObject);
         };
@@ -38,18 +41,20 @@ public class RespawnPoint : MonoBehaviour
     {
         // Instantiate Player at the spawn point
         Player = Instantiate(playerPrefab, spawnPoint.position, Quaternion.identity);
-        if (playerFollowCamera != null) {
+        if (playerFollowCamera != null)
+        {
             playerFollowCamera.Follow = Player.transform;
         }
         Player.RB.bodyType = RigidbodyType2D.Static;
 
         Bubble bubble = Player.GetComponentInChildren<Bubble>();
-        bubble.volume = 0;        
+        bubble.volume = 0;
 
         // Instantiate Cog above the screen and spawn point
         cog = Instantiate(cogPrefab, spawnPoint.position + new Vector3(0, 10, 0), Quaternion.identity);
         // Tween the cog down to the spawn point
-        cog.transform.DOMoveY(spawnPoint.position.y, 1.0f).SetEase(Ease.InQuad).onComplete += () => {
+        cog.transform.DOMoveY(spawnPoint.position.y, 1.0f).SetEase(Ease.InQuad).onComplete += () =>
+        {
             // Set cog's state to START
             cog.state = Cog.State.START;
 
@@ -58,7 +63,8 @@ public class RespawnPoint : MonoBehaviour
 
             Tween t = bubble.DOVolume(bubble.initialVolume, 2.0f);
             t.SetDelay(2f);
-            t.onComplete += () => {
+            t.onComplete += () =>
+            {
                 Player.RB.bodyType = RigidbodyType2D.Dynamic;
                 // Add up velocity to the player
                 Player.RB.linearVelocity = new Vector2(0, 1);
