@@ -39,7 +39,7 @@ public class Player : MonoBehaviour
 
                 projectileDirection = direction;
 
-                projectileObject.transform.localPosition = (Bubble.GetRadius() + projectileObject.GetComponent<Bubble>().GetRadius() + projectileOffset) * direction;
+                projectileObject.transform.localPosition = (Bubble.GetRadius() + projectileObject.GetComponentInChildren<Bubble>().GetRadius() + projectileOffset) * direction;
                 
                 projectile = projectileObject.GetComponent<Projectile>();
             }
