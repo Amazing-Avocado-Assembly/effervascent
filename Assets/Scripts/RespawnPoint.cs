@@ -21,7 +21,8 @@ public class RespawnPoint : MonoBehaviour
             Destroy(Player.gameObject);
         }
         Player = Instantiate(playerPrefab, spawnPoint.position, Quaternion.identity);
-        if (playerFollowCamera != null)
+        if (playerFollowCamera != null) {
             playerFollowCamera.Follow = Player.transform;
+        }
     }
 }
