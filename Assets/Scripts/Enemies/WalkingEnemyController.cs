@@ -4,11 +4,13 @@ using NaughtyAttributes;
 public class WalkingEnemyController : EnemyController
 {
     [SerializeField] float width = .5f;
-    [SerializeField] float groundDistance = .1f;
+    [SerializeField]
+    float groundDistance = .1f;
+    [SerializeField] float wallCheckOffset = .2f;
     [SerializeField] float wallDistance = .05f;
     [SerializeField] float speed = 1.0f;
     [SerializeField, Layer] int groundLayer;
-    Direction currentDirection = Direction.Left;
+    [ShowNonSerializedField] Direction currentDirection = Direction.Left;
 
     void FixedUpdate()
     {
@@ -24,15 +26,16 @@ public class WalkingEnemyController : EnemyController
             currentDirection = currentDirection.Invert();
         }
         // Keep vertical velocity, set vertical velocity based on the current direction
-        rb.linearVelocity = new Vector2((int)currentDirection * speed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(transform.right.x * (int)currentDirection * speed, rb.linearVelocity.y);
     }
 
     void OnDrawGizmos()
     {
-        Vector3 leftPosition = transform.position + Vector3.left * width / 2;
-        Vector3 rightPosition = transform.position + Vector3.right * width / 2;
-        
-        Vector3 groundOffset = Vector3.down * groundDistance;
+        // Ground check
+        Vector3 leftPosition = transform.position + transform.right * (int)Direction.Left * width / 2;
+        Vector3 rightPosition = transform.position + transform.right * (int)Direction.Right * width / 2;
+
+        Vector3 groundOffset = transform.up * -groundDistance;
         Gizmos.color = CheckGround(Direction.None) ? Color.green : Color.red;
         Gizmos.DrawLine(transform.position, transform.position + groundOffset);
         Gizmos.color = CheckGround(Direction.Left) ? Color.green : Color.red;
@@ -40,7 +43,10 @@ public class WalkingEnemyController : EnemyController
         Gizmos.color = CheckGround(Direction.Right) ? Color.green : Color.red;
         Gizmos.DrawLine(rightPosition, rightPosition + groundOffset);
 
-        Vector3 wallOffset = Vector3.right * wallDistance;
+        leftPosition = transform.position + transform.right * (int)Direction.Left * (width / 2 - 0.01f) + transform.up * wallCheckOffset;
+        rightPosition = transform.position + transform.right * (int)Direction.Right * (width / 2 - 0.01f) + transform.up * wallCheckOffset;
+
+        Vector3 wallOffset = transform.right * wallDistance;
         Gizmos.color = CheckWall(Direction.Left) ? Color.green : Color.red;
         Gizmos.DrawLine(leftPosition, leftPosition - wallOffset);
         Gizmos.color = CheckWall(Direction.Right) ? Color.green : Color.red;
@@ -53,8 +59,8 @@ public class WalkingEnemyController : EnemyController
     bool CheckGround(Direction direction)
     {
         return Physics2D.Raycast(
-            transform.position + new Vector3((int)direction * width / 2, 0.01f),
-            Vector2.down,
+            transform.position + transform.right * (int)direction * width / 2 - transform.up * 0.01f,
+            -transform.up,
             groundDistance + 0.01f,
             1 << groundLayer);
     }
@@ -62,8 +68,8 @@ public class WalkingEnemyController : EnemyController
     bool CheckWall(Direction direction)
     {
         return Physics2D.Raycast(
-            transform.position + new Vector3((int)direction * (width / 2 - 0.01f), 0.01f),
-            Vector2.right * (int)direction,
+            transform.position + transform.right * (int)direction * (width / 2 - 0.01f) + transform.up * wallCheckOffset,
+            transform.right * (int)direction,
             wallDistance + 0.01f,
             1 << groundLayer);
     }
