@@ -42,7 +42,7 @@ public class FlyingEnemyController : EnemyController
         }
 
         acceleration = Vector2.ClampMagnitude(acceleration, maxAcceleration);
-        rb.linearVelocity += acceleration * Time.fixedDeltaTime;
+        rb.linearVelocity = Vector2.ClampMagnitude(rb.linearVelocity + acceleration * Time.fixedDeltaTime, speed);
     }
 
     void OnTriggerEnter2D(Collider2D other)
