@@ -1,17 +1,25 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Player : MonoBehaviour
 {
     public Bubble Bubble { get; private set; }
+    public Rigidbody2D RB { get; private set; }
+
     public Transform projectilePrefab;
+    public Transform indicator;
     public float pushForce = 10;
     public float volumePerSecond = 10f;
 
     private Projectile projectile = null;
+    private Vector3 projectileDirection;
+
+    private static readonly float projectileOffset = 0.01f;
 
     void OnEnable()
     {
         Bubble = GetComponentInChildren<Bubble>();
+        RB = GetComponent<Rigidbody2D>();
     }
 
     void Update()
@@ -29,7 +37,9 @@ public class Player : MonoBehaviour
                 direction.z = 0;
                 direction.Normalize();
 
-                projectileObject.transform.localPosition = (Bubble.GetRadius() + projectileObject.GetComponent<Bubble>().GetRadius() + 0.05f) * direction;
+                projectileDirection = direction;
+
+                projectileObject.transform.localPosition = (Bubble.GetRadius() + projectileObject.GetComponent<Bubble>().GetRadius() + projectileOffset) * direction;
                 
                 projectile = projectileObject.GetComponent<Projectile>();
             }
@@ -42,11 +52,7 @@ public class Player : MonoBehaviour
                 Bubble.volume -= Time.deltaTime * volumePerSecond;
                 projectile.Bubble.volume += Time.deltaTime * volumePerSecond;
 
-                Vector3 direction = projectile.transform.position - transform.position;
-                direction.z = 0;
-                direction.Normalize();
-
-                projectile.transform.localPosition = (Bubble.GetRadius() + projectile.Bubble.GetRadius() + 0.05f) * direction;
+                projectile.transform.localPosition = (Bubble.GetRadius() + projectile.Bubble.GetRadius() + projectileOffset) * projectileDirection;
             }
         }
         // If the player let's go of the mouse button, release the projectile
@@ -55,13 +61,34 @@ public class Player : MonoBehaviour
             if (projectile != null)
             {
                 projectile.transform.parent = null;
-                projectile.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
 
+                // Add rigidbody to the projectile
+                Rigidbody2D projectileRb = projectile.transform.AddComponent<Rigidbody2D>();
+                projectileRb.gravityScale = RB.gravityScale;
+                projectileRb.linearDamping = RB.linearDamping;
+                projectileRb.freezeRotation = true;
+                projectileRb.sharedMaterial = RB.sharedMaterial;
+                projectile.Bubble.Rb = projectileRb;
+
+                // Apply forces to the bubbles
                 projectile.Bubble.ApplyForce(Bubble, pushForce);
                 Bubble.ApplyForce(projectile.Bubble, pushForce);
 
                 projectile = null;
             }
+        }
+
+        // If the mouse is not pressed, update indicator to be oriented towards the mouse
+        if (!Input.GetMouseButton(0))
+        {
+            Vector3 mousePositionWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            Vector3 directionIndicator = mousePositionWorld - transform.position;
+            directionIndicator.z = 0;
+            directionIndicator.Normalize();
+
+            float angle = Mathf.Atan2(directionIndicator.y, directionIndicator.x) * Mathf.Rad2Deg - 90;
+            indicator.rotation = Quaternion.Euler(0, 0, angle);
+            indicator.localScale = Bubble.transform.localScale;
         }
     }
 }

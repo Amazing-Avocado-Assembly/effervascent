@@ -9,7 +9,7 @@ public class Bubble : MonoBehaviour
 
     public float volume;
 
-    private Rigidbody2D rb;
+    public Rigidbody2D Rb { get; set; }
 
     private float VolumeToRadius(float volume)
     {
@@ -30,14 +30,17 @@ public class Bubble : MonoBehaviour
     private void OnEnable()
     {
         volume = initialVolume;
-        rb = GetComponentInParent<Rigidbody2D>();
+        Rb = GetComponentInParent<Rigidbody2D>();
+
+        float radius = GetRadius();
+        transform.localScale = new Vector3(radius * 2, radius * 2, radius * 2);
     }
 
     private void Update()
     {
         float radius = GetRadius();
         transform.localScale = new Vector3(radius * 2, radius * 2, radius * 2);
-        rb.mass = GetVolume();
+        if (Rb != null) Rb.mass = GetVolume();
     }
 
     public void ApplyForce(Bubble bubble, float force)
@@ -49,9 +52,8 @@ public class Bubble : MonoBehaviour
         float otherVolume = bubble.GetVolume();
 
         float multiplier = otherVolume * force / (myVolume + otherVolume);
-        Debug.Log(multiplier);
 
         // Apply force to the bubble
-        rb.linearVelocity += direction * multiplier;
+        Rb.linearVelocity += direction * multiplier;
     }
 }

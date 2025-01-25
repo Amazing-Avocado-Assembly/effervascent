@@ -7,7 +7,7 @@ public class Projectile : MonoBehaviour
 
     void OnEnable()
     {
-        Bubble = GetComponentInChildren<Bubble>();    
+        Bubble = GetComponentInChildren<Bubble>();
     }
 
     void Update()
