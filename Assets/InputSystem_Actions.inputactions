@@ -54,7 +54,7 @@
                     "name": "Jump",
                     "type": "Button",
                     "id": "f1ba0d36-48eb-4cd5-b651-1c94a6531f70",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -94,15 +94,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
-                },
-                {
-                    "name": "MousePosition",
-                    "type": "Value",
-                    "id": "21bf09e8-3dbc-40ea-9f91-e619cd576fa8",
-                    "expectedControlType": "Vector2",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -241,7 +232,7 @@
                 {
                     "name": "",
                     "id": "c1f7a91b-d0fd-4a62-997e-7fb9b69bf235",
-                    "path": "<Gamepad>/rightStick",
+                    "path": "<Gamepad>/leftStick",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Gamepad",
@@ -251,11 +242,11 @@
                 },
                 {
                     "name": "",
-                    "id": "8c8e490b-c610-4785-884f-f04217b23ca4",
-                    "path": "<Pointer>/delta",
+                    "id": "26865260-c8dc-4763-a4e5-037e71d279b0",
+                    "path": "<Mouse>/delta",
                     "interactions": "",
-                    "processors": "",
-                    "groups": ";Keyboard&Mouse;Touch",
+                    "processors": "MouseToGamepadInput",
+                    "groups": ";Keyboard&Mouse",
                     "action": "Look",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -333,6 +324,17 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c7c3de69-5238-40c8-8679-194c0d7a2fd5",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Gamepad",
                     "action": "Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -515,12 +517,23 @@
                 },
                 {
                     "name": "",
-                    "id": "8e48d5ff-83c0-4391-a954-e4ab46848c3b",
-                    "path": "<Mouse>/position",
+                    "id": "9eb0c997-e2af-47a9-ac73-5d351cca0440",
+                    "path": "<Gamepad>/select",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
-                    "action": "MousePosition",
+                    "groups": ";Gamepad",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6c08088b-220e-4352-940e-f335d356555a",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Gamepad",
+                    "action": "Pause",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
