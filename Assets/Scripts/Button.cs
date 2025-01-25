@@ -14,13 +14,19 @@ public class Button : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("Projectile"))
         {
+            if (TryGetComponent<AudioSource>(out var buttonSound))
+            {
+                buttonSound.Play();
+            }
+
             // Tween the button to the pressed position
             sprite.DOLocalMoveY(0f, 0.5f).SetEase(Ease.OutBounce);
             // Disable collider
             GetComponent<Collider2D>().enabled = false;
 
             // Tween the door to the open position
-            foreach (Transform door in doors) {
+            foreach (Transform door in doors)
+            {
                 if (door.TryGetComponent<AudioSource>(out var audioSource))
                 {
                     audioSource.Play();
@@ -29,7 +35,8 @@ public class Button : MonoBehaviour
             }
 
             // If the line renderer is set, change the material color to white
-            if (lineRenderer != null) {
+            if (lineRenderer != null)
+            {
                 lineRenderer.material = activeLineMaterial;
             }
         }
