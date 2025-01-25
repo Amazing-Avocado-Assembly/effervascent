@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: b8e18bc95f31f9e41875356a40e15f78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1573227424462483421
+    second: wall-corner-1024_0
+  - first:
+      213: 6913771119645804835
+    second: wall-corner-1024_1
+  - first:
+      213: -8304789931725932772
+    second: wall-corner-1024_2
+  - first:
+      213: 5105172511256595079
+    second: wall-corner-1024_3
+  - first:
+      213: -2102776097203307038
+    second: wall-corner-1024_4
+  - first:
+      213: 1492312044581471853
+    second: wall-corner-1024_5
+  - first:
+      213: -4419283864768077342
+    second: wall-corner-1024_6
+  - first:
+      213: -8451481423176080723
+    second: wall-corner-1024_7
+  - first:
+      213: 5700575685354772062
+    second: wall-corner-1024_8
+  - first:
+      213: 4933693647140081632
+    second: wall-corner-1024_9
+  - first:
+      213: 3792703184715526565
+    second: wall-corner-1024_10
+  - first:
+      213: 1290125369119338762
+    second: wall-corner-1024_11
+  - first:
+      213: -1381400343886324805
+    second: wall-corner-1024_12
+  - first:
+      213: 6530375181552029636
+    second: wall-corner-1024_13
+  - first:
+      213: 5891262476725509030
+    second: wall-corner-1024_14
+  - first:
+      213: 1696781809294075401
+    second: wall-corner-1024_15
+  - first:
+      213: 2649915999307882342
+    second: wall-corner-1024_16
+  - first:
+      213: 181776603870869846
+    second: wall-corner-1024_17
+  - first:
+      213: 2006856571467384694
+    second: wall-corner-1024_18
+  - first:
+      213: -5581937786229408729
+    second: wall-corner-1024_19
+  - first:
+      213: -1985952040956486947
+    second: wall-corner-1024_20
+  - first:
+      213: 4105063237733875768
+    second: wall-corner-1024_21
+  - first:
+      213: 4125943349614808972
+    second: wall-corner-1024_22
+  - first:
+      213: 658400910698335290
+    second: wall-corner-1024_23
+  - first:
+      213: 1816513054044241144
+    second: wall-corner-1024_24
+  - first:
+      213: 1730488515691775904
+    second: wall-corner-1024_25
+  - first:
+      213: 4242286308806203260
+    second: wall-corner-1024_26
+  - first:
+      213: 8662258950754914537
+    second: wall-corner-1024_27
+  - first:
+      213: -7106195021195413699
+    second: wall-corner-1024_28
+  - first:
+      213: 7630923978371319496
+    second: wall-corner-1024_29
+  - first:
+      213: -1473044420008145147
+    second: wall-corner-1024_30
+  - first:
+      213: 7093858371109438877
+    second: wall-corner-1024_31
+  - first:
+      213: 5698700274312752063
+    second: wall-corner-1024_32
+  - first:
+      213: -4270441918368544474
+    second: wall-corner-1024_33
+  - first:
+      213: -3976580516883391689
+    second: wall-corner-1024_34
+  - first:
+      213: -1521044962910014232
+    second: wall-corner-1024_35
+  - first:
+      213: -2494565390759989257
+    second: wall-corner-1024_36
+  - first:
+      213: -2105851124904573848
+    second: wall-corner-1024_37
+  - first:
+      213: -218242804832254770
+    second: wall-corner-1024_38
+  - first:
+      213: -617433550204936379
+    second: wall-corner-1024_39
+  - first:
+      213: 7076257559731362765
+    second: wall-corner-1024_40
+  - first:
+      213: 5051099823743593206
+    second: wall-corner-1024_41
+  - first:
+      213: 2514340294397430149
+    second: wall-corner-1024_42
+  - first:
+      213: -4586532630869218478
+    second: wall-corner-1024_43
+  - first:
+      213: -3865236757662697910
+    second: wall-corner-1024_44
+  - first:
+      213: 2546832160987949966
+    second: wall-corner-1024_45
+  - first:
+      213: 7659848968248685972
+    second: wall-corner-1024_46
+  - first:
+      213: 5982430022398076440
+    second: wall-corner-1024_47
+  - first:
+      213: 3293236457870534388
+    second: wall-corner-1024_48
+  - first:
+      213: 4730036508978001416
+    second: wall-corner-1024_49
+  - first:
+      213: 7735072281781365626
+    second: wall-corner-1024_50
+  - first:
+      213: -7363089325368442658
+    second: wall-corner-1024_51
+  - first:
+      213: 2502478596408252735
+    second: wall-corner-1024_52
+  - first:
+      213: -3339779630200522844
+    second: wall-corner-1024_53
+  - first:
+      213: 3543673512549721564
+    second: wall-corner-1024_54
+  - first:
+      213: 1602449089563550001
+    second: wall-corner-1024_55
+  - first:
+      213: 4969437143279395809
+    second: wall-corner-1024_56
+  - first:
+      213: 8138489325475442589
+    second: wall-corner-1024_57
+  - first:
+      213: -5580433109538811580
+    second: wall-corner-1024_58
+  - first:
+      213: 8082894867366390751
+    second: wall-corner-1024_59
+  - first:
+      213: -4760985864906986146
+    second: wall-corner-1024_60
+  - first:
+      213: -2024595119292587426
+    second: wall-corner-1024_61
+  - first:
+      213: 1633854623760129905
+    second: wall-corner-1024_62
+  - first:
+      213: 2555517311578274005
+    second: wall-corner-1024_63
+  - first:
+      213: -7751118547042622343
+    second: wall-corner-1024_64
+  - first:
+      213: 160728922130860002
+    second: wall-corner-1024_65
+  - first:
+      213: -153366757841430998
+    second: wall-corner-1024_66
+  - first:
+      213: -4519449015030174547
+    second: wall-corner-1024_67
+  - first:
+      213: -2141225138269000129
+    second: wall-corner-1024_68
+  - first:
+      213: -8190426069366475081
+    second: wall-corner-1024_69
+  - first:
+      213: -5193325615437911631
+    second: wall-corner-1024_70
+  - first:
+      213: -8627569275289202305
+    second: wall-corner-1024_71
+  - first:
+      213: -2274573642580469239
+    second: wall-corner-1024_72
+  - first:
+      213: 997367749892921748
+    second: wall-corner-1024_73
+  - first:
+      213: -6412078178158882998
+    second: wall-corner-1024_74
+  - first:
+      213: 4470009986871911733
+    second: wall-corner-1024_75
+  - first:
+      213: 3583498632547407102
+    second: wall-corner-1024_76
+  - first:
+      213: -2262939327287902978
+    second: wall-corner-1024_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wall-corner-1024_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 892
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320d2062ef5ca2ae0800000000000000
+      internalID: -1573227424462483421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 819
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c7dcd336a2ff50800000000000000
+      internalID: 6913771119645804835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 808
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c173c39ce857fbc80800000000000000
+      internalID: -8304789931725932772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 741
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac982c95739d640800000000000000
+      internalID: 5105172511256595079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 692
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edb304d74071d2e0800000000000000
+      internalID: -2102776097203307038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66c05fd5e1c5b410800000000000000
+      internalID: 1492312044581471853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 683
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e122e64dbc8ba2c0800000000000000
+      internalID: -4419283864768077342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 689
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2e6c96c6e46ba80800000000000000
+      internalID: -8451481423176080723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 682
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56dcc402638c1f40800000000000000
+      internalID: 5700575685354772062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 681
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efc2647b30087440800000000000000
+      internalID: 4933693647140081632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 672
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1367fa37362a430800000000000000
+      internalID: 3792703184715526565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 675
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01f316103277e110800000000000000
+      internalID: 1290125369119338762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 679
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb9d0ac4b744dce0800000000000000
+      internalID: -1381400343886324805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 671
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf8f62d0ad80aa50800000000000000
+      internalID: 6530375181552029636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 668
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abdfc36208f1c150800000000000000
+      internalID: 5891262476725509030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906615cc01e2c8710800000000000000
+      internalID: 1696781809294075401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 660
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fde5fbf8466c420800000000000000
+      internalID: 2649915999307882342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659333eabdcc58200800000000000000
+      internalID: 181776603870869846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 253
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677c8714b69c9db10800000000000000
+      internalID: 2006856571467384694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 259
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c37756829f882b0800000000000000
+      internalID: -5581937786229408729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 262
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda93d9042b7074e0800000000000000
+      internalID: -1985952040956486947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_21
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83084a1e34d18f830800000000000000
+      internalID: 4105063237733875768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 257
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f0d25cd9b424930800000000000000
+      internalID: 4125943349614808972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 252
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc7f1d32c132900800000000000000
+      internalID: 658400910698335290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_24
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 257
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcba249ffc853910800000000000000
+      internalID: 1816513054044241144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 260
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a783b1f22ee30810800000000000000
+      internalID: 1730488515691775904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_26
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 243
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7795e7dbe0afda30800000000000000
+      internalID: 4242286308806203260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0d1300f96863870800000000000000
+      internalID: 8662258950754914537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 250
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377ff84749b16d90800000000000000
+      internalID: -7106195021195413699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_29
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 257
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c645de8dec76e960800000000000000
+      internalID: 7630923978371319496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 258
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f0b0f87e1be8be0800000000000000
+      internalID: -1473044420008145147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 257
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95c8e88a92727260800000000000000
+      internalID: 7093858371109438877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_32
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 255
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb25dbd4b9d51f40800000000000000
+      internalID: 5698700274312752063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_33
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 259
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62984b573b75cb4c0800000000000000
+      internalID: -4270441918368544474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 253
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b1d66b61950d8c0800000000000000
+      internalID: -3976580516883391689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 257
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4f9524aa924eae0800000000000000
+      internalID: -1521044962910014232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_36
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 254
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff64ce6ef5816dd0800000000000000
+      internalID: -2494565390759989257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_37
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 257
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864c4362f8386c2e0800000000000000
+      internalID: -2105851124904573848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_38
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 244
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec440374355a8fcf0800000000000000
+      internalID: -218242804832254770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_39
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 252
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f50a7157f6e67f0800000000000000
+      internalID: -617433550204936379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_40
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 254
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbd5fa42cae33260800000000000000
+      internalID: 7076257559731362765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_41
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 240
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa664f178c191640800000000000000
+      internalID: 5051099823743593206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_42
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 262
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589820c1d2bb4e220800000000000000
+      internalID: 2514340294397430149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_43
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b6d4a6fdc5950c0800000000000000
+      internalID: -4586532630869218478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_44
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 257
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a467bb6d5abeb5ac0800000000000000
+      internalID: -3865236757662697910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 254
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b2a325b5a285320800000000000000
+      internalID: 2546832160987949966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_46
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 256
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495fa919d004d4a60800000000000000
+      internalID: 7659848968248685972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 248
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8166baab86cd50350800000000000000
+      internalID: 5982430022398076440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 245
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62db03c1de3bd20800000000000000
+      internalID: 3293236457870534388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_49
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8063344e42774a140800000000000000
+      internalID: 4730036508978001416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b6c83124f785b60800000000000000
+      internalID: 7735072281781365626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 251
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed081f7154d01d990800000000000000
+      internalID: -7363089325368442658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_52
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 246
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399ee456079ab220800000000000000
+      internalID: 2502478596408252735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_53
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 241
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ffc90f18b6a1d0800000000000000
+      internalID: -3339779630200522844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_54
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 229
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5ac73d848ad2130800000000000000
+      internalID: 3543673512549721564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1316512f4fa0d3610800000000000000
+      internalID: 1602449089563550001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 244
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3eccaa0ccf6f440800000000000000
+      internalID: 4969437143279395809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_57
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 247
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fa5450ce8b1f070800000000000000
+      internalID: 8138489325475442589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 245
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4415c1d37a15e82b0800000000000000
+      internalID: -5580433109538811580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_59
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 250
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba33e8e063c2070800000000000000
+      internalID: 8082894867366390751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_60
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2095a4949dedb0800000000000000
+      internalID: -4760985864906986146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_61
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 247
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52639c377137e3e0800000000000000
+      internalID: -2024595119292587426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_62
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 239
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f1adfaf1e9ca610800000000000000
+      internalID: 1633854623760129905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_63
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 251
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8fbf58475077320800000000000000
+      internalID: 2555517311578274005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_64
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 241
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9742597afbe7e6490800000000000000
+      internalID: -7751118547042622343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_65
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 243
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7cdb46a160b3200800000000000000
+      internalID: 160728922130860002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26128e0fb12fddf0800000000000000
+      internalID: -153366757841430998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_67
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 246
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac23aed011b741c0800000000000000
+      internalID: -4519449015030174547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_68
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ee659d417d842e0800000000000000
+      internalID: -2141225138269000129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_69
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 234
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6ff4872e2c55e80800000000000000
+      internalID: -8190426069366475081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9e2e04ed99de7b0800000000000000
+      internalID: -5193325615437911631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_71
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7110577477b44880800000000000000
+      internalID: -8627569275289202305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_72
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 235
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5682c2571f60e0800000000000000
+      internalID: -2274573642580469239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_73
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 236
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4995cca2fac57dd00800000000000000
+      internalID: 997367749892921748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_74
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 230
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f4ece9ed8b307a0800000000000000
+      internalID: -6412078178158882998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_75
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 234
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535e2f1666aa80e30800000000000000
+      internalID: 4470009986871911733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_76
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 213
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4161625052bb130800000000000000
+      internalID: 3583498632547407102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-corner-1024_77
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 216
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc3eb0ebac6890e0800000000000000
+      internalID: -2262939327287902978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
