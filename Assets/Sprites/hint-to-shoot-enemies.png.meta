@@ -358,9 +358,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -410,6 +410,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2738,7 +2751,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -2747,7 +2760,112 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hint-to-shoot-enemies_0: -5539955984770259997
+      hint-to-shoot-enemies_1: 58395763194898290
+      hint-to-shoot-enemies_10: -8463538930468219072
+      hint-to-shoot-enemies_100: 3066699226797318532
+      hint-to-shoot-enemies_101: 5128526580046229476
+      hint-to-shoot-enemies_102: 2924683526244497071
+      hint-to-shoot-enemies_103: 7403874219903886584
+      hint-to-shoot-enemies_104: -8797700829215806668
+      hint-to-shoot-enemies_11: 1895358670753435919
+      hint-to-shoot-enemies_12: -2558958396110679141
+      hint-to-shoot-enemies_13: 4623120822899235719
+      hint-to-shoot-enemies_14: -7964309187137183182
+      hint-to-shoot-enemies_15: -3352695509935408041
+      hint-to-shoot-enemies_16: 1373854044312358339
+      hint-to-shoot-enemies_17: 18588377146473190
+      hint-to-shoot-enemies_18: 3147090691042303845
+      hint-to-shoot-enemies_19: -1703335604188579981
+      hint-to-shoot-enemies_2: -4957140860811348897
+      hint-to-shoot-enemies_20: -8870276224192447708
+      hint-to-shoot-enemies_21: -986092768957569235
+      hint-to-shoot-enemies_22: 7404827723179628965
+      hint-to-shoot-enemies_23: -5922951881162388232
+      hint-to-shoot-enemies_24: -5044184362322893434
+      hint-to-shoot-enemies_25: -7655575163220897002
+      hint-to-shoot-enemies_26: 6808355079299449183
+      hint-to-shoot-enemies_27: -896060857213570114
+      hint-to-shoot-enemies_28: -8386849438247284687
+      hint-to-shoot-enemies_29: -723257240445649038
+      hint-to-shoot-enemies_3: 1401020023583846873
+      hint-to-shoot-enemies_30: -3041417293199107257
+      hint-to-shoot-enemies_31: -4660181127500307534
+      hint-to-shoot-enemies_32: 1345153252042365923
+      hint-to-shoot-enemies_33: 201150488932786904
+      hint-to-shoot-enemies_34: 6010783851737346108
+      hint-to-shoot-enemies_35: 9194516592352002623
+      hint-to-shoot-enemies_36: -6310141096755207860
+      hint-to-shoot-enemies_37: 4486248840691939481
+      hint-to-shoot-enemies_38: -1902137238241804877
+      hint-to-shoot-enemies_39: -904050383279219516
+      hint-to-shoot-enemies_4: 2153631549062367307
+      hint-to-shoot-enemies_40: -3509463149065386884
+      hint-to-shoot-enemies_41: 8450927555710205860
+      hint-to-shoot-enemies_42: 611647474175372794
+      hint-to-shoot-enemies_43: -5144905795522639646
+      hint-to-shoot-enemies_44: 432964824011189514
+      hint-to-shoot-enemies_45: -2841843790976563799
+      hint-to-shoot-enemies_46: 7318489244811189493
+      hint-to-shoot-enemies_47: 5191557629418638068
+      hint-to-shoot-enemies_48: 766996555840739612
+      hint-to-shoot-enemies_49: 5570273775430276384
+      hint-to-shoot-enemies_5: 6855040637205993468
+      hint-to-shoot-enemies_50: -3195172330160184563
+      hint-to-shoot-enemies_51: -9152960345211904615
+      hint-to-shoot-enemies_52: 2915217588926422220
+      hint-to-shoot-enemies_53: 3777408067721069896
+      hint-to-shoot-enemies_54: -1828052326655429746
+      hint-to-shoot-enemies_55: 2292995853667451851
+      hint-to-shoot-enemies_56: -8372599272480948988
+      hint-to-shoot-enemies_57: -1200871082164657230
+      hint-to-shoot-enemies_58: 2832680660575651164
+      hint-to-shoot-enemies_59: -6431823301822527929
+      hint-to-shoot-enemies_6: 3281101528330953552
+      hint-to-shoot-enemies_60: 7007512185911894742
+      hint-to-shoot-enemies_61: 7741494822481657773
+      hint-to-shoot-enemies_62: -9014062417917014121
+      hint-to-shoot-enemies_63: -7654339209162230809
+      hint-to-shoot-enemies_64: -1695965086680217809
+      hint-to-shoot-enemies_65: 5672881396502933301
+      hint-to-shoot-enemies_66: 5536677036532973975
+      hint-to-shoot-enemies_67: 7598780537797532686
+      hint-to-shoot-enemies_68: 3409589530646056774
+      hint-to-shoot-enemies_69: 1517765227525033935
+      hint-to-shoot-enemies_7: 3088246061875193677
+      hint-to-shoot-enemies_70: 7066669446887508140
+      hint-to-shoot-enemies_71: 3025395044601447664
+      hint-to-shoot-enemies_72: -7010589865621588422
+      hint-to-shoot-enemies_73: 2592598900316217295
+      hint-to-shoot-enemies_74: 9145488601185171852
+      hint-to-shoot-enemies_75: -1866978827132962902
+      hint-to-shoot-enemies_76: -7881549575395546122
+      hint-to-shoot-enemies_77: -3646080518706662324
+      hint-to-shoot-enemies_78: 8101387784563823787
+      hint-to-shoot-enemies_79: -2172343488592017030
+      hint-to-shoot-enemies_8: -7401039917031003560
+      hint-to-shoot-enemies_80: 3985715011973831940
+      hint-to-shoot-enemies_81: 8479027614242018800
+      hint-to-shoot-enemies_82: 2647580273601213042
+      hint-to-shoot-enemies_83: -7818612693427730848
+      hint-to-shoot-enemies_84: -6784910401204611633
+      hint-to-shoot-enemies_85: 6638428487012582310
+      hint-to-shoot-enemies_86: -212369010079002169
+      hint-to-shoot-enemies_87: 8473800150416153782
+      hint-to-shoot-enemies_88: -7929694232738516373
+      hint-to-shoot-enemies_89: 2796842949863576660
+      hint-to-shoot-enemies_9: -6905238243358493819
+      hint-to-shoot-enemies_90: -3544312657857274449
+      hint-to-shoot-enemies_91: -6693954304742870676
+      hint-to-shoot-enemies_92: -5486934904114578981
+      hint-to-shoot-enemies_93: 8172722285600058075
+      hint-to-shoot-enemies_94: 3795160137193687034
+      hint-to-shoot-enemies_95: -1423414929585844137
+      hint-to-shoot-enemies_96: 6811362009007707499
+      hint-to-shoot-enemies_97: -3471574149299562920
+      hint-to-shoot-enemies_98: 5670650964687428337
+      hint-to-shoot-enemies_99: 5018064322279485431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
