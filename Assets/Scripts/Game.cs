@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 
 public class Game : MonoBehaviour
@@ -15,6 +16,7 @@ public class Game : MonoBehaviour
     private InputAction pauseAction;
     private bool isPaused = false;
     private bool isFinished = false;
+    private AudioSource audioSource;
 
     private void Awake()
     {
@@ -49,6 +51,7 @@ public class Game : MonoBehaviour
         };
 
         pauseAction = InputSystem.actions.FindAction("Pause");
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Start()
@@ -64,6 +67,12 @@ public class Game : MonoBehaviour
     public void KillAndRespawn()
     {
         RespawnPoint.Respawn();
+    }
+
+    public void PlayGlobalSound(AudioClip clip)
+    {
+        audioSource.clip = clip;
+        audioSource.Play();
     }
 
     private void Update()

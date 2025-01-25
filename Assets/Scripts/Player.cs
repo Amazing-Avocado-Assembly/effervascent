@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
 
     public Transform projectilePrefab;
     public Transform indicator;
+    public AudioClip popSound;
     public float pushForce = 10;
     public float volumePerSecond = 10f;
     public float maxVolume = 200;
@@ -98,6 +99,7 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
+            Game.Instance.PlayGlobalSound(popSound);
             Game.Instance.KillAndRespawn();
         }
     }

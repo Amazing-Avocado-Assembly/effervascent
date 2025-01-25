@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wall-ball-1024_0: 9088812134568666286
+      wall-ball-1024_1: -6503692667559758623
+      wall-ball-1024_2: 5043655956891684997
+      wall-ball-1024_3: -2324983935359024455
+      wall-ball-1024_4: 1579325062361567036
+      wall-ball-1024_5: 3059002202365428312
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
