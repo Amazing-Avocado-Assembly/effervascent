@@ -18,7 +18,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4235120909226094393
 RectTransform:
   m_ObjectHideFlags: 0
@@ -37,7 +37,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.4}
   m_AnchorMax: {x: 0.5, y: 0.4}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 360, y: 42}
+  m_SizeDelta: {x: 360, y: 64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3345262782141724468
 CanvasRenderer:
@@ -170,6 +170,8 @@ MonoBehaviour:
   AscendButton: {fileID: 3417160906050654610}
   EscapeButton: {fileID: 4358512683058925917}
   Canvas: {fileID: 7136898900379684463}
+  Header: {fileID: 6296844179418511625}
+  HeaderText: Paused
 --- !u!1 &1596598199856803645
 GameObject:
   m_ObjectHideFlags: 0
@@ -418,7 +420,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 360, y: 42}
+  m_SizeDelta: {x: 360, y: 64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6182113211106490205
 CanvasRenderer:
@@ -514,7 +516,7 @@ GameObject:
   - component: {fileID: 1368968716440047334}
   - component: {fileID: 2722031412776308705}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: AscendText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -650,7 +652,7 @@ GameObject:
   - component: {fileID: 3409114155863675478}
   - component: {fileID: 6912207812415531920}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: EscapeText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -167,4 +167,5 @@ MonoBehaviour:
   spawnPoint: {fileID: 2993609042391099420}
   playerPrefab: {fileID: 7684070587439301386, guid: 92301249b484f0945a004b4704188ce2, type: 3}
   playerFollowCamera: {fileID: 0}
+  cogPrefab: {fileID: 5373969619088179966, guid: 47e13fb55cc41344c816d1a8ac82f585, type: 3}
   cog: {fileID: 0}
