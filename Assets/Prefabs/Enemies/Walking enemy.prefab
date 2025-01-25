@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6595163632730345259}
   - component: {fileID: 3643424326746457703}
   - component: {fileID: 8612750022387725711}
+  - component: {fileID: 678520655412260221}
   m_Layer: 0
   m_Name: Walking enemy
   m_TagString: Untagged
@@ -78,6 +79,18 @@ MonoBehaviour:
   groundDistance: 0.1
   speed: 1
   groundLayer: 6
+--- !u!114 &678520655412260221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6718947215570200055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a33ea53168c569438e4312843575dde, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7300973359476488229
 GameObject:
   m_ObjectHideFlags: 0
