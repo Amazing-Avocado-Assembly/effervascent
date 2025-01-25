@@ -1,4 +1,5 @@
 using System;
+using DG.Tweening;
 using UnityEngine;
 
 public class Projectile : MonoBehaviour
@@ -6,6 +7,8 @@ public class Projectile : MonoBehaviour
     public Bubble Bubble { get; private set; }
     public int bouncesToLive = 1;
     public float transferBackRatio = 0.5f;
+
+    private Captureable captured = null;
 
     void OnEnable()
     {
@@ -20,8 +23,13 @@ public class Projectile : MonoBehaviour
     // On collision with anything, kill self
     void OnCollisionEnter2D(Collision2D collision)
     {
-        // Only kill self if the projectile has rigidbody
+        // Only process if the projectile has rigidbody
         if (Bubble.Rb == null) {
+            return;
+        }
+
+        // If captured a captureable, just bounce
+        if (captured != null) {
             return;
         }
 
@@ -38,14 +46,18 @@ public class Projectile : MonoBehaviour
         if (captureable != null) {
             if (captureable.minVolume <= Bubble.volume) {
                 // Capture the captureable
-                // 1) Tween
-                //    - the center of the bubble to the center of the captureable
-                //    - the volume of the bubble to the volume of the minWrappingBubbleVolume of the captureable
-
-                // 2) Make the bubble parent of the captureable and disable the captureable's EnemyController
-
-                // 3) Change gravity scale of the bubble to -0.1f
+                // * Remove the captureable rigidbody
+                Destroy(captureable.GetComponent<Rigidbody2D>());                
+                // * Make the bubble parent of the captureable and disable the captureable's EnemyController
+                captureable.transform.SetParent(transform);
+                // * Tween the captureOrigin of the captureable to the center of the bubble
+                captureable.transform.DOLocalMove(-captureable.captureOrigin.localPosition, 0.5f);
+                // * Tween the volume of the bubble to the volume of the minWrappingBubbleVolume of the captureable
                 
+                // * Change gravity scale of the bubble to -0.1f
+                Bubble.Rb.gravityScale = -0.1f;
+
+                captured = captureable;                
                 return;
             }
             // else, bounce
