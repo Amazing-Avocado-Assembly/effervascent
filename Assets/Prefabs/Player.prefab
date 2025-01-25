@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8503100275611055122}
   - component: {fileID: 872129073542518146}
   - component: {fileID: 1853019955473162526}
+  - component: {fileID: 2629385000696198004}
   m_Layer: 0
   m_Name: Sprite
   m_TagString: Player
@@ -140,6 +141,42 @@ MonoBehaviour:
   initialVolume: 100
   volumeScale: 1
   volume: 100
+--- !u!58 &2629385000696198004
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899922908945153233}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 3131b5dd86809dc4694a55940856caf3, type: 2}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0.002321422}
+  m_Radius: 0.46982116
 --- !u!1 &2675963459544285475
 GameObject:
   m_ObjectHideFlags: 0

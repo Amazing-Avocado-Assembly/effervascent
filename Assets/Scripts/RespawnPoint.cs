@@ -73,5 +73,12 @@ public class RespawnPoint : MonoBehaviour
                 cog.state = Cog.State.BUBBLE;
             };
         };
+
+        // Get all Particle Systems in the scene and add my Sprite child as a Trigger transform
+        ParticleSystem[] particleSystems = Object.FindObjectsByType<ParticleSystem>(FindObjectsSortMode.None);
+        foreach (ParticleSystem ps in particleSystems)
+        {
+            ps.trigger.AddCollider(Player.GetComponentInChildren<CircleCollider2D>().transform);
+        }
     }
 }
