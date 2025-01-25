@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 678520655412260221}
   m_Layer: 0
   m_Name: Walking enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109,6 +109,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 0.5
   groundDistance: 0.1
+  wallDistance: 0.05
   speed: 1
   groundLayer: 6
 --- !u!114 &678520655412260221
@@ -123,8 +124,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a33ea53168c569438e4312843575dde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minVolume: 1
-  minWrappingBubbleRadius: 0.5
+  minVolume: 5
+  minWrappingBubbleRadius: 0.6
   captureOrigin: {fileID: 2035166929371054695}
 --- !u!1 &7300973359476488229
 GameObject:
