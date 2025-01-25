@@ -30,13 +30,32 @@ public class Projectile : MonoBehaviour
         if (otherBubble != null) {
             otherBubble.volume += Bubble.volume * transferBackRatio;
             Destroy(gameObject);
-        } else {
-            // If colliding with anything else, reduce bouncesToLive
-            bouncesToLive--;
+            return;
+        }
+        
+        // If colliding with Captureable, determine if the projectile should bounce, or capture
+        Captureable captureable = collision.gameObject.GetComponent<Captureable>();
+        if (captureable != null) {
+            if (captureable.minVolume <= Bubble.volume) {
+                // Capture the captureable
+                // 1) Tween
+                //    - the center of the bubble to the center of the captureable
+                //    - the volume of the bubble to the volume of the minWrappingBubbleVolume of the captureable
 
-            if (bouncesToLive < 0) {
-                Destroy(gameObject);
+                // 2) Make the bubble parent of the captureable and disable the captureable's EnemyController
+
+                // 3) Change gravity scale of the bubble to -0.1f
+                
+                return;
             }
+            // else, bounce
+        }
+
+        // If colliding with anything else, reduce bouncesToLive
+        bouncesToLive--;
+
+        if (bouncesToLive < 0) {
+            Destroy(gameObject);
         }
     }
 }
