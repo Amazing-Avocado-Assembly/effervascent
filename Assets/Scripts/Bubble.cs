@@ -1,3 +1,4 @@
+using DG.Tweening;
 using UnityEngine;
 
 public class Bubble : MonoBehaviour
@@ -11,12 +12,20 @@ public class Bubble : MonoBehaviour
 
     public Rigidbody2D Rb { get; set; }
 
-    private float VolumeToRadius(float volume)
+    public float VolumeToRadius(float volume)
     {
         if (volume <= 0) return 0;
-        
+
         // Sphere volume to radius
         return Mathf.Pow((3 * volume) / (4 * Mathf.PI), 1.0f / 3.0f) * globalObjectScale;
+    }
+
+    public float RadiusToVolume(float radius)
+    {
+        if (radius <= 0) return 0;
+
+        // Sphere radius to volume
+        return ((4 * Mathf.PI * Mathf.Pow(radius / globalObjectScale, 3)) / 3) / volumeScale;
     }
 
     public float GetRadius()
@@ -57,5 +66,10 @@ public class Bubble : MonoBehaviour
 
         // Apply force to the bubble
         Rb.linearVelocity += direction * multiplier;
+    }
+
+    public Tween DOVolume(float to, float duration)
+    {
+        return DOTween.To(() => volume, x => volume = x, to, duration);
     }
 }
