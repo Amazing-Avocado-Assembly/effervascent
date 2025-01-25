@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2035166929371054695}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaptureOrigin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 3643424326746457703}
   - component: {fileID: 8612750022387725711}
   - component: {fileID: 678520655412260221}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Walking enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -109,6 +109,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 0.5
   groundDistance: 0.1
+  wallCheckOffset: 0.2
   wallDistance: 0.05
   speed: 1
   groundLayer: 6
@@ -137,7 +138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6124757890003603908}
   - component: {fileID: 3994142821009028067}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1081968350813254163}
   - component: {fileID: 3037596326474285687}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Physics
   m_TagString: Untagged
   m_Icon: {fileID: 0}

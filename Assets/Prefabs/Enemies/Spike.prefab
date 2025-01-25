@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8707053421637439464}
   - component: {fileID: 3239212194202167019}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Physics
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8470589966363164021}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Spike
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -125,7 +125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1813381081507643897}
   - component: {fileID: 354926714421999344}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}

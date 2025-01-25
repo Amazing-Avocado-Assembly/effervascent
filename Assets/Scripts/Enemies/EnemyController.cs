@@ -9,4 +9,18 @@ public class EnemyController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
     }
+
+    protected Vector2 PlayerDirection => Player.position - transform.position;
+
+    protected bool PlayerVisible
+    {
+        get
+        {
+            var direction = Player.position - transform.position;
+            return !Physics2D.Raycast(transform.position,
+                                      Player.position - transform.position,
+                                      direction.magnitude,
+                                      1 << LayerMask.NameToLayer("Ground"));
+        }
+    }
 }

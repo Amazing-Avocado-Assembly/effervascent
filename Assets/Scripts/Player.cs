@@ -104,8 +104,6 @@ public class Player : MonoBehaviour
 
     void OnTriggerStay2D(Collider2D collision)
     {
-        Debug.Log("Colliding with " + collision.gameObject.name);
-
         if (collision.gameObject.CompareTag("Pipe"))
         {
             // If the player is colliding with a pipe, add volume to the bubble (deltaTime)
