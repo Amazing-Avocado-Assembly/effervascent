@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
     public float pushForce = 10;
     public float volumePerSecond = 10f;
     public float maxVolume = 200;
+    public float minVolume = 10;
 
     private Projectile projectile = null;
     private Vector3 projectileDirection;
@@ -35,6 +36,12 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        // If the RB is not dynamic, return
+        if (RB.bodyType != RigidbodyType2D.Dynamic) {
+            indicator.gameObject.SetActive(false);
+            return;
+        }
+
         // If the player presses the left mouse button, spawn a projectile as a child of the player
         if (attackAction.WasPressedThisFrame())
         {
@@ -65,6 +72,14 @@ public class Player : MonoBehaviour
                 projectile.Bubble.volume += Time.deltaTime * volumePerSecond;
 
                 projectile.transform.localPosition = (Bubble.GetRadius() + projectile.Bubble.GetRadius() + projectileOffset) * projectileDirection;
+
+                indicator.localScale = Bubble.transform.localScale;
+
+                // If volume is less, then the minimum volume, kill the player
+                if (Bubble.volume < minVolume)
+                {
+                    Pop();
+                }
             }
         }
         // If the player let's go of the mouse button, release the projectile
@@ -102,6 +117,7 @@ public class Player : MonoBehaviour
             float angle = Mathf.Atan2(directionIndicator.y, directionIndicator.x) * Mathf.Rad2Deg - 90;
             indicator.rotation = Quaternion.Euler(0, 0, angle);
             indicator.localScale = Bubble.transform.localScale;
+            indicator.gameObject.SetActive(true);
         }
     }
 
@@ -109,11 +125,7 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            if (popParticles != null) {
-                Instantiate(popParticles, transform.position, Quaternion.identity);
-            }
-            Game.Instance.PlayGlobalSound(popSound);
-            Game.Instance.KillAndRespawn();
+            Pop();
         }
     }
 
@@ -127,5 +139,13 @@ public class Player : MonoBehaviour
 
             Bubble.volume = Math.Min(Bubble.volume + Time.deltaTime * pipe.volumePerSecond, maxVolume);
         }
+    }
+
+    private void Pop() {
+        if (popParticles != null) {
+            Instantiate(popParticles, transform.position, Quaternion.identity);
+        }
+        Game.Instance.PlayGlobalSound(popSound);
+        Game.Instance.KillAndRespawn();
     }
 }
