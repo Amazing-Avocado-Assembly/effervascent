@@ -21,7 +21,6 @@ public class WalkingEnemyController : EnemyController
             return;
         }
 
-        Debug.Log($"ground: {CheckGround(currentDirection)}, wall: {CheckWall(currentDirection)}");
         if (!CheckGround(currentDirection) || CheckWall(currentDirection))
         {
             currentDirection = currentDirection.Invert();
