@@ -188,9 +188,9 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0.09
-  m_AngularDamping: 0.05
-  m_GravityScale: 0
+  m_LinearDamping: 0.4
+  m_AngularDamping: 1
+  m_GravityScale: 0.01
   m_Material: {fileID: 6200000, guid: 3131b5dd86809dc4694a55940856caf3, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
@@ -216,7 +216,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 548910440535881719, guid: 6c00e1dbb8747c244b042387ccaec4c5, type: 3}
   indicator: {fileID: 8320157616383393828}
-  pushForce: 10
+  pushForce: 20
   volumePerSecond: 10
   maxVolume: 150
 --- !u!1 &6155639884741461144

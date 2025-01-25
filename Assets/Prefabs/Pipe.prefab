@@ -91,7 +91,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b28eeea92d3ed9c46801e1fa16fb189b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumePerSecond: 10
+  volumePerSecond: 100
 --- !u!1 &6275758144908644136
 GameObject:
   m_ObjectHideFlags: 0
