@@ -45,7 +45,7 @@ public class Projectile : MonoBehaviour
         Captureable captureable = collision.gameObject.GetComponent<Captureable>();
         if (captureable != null) {
             if (captureable.minVolume <= Bubble.volume) {
-                // Capture the captureable
+                // Capture the captureable:
                 // * Remove the captureable rigidbody
                 Destroy(captureable.GetComponent<Rigidbody2D>());
                 // * Make the bubble parent of the captureable
@@ -56,9 +56,11 @@ public class Projectile : MonoBehaviour
                 // * Tween the captureOrigin of the captureable to the center of the bubble
                 captureable.transform.DOLocalMove(-captureable.captureOrigin.localPosition, 0.5f);
                 // * Tween the volume of the bubble to the volume of the minWrappingBubbleVolume of the captureable
-                Bubble.DOVolume(Bubble.RadiusToVolume(captureable.minWrappingBubbleRadius), 0.5f);
-                // * Change gravity scale of the bubble to -0.1f
+                float finalVolume = Bubble.RadiusToVolume(captureable.minWrappingBubbleRadius);
+                if (finalVolume > Bubble.GetVolume()) Bubble.DOVolume(finalVolume, 0.5f);
+                // * Change gravity scale of the bubble to -0.1f and damping to 0.4f
                 Bubble.Rb.gravityScale = -0.1f;
+                Bubble.Rb.linearDamping = 0.5f;
 
                 captured = captureable;                
                 return;
