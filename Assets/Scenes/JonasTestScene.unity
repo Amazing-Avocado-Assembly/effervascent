@@ -1716,6 +1716,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 456121478}
     - target: {fileID: 8977685541297110043, guid: a7ffb988ac789b149bcb2f243507eef2, type: 3}
+      propertyPath: Cog
+      value: 
+      objectReference: {fileID: 5373969619088179966, guid: 47e13fb55cc41344c816d1a8ac82f585, type: 3}
+    - target: {fileID: 8977685541297110043, guid: a7ffb988ac789b149bcb2f243507eef2, type: 3}
       propertyPath: FinishPoint
       value: 
       objectReference: {fileID: 1533924794}
@@ -1837,6 +1841,14 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7831351833884580355, guid: 2006f6468646c1141a2a3ce3596393d3, type: 3}
+      propertyPath: cog
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7831351833884580355, guid: 2006f6468646c1141a2a3ce3596393d3, type: 3}
+      propertyPath: cogPrefab
+      value: 
+      objectReference: {fileID: 5373969619088179966, guid: 47e13fb55cc41344c816d1a8ac82f585, type: 3}
     - target: {fileID: 7831351833884580355, guid: 2006f6468646c1141a2a3ce3596393d3, type: 3}
       propertyPath: playerFollowCamera
       value: 

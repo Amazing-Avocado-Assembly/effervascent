@@ -29,11 +29,28 @@ public class Game : MonoBehaviour
 
         UI.Ascended += () =>
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            UI.Hide();
+            RespawnPoint.Kill().onComplete += () =>
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            };
         };
         UI.Escaped += () =>
         {
             Application.Quit();
         };
+    }
+
+    private void Start()
+    {
+        Spawn();
+    }
+
+    public void Spawn() {
+        RespawnPoint.Spawn();
+    }
+
+    public void KillAndRespawn() {
+        RespawnPoint.Respawn();
     }
 }

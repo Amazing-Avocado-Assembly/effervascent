@@ -98,7 +98,7 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            Game.Instance.RespawnPoint.Respawn();
+            Game.Instance.KillAndRespawn();
         }
     }
 
