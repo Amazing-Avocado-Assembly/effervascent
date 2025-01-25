@@ -1,0 +1,2755 @@
+fileFormatVersion: 2
+guid: b723b687c77234849926f9948f5808b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5539955984770259997
+    second: hint-to-shoot-enemies_0
+  - first:
+      213: 58395763194898290
+    second: hint-to-shoot-enemies_1
+  - first:
+      213: -4957140860811348897
+    second: hint-to-shoot-enemies_2
+  - first:
+      213: 1401020023583846873
+    second: hint-to-shoot-enemies_3
+  - first:
+      213: 2153631549062367307
+    second: hint-to-shoot-enemies_4
+  - first:
+      213: 6855040637205993468
+    second: hint-to-shoot-enemies_5
+  - first:
+      213: 3281101528330953552
+    second: hint-to-shoot-enemies_6
+  - first:
+      213: 3088246061875193677
+    second: hint-to-shoot-enemies_7
+  - first:
+      213: -7401039917031003560
+    second: hint-to-shoot-enemies_8
+  - first:
+      213: -6905238243358493819
+    second: hint-to-shoot-enemies_9
+  - first:
+      213: -8463538930468219072
+    second: hint-to-shoot-enemies_10
+  - first:
+      213: 1895358670753435919
+    second: hint-to-shoot-enemies_11
+  - first:
+      213: -2558958396110679141
+    second: hint-to-shoot-enemies_12
+  - first:
+      213: 4623120822899235719
+    second: hint-to-shoot-enemies_13
+  - first:
+      213: -7964309187137183182
+    second: hint-to-shoot-enemies_14
+  - first:
+      213: -3352695509935408041
+    second: hint-to-shoot-enemies_15
+  - first:
+      213: 1373854044312358339
+    second: hint-to-shoot-enemies_16
+  - first:
+      213: 18588377146473190
+    second: hint-to-shoot-enemies_17
+  - first:
+      213: 3147090691042303845
+    second: hint-to-shoot-enemies_18
+  - first:
+      213: -1703335604188579981
+    second: hint-to-shoot-enemies_19
+  - first:
+      213: -8870276224192447708
+    second: hint-to-shoot-enemies_20
+  - first:
+      213: -986092768957569235
+    second: hint-to-shoot-enemies_21
+  - first:
+      213: 7404827723179628965
+    second: hint-to-shoot-enemies_22
+  - first:
+      213: -5922951881162388232
+    second: hint-to-shoot-enemies_23
+  - first:
+      213: -5044184362322893434
+    second: hint-to-shoot-enemies_24
+  - first:
+      213: -7655575163220897002
+    second: hint-to-shoot-enemies_25
+  - first:
+      213: 6808355079299449183
+    second: hint-to-shoot-enemies_26
+  - first:
+      213: -896060857213570114
+    second: hint-to-shoot-enemies_27
+  - first:
+      213: -8386849438247284687
+    second: hint-to-shoot-enemies_28
+  - first:
+      213: -723257240445649038
+    second: hint-to-shoot-enemies_29
+  - first:
+      213: -3041417293199107257
+    second: hint-to-shoot-enemies_30
+  - first:
+      213: -4660181127500307534
+    second: hint-to-shoot-enemies_31
+  - first:
+      213: 1345153252042365923
+    second: hint-to-shoot-enemies_32
+  - first:
+      213: 201150488932786904
+    second: hint-to-shoot-enemies_33
+  - first:
+      213: 6010783851737346108
+    second: hint-to-shoot-enemies_34
+  - first:
+      213: 9194516592352002623
+    second: hint-to-shoot-enemies_35
+  - first:
+      213: -6310141096755207860
+    second: hint-to-shoot-enemies_36
+  - first:
+      213: 4486248840691939481
+    second: hint-to-shoot-enemies_37
+  - first:
+      213: -1902137238241804877
+    second: hint-to-shoot-enemies_38
+  - first:
+      213: -904050383279219516
+    second: hint-to-shoot-enemies_39
+  - first:
+      213: -3509463149065386884
+    second: hint-to-shoot-enemies_40
+  - first:
+      213: 8450927555710205860
+    second: hint-to-shoot-enemies_41
+  - first:
+      213: 611647474175372794
+    second: hint-to-shoot-enemies_42
+  - first:
+      213: -5144905795522639646
+    second: hint-to-shoot-enemies_43
+  - first:
+      213: 432964824011189514
+    second: hint-to-shoot-enemies_44
+  - first:
+      213: -2841843790976563799
+    second: hint-to-shoot-enemies_45
+  - first:
+      213: 7318489244811189493
+    second: hint-to-shoot-enemies_46
+  - first:
+      213: 5191557629418638068
+    second: hint-to-shoot-enemies_47
+  - first:
+      213: 766996555840739612
+    second: hint-to-shoot-enemies_48
+  - first:
+      213: 5570273775430276384
+    second: hint-to-shoot-enemies_49
+  - first:
+      213: -3195172330160184563
+    second: hint-to-shoot-enemies_50
+  - first:
+      213: -9152960345211904615
+    second: hint-to-shoot-enemies_51
+  - first:
+      213: 2915217588926422220
+    second: hint-to-shoot-enemies_52
+  - first:
+      213: 3777408067721069896
+    second: hint-to-shoot-enemies_53
+  - first:
+      213: -1828052326655429746
+    second: hint-to-shoot-enemies_54
+  - first:
+      213: 2292995853667451851
+    second: hint-to-shoot-enemies_55
+  - first:
+      213: -8372599272480948988
+    second: hint-to-shoot-enemies_56
+  - first:
+      213: -1200871082164657230
+    second: hint-to-shoot-enemies_57
+  - first:
+      213: 2832680660575651164
+    second: hint-to-shoot-enemies_58
+  - first:
+      213: -6431823301822527929
+    second: hint-to-shoot-enemies_59
+  - first:
+      213: 7007512185911894742
+    second: hint-to-shoot-enemies_60
+  - first:
+      213: 7741494822481657773
+    second: hint-to-shoot-enemies_61
+  - first:
+      213: -9014062417917014121
+    second: hint-to-shoot-enemies_62
+  - first:
+      213: -7654339209162230809
+    second: hint-to-shoot-enemies_63
+  - first:
+      213: -1695965086680217809
+    second: hint-to-shoot-enemies_64
+  - first:
+      213: 5672881396502933301
+    second: hint-to-shoot-enemies_65
+  - first:
+      213: 5536677036532973975
+    second: hint-to-shoot-enemies_66
+  - first:
+      213: 7598780537797532686
+    second: hint-to-shoot-enemies_67
+  - first:
+      213: 3409589530646056774
+    second: hint-to-shoot-enemies_68
+  - first:
+      213: 1517765227525033935
+    second: hint-to-shoot-enemies_69
+  - first:
+      213: 7066669446887508140
+    second: hint-to-shoot-enemies_70
+  - first:
+      213: 3025395044601447664
+    second: hint-to-shoot-enemies_71
+  - first:
+      213: -7010589865621588422
+    second: hint-to-shoot-enemies_72
+  - first:
+      213: 2592598900316217295
+    second: hint-to-shoot-enemies_73
+  - first:
+      213: 9145488601185171852
+    second: hint-to-shoot-enemies_74
+  - first:
+      213: -1866978827132962902
+    second: hint-to-shoot-enemies_75
+  - first:
+      213: -7881549575395546122
+    second: hint-to-shoot-enemies_76
+  - first:
+      213: -3646080518706662324
+    second: hint-to-shoot-enemies_77
+  - first:
+      213: 8101387784563823787
+    second: hint-to-shoot-enemies_78
+  - first:
+      213: -2172343488592017030
+    second: hint-to-shoot-enemies_79
+  - first:
+      213: 3985715011973831940
+    second: hint-to-shoot-enemies_80
+  - first:
+      213: 8479027614242018800
+    second: hint-to-shoot-enemies_81
+  - first:
+      213: 2647580273601213042
+    second: hint-to-shoot-enemies_82
+  - first:
+      213: -7818612693427730848
+    second: hint-to-shoot-enemies_83
+  - first:
+      213: -6784910401204611633
+    second: hint-to-shoot-enemies_84
+  - first:
+      213: 6638428487012582310
+    second: hint-to-shoot-enemies_85
+  - first:
+      213: -212369010079002169
+    second: hint-to-shoot-enemies_86
+  - first:
+      213: 8473800150416153782
+    second: hint-to-shoot-enemies_87
+  - first:
+      213: -7929694232738516373
+    second: hint-to-shoot-enemies_88
+  - first:
+      213: 2796842949863576660
+    second: hint-to-shoot-enemies_89
+  - first:
+      213: -3544312657857274449
+    second: hint-to-shoot-enemies_90
+  - first:
+      213: -6693954304742870676
+    second: hint-to-shoot-enemies_91
+  - first:
+      213: -5486934904114578981
+    second: hint-to-shoot-enemies_92
+  - first:
+      213: 8172722285600058075
+    second: hint-to-shoot-enemies_93
+  - first:
+      213: 3795160137193687034
+    second: hint-to-shoot-enemies_94
+  - first:
+      213: -1423414929585844137
+    second: hint-to-shoot-enemies_95
+  - first:
+      213: 6811362009007707499
+    second: hint-to-shoot-enemies_96
+  - first:
+      213: -3471574149299562920
+    second: hint-to-shoot-enemies_97
+  - first:
+      213: 5670650964687428337
+    second: hint-to-shoot-enemies_98
+  - first:
+      213: 5018064322279485431
+    second: hint-to-shoot-enemies_99
+  - first:
+      213: 3066699226797318532
+    second: hint-to-shoot-enemies_100
+  - first:
+      213: 5128526580046229476
+    second: hint-to-shoot-enemies_101
+  - first:
+      213: 2924683526244497071
+    second: hint-to-shoot-enemies_102
+  - first:
+      213: 7403874219903886584
+    second: hint-to-shoot-enemies_103
+  - first:
+      213: -8797700829215806668
+    second: hint-to-shoot-enemies_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_0
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 341
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e32870426f1e13b0800000000000000
+      internalID: -5539955984770259997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 932
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277ae9123a67fc000800000000000000
+      internalID: 58395763194898290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 924
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54f3c1b6a2b43bb0800000000000000
+      internalID: -4957140860811348897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 915
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1bcecd94c617310800000000000000
+      internalID: 1401020023583846873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 935
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48cfe2cb7c33ed10800000000000000
+      internalID: 2153631549062367307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 915
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7d785d32ff12f50800000000000000
+      internalID: 6855040637205993468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 932
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053682cb470d88d20800000000000000
+      internalID: 3281101528330953552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 924
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47e1195e67abda20800000000000000
+      internalID: 3088246061875193677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 924
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a61e868693a4990800000000000000
+      internalID: -7401039917031003560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 924
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583bc27376aab20a0800000000000000
+      internalID: -6905238243358493819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 922
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04790ca3f287b8a80800000000000000
+      internalID: -8463538930468219072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 923
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0117344baaad4a10800000000000000
+      internalID: 1895358670753435919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_12
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 924
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d1dc85e0cc7cd0800000000000000
+      internalID: -2558958396110679141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 861
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bde92e4ef982040800000000000000
+      internalID: 4623120822899235719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_14
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 858
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ee43bdf6197190800000000000000
+      internalID: -7964309187137183182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_15
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 857
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb0427235d871d0800000000000000
+      internalID: -3352695509935408041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 845
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdc87c69f8e01310800000000000000
+      internalID: 1373854044312358339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 854
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea34c0d70a024000800000000000000
+      internalID: 18588377146473190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_18
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 853
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fd38b3f46bcab20800000000000000
+      internalID: 3147090691042303845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_19
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377701bea498c58e0800000000000000
+      internalID: -1703335604188579981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 838
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b7a6555c276e480800000000000000
+      internalID: -8870276224192447708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_21
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 845
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27e3b6e9d1b052f0800000000000000
+      internalID: -986092768957569235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_22
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 802
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9161fe49b33c660800000000000000
+      internalID: 7404827723179628965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_23
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 802
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc859d25a27dcda0800000000000000
+      internalID: -5922951881162388232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 764
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685e9263c057ff9b0800000000000000
+      internalID: -5044184362322893434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_25
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 776
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135ae433fee1c590800000000000000
+      internalID: -7655575163220897002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_26
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 768
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51ce565fd22c7e50800000000000000
+      internalID: 6808355079299449183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_27
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 773
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb337acd56d8093f0800000000000000
+      internalID: -896060857213570114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_28
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 763
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13016901fdceb9b80800000000000000
+      internalID: -8386849438247284687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_29
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 763
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ff10e2f5976f5f0800000000000000
+      internalID: -723257240445649038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 740
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b13210617bac5d0800000000000000
+      internalID: -3041417293199107257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_31
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 742
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b36d5a84f5b35fb0800000000000000
+      internalID: -4660181127500307534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 718
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb527c71c1faa210800000000000000
+      internalID: 1345153252042365923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_33
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22c3fcd41aac200800000000000000
+      internalID: 201150488932786904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 486
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30757011189a6350800000000000000
+      internalID: 6010783851737346108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 513
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f328398402c799f70800000000000000
+      internalID: 9194516592352002623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_36
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 403
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ef45ea10ed68a0800000000000000
+      internalID: -6310141096755207860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_37
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 385
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998737b2d8b524e30800000000000000
+      internalID: 4486248840691939481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 393
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdfd8082404a95e0800000000000000
+      internalID: -1902137238241804877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_39
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc169d57fa2473f0800000000000000
+      internalID: -904050383279219516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_40
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 406
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7442af1cd1eb4fc0800000000000000
+      internalID: -3509463149065386884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_41
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 388
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afbaa446d9b74570800000000000000
+      internalID: 8450927555710205860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_42
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 403
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdecf913220d7800800000000000000
+      internalID: 611647474175372794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_43
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 398
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e84607107f9998b0800000000000000
+      internalID: -5144905795522639646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_44
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 404
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2d67a633320600800000000000000
+      internalID: 432964824011189514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 400
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a541bbf02ebf88d0800000000000000
+      internalID: -2841843790976563799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_46
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 388
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcdc71713f709560800000000000000
+      internalID: 7318489244811189493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_47
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 403
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa877c682e1c0840800000000000000
+      internalID: 5191557629418638068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_48
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 403
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d5d6cd4be4aa00800000000000000
+      internalID: 766996555840739612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_49
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 403
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02512367c769d4d40800000000000000
+      internalID: 5570273775430276384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_50
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 393
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0325a8c1b778a3d0800000000000000
+      internalID: -3195172330160184563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 373
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d586c7f072af080800000000000000
+      internalID: -9152960345211904615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_52
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 390
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc1eee93fee47820800000000000000
+      internalID: 2915217588926422220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_53
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 391
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8458530cf9c0c6430800000000000000
+      internalID: 3777408067721069896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_54
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 374
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8370e6281471a6e0800000000000000
+      internalID: -1828052326655429746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_55
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ca41849b52df10800000000000000
+      internalID: 2292995853667451851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_56
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 380
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d3415525d8ecb80800000000000000
+      internalID: -8372599272480948988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_57
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3698efc16a55fe0800000000000000
+      internalID: -1200871082164657230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 387
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c550bb77d04bf4720800000000000000
+      internalID: 2832680660575651164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_59
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 379
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c9c4c8c29db6a0800000000000000
+      internalID: -6431823301822527929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_60
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 379
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2ef78a43faf3160800000000000000
+      internalID: 7007512185911894742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_61
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 381
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf7b8c56805f6b60800000000000000
+      internalID: 7741494822481657773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_62
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 385
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f8bdc4dfd97e280800000000000000
+      internalID: -9014062417917014121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_63
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 382
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e37a8f2b0356c590800000000000000
+      internalID: -7654339209162230809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_64
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 377
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2706f04db8b678e0800000000000000
+      internalID: -1695965086680217809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 385
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53faa7be29f1abe40800000000000000
+      internalID: 5672881396502933301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_66
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 380
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7914c9e1e6a36dc40800000000000000
+      internalID: 5536677036532973975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_67
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 361
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cd29993aa447960800000000000000
+      internalID: 7598780537797532686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_68
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 374
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f8c040d9b415f20800000000000000
+      internalID: 3409589530646056774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_69
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 369
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc117de6f201510800000000000000
+      internalID: 1517765227525033935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_70
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 374
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca806decb6ad11260800000000000000
+      internalID: 7066669446887508140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_71
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 366
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f442ba83cc5cf920800000000000000
+      internalID: 3025395044601447664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_72
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 375
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fba139a165be90800000000000000
+      internalID: -7010589865621588422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_73
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 363
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9a62b6f2caf320800000000000000
+      internalID: 2592598900316217295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_74
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 360
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b60b8d6d4bee70800000000000000
+      internalID: 9145488601185171852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_75
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7709df5a82716e0800000000000000
+      internalID: -1866978827132962902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbeaee5b6c1f9290800000000000000
+      internalID: -7881549575395546122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_77
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 347
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4474040615866dc0800000000000000
+      internalID: -3646080518706662324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_78
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 352
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba49d9e5449ed6070800000000000000
+      internalID: 8101387784563823787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_79
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7907505b194ad1e0800000000000000
+      internalID: -2172343488592017030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_80
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 349
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d54a8afaa105730800000000000000
+      internalID: 3985715011973831940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_81
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 362
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f59f9bf0be8ba570800000000000000
+      internalID: 8479027614242018800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_82
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 349
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272f45a3b381eb420800000000000000
+      internalID: 2647580273601213042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_83
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 358
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06641eb1e25be7390800000000000000
+      internalID: -7818612693427730848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_84
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 355
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5985720f727d1a0800000000000000
+      internalID: -6784910401204611633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_85
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3083b798f602c50800000000000000
+      internalID: 6638428487012582310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_86
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 335
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c190f0b2838d0df0800000000000000
+      internalID: -212369010079002169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_87
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 346
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcd437375cf89570800000000000000
+      internalID: 8473800150416153782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 232
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b623820db1114f190800000000000000
+      internalID: -7929694232738516373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4549c2738d160d620800000000000000
+      internalID: 2796842949863576660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_90
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 232
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad1f7f8a6210dec0800000000000000
+      internalID: -3544312657857274449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61ba13a60c4a13a0800000000000000
+      internalID: -6693954304742870676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_92
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9fe8696cd7ad3b0800000000000000
+      internalID: -5486934904114578981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_93
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2c192e975b6170800000000000000
+      internalID: 8172722285600058075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_94
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70723890e1ba430800000000000000
+      internalID: 3795160137193687034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 191
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7505c02c9a30f3ce0800000000000000
+      internalID: -1423414929585844137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_96
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 198
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65de77b8a1d68e50800000000000000
+      internalID: 6811362009007707499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_97
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 45
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856129354bd72dfc0800000000000000
+      internalID: -3471574149299562920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_98
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa9b6b020332be40800000000000000
+      internalID: 5670650964687428337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_99
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa78d0aeeb3a540800000000000000
+      internalID: 5018064322279485431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 153
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481283ed2ba1f8a20800000000000000
+      internalID: 3066699226797318532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efedc0a0cf2c2740800000000000000
+      internalID: 5128526580046229476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_102
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa67d36eb20969820800000000000000
+      internalID: 2924683526244497071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_103
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42b072068dfb660800000000000000
+      internalID: 7403874219903886584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hint-to-shoot-enemies_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 74
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bae6245b948e580800000000000000
+      internalID: -8797700829215806668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
