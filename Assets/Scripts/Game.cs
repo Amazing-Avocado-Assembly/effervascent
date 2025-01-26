@@ -10,6 +10,7 @@ public class Game : MonoBehaviour
     public RespawnPoint RespawnPoint;
     public FinishPoint FinishPoint;
     public UI UI;
+    public Texture2D CursorTexture;
 
     public Player Player => RespawnPoint.Player;
 
@@ -57,6 +58,7 @@ public class Game : MonoBehaviour
     private void Start()
     {
         Spawn();
+        Cursor.SetCursor(CursorTexture, Vector2.zero, CursorMode.Auto);
     }
 
     public void Spawn()

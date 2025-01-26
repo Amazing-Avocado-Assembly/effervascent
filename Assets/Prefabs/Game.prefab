@@ -178,6 +178,7 @@ MonoBehaviour:
   RespawnPoint: {fileID: 0}
   FinishPoint: {fileID: 0}
   UI: {fileID: 0}
+  CursorTexture: {fileID: 2800000, guid: 049a24b6d601e1a45adaf07d8d2fd8be, type: 3}
 --- !u!82 &654159370974497159
 AudioSource:
   m_ObjectHideFlags: 0
