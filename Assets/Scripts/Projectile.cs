@@ -75,6 +75,12 @@ public class Projectile : MonoBehaviour
             // else, bounce
         }
 
+        // If coliding with tag enemy, destroy self immediately
+        if (collision.gameObject.CompareTag("Enemy")) {
+            Pop();
+            return;
+        }
+
         // If colliding with anything else, reduce bouncesToLive
         bouncesToLive--;
 

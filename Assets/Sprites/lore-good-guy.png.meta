@@ -828,7 +828,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -847,7 +847,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMipmapLimit: 1
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -865,9 +865,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -917,6 +917,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -6963,7 +6976,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -6972,7 +6985,281 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lore-good-guy_0: -4695536098673849635
+      lore-good-guy_1: 1297813825061069879
+      lore-good-guy_10: -6131268572759249980
+      lore-good-guy_100: -3832400770558294015
+      lore-good-guy_101: -2684370920284351399
+      lore-good-guy_102: 1193428649342420376
+      lore-good-guy_103: 1257845060375302333
+      lore-good-guy_104: -9110528135507424198
+      lore-good-guy_105: 5493745667741416126
+      lore-good-guy_106: 359059367566998789
+      lore-good-guy_107: 1575919910705778956
+      lore-good-guy_108: 4785315559419739141
+      lore-good-guy_109: 8609231530311067137
+      lore-good-guy_11: -2349795815773155273
+      lore-good-guy_110: -1985758971266466580
+      lore-good-guy_111: -4387604762714760541
+      lore-good-guy_112: 7263622426821415701
+      lore-good-guy_113: -8942901372599032616
+      lore-good-guy_114: 4085012932154283940
+      lore-good-guy_115: -5017012009798549576
+      lore-good-guy_116: -6413272421621772705
+      lore-good-guy_117: -1795394496412785192
+      lore-good-guy_118: -7620396598647720872
+      lore-good-guy_119: 7220201262480924896
+      lore-good-guy_12: -4051731245481743076
+      lore-good-guy_120: -2892954174299070363
+      lore-good-guy_121: 7074449684774940245
+      lore-good-guy_122: 8401352178475724848
+      lore-good-guy_123: 1463926185095686738
+      lore-good-guy_124: -8318262720051125423
+      lore-good-guy_125: 5208391501187982668
+      lore-good-guy_126: 7954294855250283624
+      lore-good-guy_127: 5575748791952128431
+      lore-good-guy_128: -4505947318623094193
+      lore-good-guy_129: -8540282371047532013
+      lore-good-guy_13: 4475981732845514320
+      lore-good-guy_130: 1591842724134707501
+      lore-good-guy_131: -8601981039200969108
+      lore-good-guy_132: -5642782188209203468
+      lore-good-guy_133: 1941417982730121283
+      lore-good-guy_134: -5639890057335356236
+      lore-good-guy_135: -952638425054145572
+      lore-good-guy_136: -7871080146124272229
+      lore-good-guy_137: -4929100140183534705
+      lore-good-guy_138: 8243692578302238561
+      lore-good-guy_139: -8494619257001115038
+      lore-good-guy_14: 7233749530217615721
+      lore-good-guy_140: -12011139309799388
+      lore-good-guy_141: -1022124517965597209
+      lore-good-guy_142: -408102848550578664
+      lore-good-guy_143: -2642296143674622923
+      lore-good-guy_144: -2242826621731054399
+      lore-good-guy_145: 2105132417028052515
+      lore-good-guy_146: 8165970246729275219
+      lore-good-guy_147: 3152331847156354764
+      lore-good-guy_148: -7359307193056779794
+      lore-good-guy_149: -3463041846694863239
+      lore-good-guy_15: 5446166409377816297
+      lore-good-guy_150: -7965011455925840583
+      lore-good-guy_151: 6780931365339532457
+      lore-good-guy_152: 5994371900638918174
+      lore-good-guy_153: -502184395510752192
+      lore-good-guy_154: 210968889961828595
+      lore-good-guy_155: 2377013941075457740
+      lore-good-guy_156: 7405438566944089343
+      lore-good-guy_157: 1213765812390235726
+      lore-good-guy_158: -22609570613081787
+      lore-good-guy_159: 7945436695046795702
+      lore-good-guy_16: 8696976606804309380
+      lore-good-guy_160: -2973273069705893438
+      lore-good-guy_161: 5031755812609933946
+      lore-good-guy_162: 856323817081903500
+      lore-good-guy_163: 8438174221148714274
+      lore-good-guy_164: 557096771924118877
+      lore-good-guy_165: 2739062885567283686
+      lore-good-guy_166: -2613609673266373953
+      lore-good-guy_167: 8410499959057573795
+      lore-good-guy_168: -8823557260183171205
+      lore-good-guy_169: -2281098716226130662
+      lore-good-guy_17: -2872275057405900499
+      lore-good-guy_170: 5062922767731863229
+      lore-good-guy_171: 5793904026832518755
+      lore-good-guy_172: -2122252164280078124
+      lore-good-guy_173: 4543450931691381667
+      lore-good-guy_174: 6793774791666142438
+      lore-good-guy_175: 3724274128492511283
+      lore-good-guy_176: -3596375273821476773
+      lore-good-guy_177: 6207057801421112001
+      lore-good-guy_178: 3152871003641717048
+      lore-good-guy_179: -6167375089426600710
+      lore-good-guy_18: -6174496422330908619
+      lore-good-guy_180: 1866778071842851304
+      lore-good-guy_181: -2511128311380715693
+      lore-good-guy_182: 7879221884372683648
+      lore-good-guy_183: -8345404256917910326
+      lore-good-guy_184: -1516676025785634064
+      lore-good-guy_185: 6951058441802107881
+      lore-good-guy_186: 1704600884721345030
+      lore-good-guy_187: 4521574113811260076
+      lore-good-guy_188: -7514031857452438912
+      lore-good-guy_189: 1368339995670586327
+      lore-good-guy_19: 9109673110892082559
+      lore-good-guy_190: 2714695144239706569
+      lore-good-guy_191: 4578329799210369934
+      lore-good-guy_192: -316632359335652623
+      lore-good-guy_193: 7321517130862606058
+      lore-good-guy_194: 3642445459106303941
+      lore-good-guy_195: -1361455735596125006
+      lore-good-guy_196: -7326019486289717078
+      lore-good-guy_197: 7809563624970745879
+      lore-good-guy_198: -8425661085491520668
+      lore-good-guy_199: 8806312501678956851
+      lore-good-guy_2: -4833448086818422032
+      lore-good-guy_20: 7792951163871900897
+      lore-good-guy_200: -6317464289785902450
+      lore-good-guy_201: 710970867131499502
+      lore-good-guy_202: -1583260498020050447
+      lore-good-guy_203: -2410266382687968977
+      lore-good-guy_204: 8883237721409570993
+      lore-good-guy_205: -5411181385858532343
+      lore-good-guy_206: 5650476821096729699
+      lore-good-guy_207: -3677014249159968685
+      lore-good-guy_208: 3768972752587772496
+      lore-good-guy_209: 4158212359930164465
+      lore-good-guy_21: 4854307490750942017
+      lore-good-guy_210: -9222204106405960169
+      lore-good-guy_211: -7900309031795701931
+      lore-good-guy_212: -3148912793145144734
+      lore-good-guy_213: -8250817191141615117
+      lore-good-guy_214: 7808189884779460000
+      lore-good-guy_215: -6558887083279238405
+      lore-good-guy_216: 1931671129519856136
+      lore-good-guy_217: -3170364019160842757
+      lore-good-guy_218: -8393566608486543128
+      lore-good-guy_219: 8547323547039605076
+      lore-good-guy_22: -1789113135674796303
+      lore-good-guy_220: 1227145201779889392
+      lore-good-guy_221: -2639552164000560659
+      lore-good-guy_222: -3490890165973002850
+      lore-good-guy_223: -3131824594847972553
+      lore-good-guy_224: 3988956420301189613
+      lore-good-guy_225: -5826582432983022007
+      lore-good-guy_226: 3322111631819898645
+      lore-good-guy_227: -4040340367066058480
+      lore-good-guy_228: 27122153100726146
+      lore-good-guy_229: -4070831501602712131
+      lore-good-guy_23: -1854587004857257779
+      lore-good-guy_230: -5931090497007657425
+      lore-good-guy_231: -5158124622972122694
+      lore-good-guy_232: 5041717921493138766
+      lore-good-guy_233: -8542504034515720758
+      lore-good-guy_234: 4332404245754824308
+      lore-good-guy_235: 8503406726250763060
+      lore-good-guy_236: 3423111720134122358
+      lore-good-guy_237: 5735841818343058939
+      lore-good-guy_238: -663978508016970119
+      lore-good-guy_239: 488050310655810761
+      lore-good-guy_24: 228110931022323144
+      lore-good-guy_240: 1672499731485606914
+      lore-good-guy_241: -7715199523766864282
+      lore-good-guy_242: 4173239848332451364
+      lore-good-guy_243: -8731141955968435927
+      lore-good-guy_244: 8618690876064424333
+      lore-good-guy_245: 6317505249312223479
+      lore-good-guy_246: -3431395758532390566
+      lore-good-guy_247: -8898670808845617706
+      lore-good-guy_248: -5084392002711577795
+      lore-good-guy_249: 2251773003165013851
+      lore-good-guy_25: 6548810790123992738
+      lore-good-guy_250: 8940563975487114621
+      lore-good-guy_251: -3321573899435160536
+      lore-good-guy_252: 762735167539873908
+      lore-good-guy_253: 1826236939027669591
+      lore-good-guy_254: 7171357591684620554
+      lore-good-guy_255: -5525807616070570766
+      lore-good-guy_256: -2999965687694194519
+      lore-good-guy_257: 6852561075391593669
+      lore-good-guy_258: -5386328711914152891
+      lore-good-guy_259: -1753002855413930330
+      lore-good-guy_26: -3024185563652869277
+      lore-good-guy_260: 6334617610374780610
+      lore-good-guy_261: -6214032072433612703
+      lore-good-guy_262: -5711827627978937576
+      lore-good-guy_263: -6471413567798685093
+      lore-good-guy_264: 2775075111281457667
+      lore-good-guy_265: 4005162293238399110
+      lore-good-guy_266: 1700249144539398955
+      lore-good-guy_267: 4829460410434706150
+      lore-good-guy_268: 2964021117932416735
+      lore-good-guy_269: -7177419889761269302
+      lore-good-guy_27: -6300036310085597972
+      lore-good-guy_270: -6871757916683368454
+      lore-good-guy_271: 1805261716888888018
+      lore-good-guy_272: 5812454469886004454
+      lore-good-guy_273: -3630431970533963449
+      lore-good-guy_28: 5067601907899097663
+      lore-good-guy_29: -2669405603232671925
+      lore-good-guy_3: 7417042832901197727
+      lore-good-guy_30: -2304163961293794745
+      lore-good-guy_31: -961322002908869615
+      lore-good-guy_32: -6455621741386706567
+      lore-good-guy_33: 1322135067187044251
+      lore-good-guy_34: -8760190747837643441
+      lore-good-guy_35: 6514294218300480066
+      lore-good-guy_36: -6532398755206684198
+      lore-good-guy_37: 3300501781517398837
+      lore-good-guy_38: 4527049453634825789
+      lore-good-guy_39: 8558987951957955247
+      lore-good-guy_4: 173287162977505849
+      lore-good-guy_40: -8957638801135566038
+      lore-good-guy_41: 3990971724553046073
+      lore-good-guy_42: -3816960949707690781
+      lore-good-guy_43: 7675665020580606794
+      lore-good-guy_44: 8421248807764928782
+      lore-good-guy_45: -5639061584634078211
+      lore-good-guy_46: 7648812066008946247
+      lore-good-guy_47: 8732896024001806992
+      lore-good-guy_48: 5736168543270950050
+      lore-good-guy_49: 3367974338734923696
+      lore-good-guy_5: -2869971160746151244
+      lore-good-guy_50: 297112449129169832
+      lore-good-guy_51: 1763308919825261425
+      lore-good-guy_52: 5951792201336550139
+      lore-good-guy_53: -5686618906400442081
+      lore-good-guy_54: 5464548701237202011
+      lore-good-guy_55: 8005587364130459118
+      lore-good-guy_56: 7277521923437618544
+      lore-good-guy_57: -6123294356691086953
+      lore-good-guy_58: -6405951934784472213
+      lore-good-guy_59: 6802223411915785938
+      lore-good-guy_6: -5334783258083561571
+      lore-good-guy_60: -3577752734996715015
+      lore-good-guy_61: -1914650594653599574
+      lore-good-guy_62: 7961139407448952977
+      lore-good-guy_63: -3193037220566986636
+      lore-good-guy_64: -4503471023315405473
+      lore-good-guy_65: 8161223169207460453
+      lore-good-guy_66: 7292961695171641965
+      lore-good-guy_67: -3512413349567513368
+      lore-good-guy_68: -6547177150710121775
+      lore-good-guy_69: 9105119019239677713
+      lore-good-guy_7: -6790701171758696983
+      lore-good-guy_70: 8112235529156182841
+      lore-good-guy_71: 8417466136879486586
+      lore-good-guy_72: -1898747855319309004
+      lore-good-guy_73: 7085295380652366684
+      lore-good-guy_74: -4796698874944536617
+      lore-good-guy_75: -726007590536834580
+      lore-good-guy_76: 7482567373059737111
+      lore-good-guy_77: 7434290142018073755
+      lore-good-guy_78: -6166658050865348754
+      lore-good-guy_79: 6512292234554664839
+      lore-good-guy_8: 1022634318727609990
+      lore-good-guy_80: -1402165609764572469
+      lore-good-guy_81: -7394332476617519652
+      lore-good-guy_82: 3282168313538832411
+      lore-good-guy_83: -557425740678641951
+      lore-good-guy_84: -1524983511647944972
+      lore-good-guy_85: -6071186469003820891
+      lore-good-guy_86: 6940631685623844393
+      lore-good-guy_87: -4473191234660478314
+      lore-good-guy_88: -7585432801047619383
+      lore-good-guy_89: -8023812337108966047
+      lore-good-guy_9: -7240015202864835076
+      lore-good-guy_90: 7250755272650692800
+      lore-good-guy_91: 4573399553153587899
+      lore-good-guy_92: -8909255423612673317
+      lore-good-guy_93: 6036366583169618970
+      lore-good-guy_94: -242255388196151191
+      lore-good-guy_95: 3750048376249828950
+      lore-good-guy_96: -6030512435163038658
+      lore-good-guy_97: 1370396479617760633
+      lore-good-guy_98: 3075707333280629014
+      lore-good-guy_99: 6532182945480892243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
