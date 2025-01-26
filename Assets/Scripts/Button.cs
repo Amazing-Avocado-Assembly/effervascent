@@ -6,7 +6,7 @@ using UnityEngine;
 public class Button : MonoBehaviour
 {
     public Transform sprite;
-    public Transform[] doors;
+    public Door[] doors;
     public LineRenderer lineRenderer;
     public Material activeLineMaterial;
 
@@ -25,13 +25,9 @@ public class Button : MonoBehaviour
             GetComponent<Collider2D>().enabled = false;
 
             // Tween the door to the open position
-            foreach (Transform door in doors)
+            foreach (Door door in doors)
             {
-                if (door.TryGetComponent<AudioSource>(out var audioSource))
-                {
-                    audioSource.Play();
-                }
-                door.DOLocalMove(Vector3.zero, 2f).SetEase(Ease.InOutCubic);
+                door.Toggle();
             }
 
             // If the line renderer is set, change the material color to white
