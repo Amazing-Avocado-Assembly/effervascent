@@ -16157,6 +16157,10 @@ PrefabInstance:
       propertyPath: RespawnPoint
       value: 
       objectReference: {fileID: 332739861}
+    - target: {fileID: 8977685541297110043, guid: a7ffb988ac789b149bcb2f243507eef2, type: 3}
+      propertyPath: PlayerFollowCamera
+      value: 
+      objectReference: {fileID: 1173542616}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
