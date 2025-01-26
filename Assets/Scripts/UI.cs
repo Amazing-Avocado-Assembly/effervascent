@@ -1,13 +1,20 @@
 using System;
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
+
+public enum UIMode {
+    Start,
+    Pause,
+    End
+}
 
 public class UI : MonoBehaviour
 {
-    public const string TheEndText = "The End";
+    public const string StartText = "Unnamed Bubble Game";
+    public const string StartAscendButtonText = "Ascend";
+    public const string EndText = "The End";
+    public const string EndAscendButtonText = "Ascend Again";
     public const string PauseText = "Paused";
-    public const string DeathText = "Try Again?";
 
     public event Action Ascended;
     public event Action Escaped;
@@ -16,8 +23,8 @@ public class UI : MonoBehaviour
     public UnityEngine.UI.Button EscapeButton;
     public Canvas Canvas;
     public TMP_Text Header;
-    
-    public string HeaderText = PauseText;
+    public TMP_Text TutorialBit;
+    public TMP_Text AscendButtonText;
 
     private void Awake()
     {
@@ -31,10 +38,28 @@ public class UI : MonoBehaviour
         Canvas.gameObject.SetActive(false);
     }
 
-    public void Show()
+    public void Show(UIMode mode = UIMode.Pause)
     {
         Time.timeScale = 0f;
-        Header.text = HeaderText;
+
+        switch(mode) {
+            case UIMode.Start:
+                Header.text = StartText;
+                AscendButtonText.text = StartAscendButtonText;
+                TutorialBit.gameObject.SetActive(true);
+                break;
+            case UIMode.Pause:
+                Header.text = PauseText;
+                AscendButtonText.text = EndAscendButtonText;
+                TutorialBit.gameObject.SetActive(false);
+                break;
+            case UIMode.End:
+                Header.text = EndText;
+                AscendButtonText.text = EndAscendButtonText;
+                TutorialBit.gameObject.SetActive(false);
+                break;
+        }
+
         Canvas.gameObject.SetActive(true);
     }
 }
