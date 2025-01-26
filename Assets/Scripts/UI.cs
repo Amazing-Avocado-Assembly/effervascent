@@ -21,15 +21,27 @@ public class UI : MonoBehaviour
 
     public UnityEngine.UI.Button AscendButton;
     public UnityEngine.UI.Button EscapeButton;
+    public UnityEngine.UI.Button CreditsButton;
+    public UnityEngine.UI.Button BackFromCreditsButton;
     public Canvas Canvas;
     public TMP_Text Header;
     public TMP_Text TutorialBit;
     public TMP_Text AscendButtonText;
+    public CanvasRenderer MainPanel;
+    public CanvasRenderer CreditsPanel;
 
     private void Awake()
     {
         AscendButton.onClick.AddListener(() => Ascended.Invoke());
         EscapeButton.onClick.AddListener(() => Escaped.Invoke());
+        CreditsButton.onClick.AddListener(() => {
+            MainPanel.gameObject.SetActive(false);
+            CreditsPanel.gameObject.SetActive(true);
+        });
+        BackFromCreditsButton.onClick.AddListener(() => {
+            MainPanel.gameObject.SetActive(true);
+            CreditsPanel.gameObject.SetActive(false);
+        });
     }
 
     public void Hide()
@@ -41,6 +53,8 @@ public class UI : MonoBehaviour
     public void Show(UIMode mode = UIMode.Pause)
     {
         Time.timeScale = 0f;
+        MainPanel.gameObject.SetActive(true);
+        CreditsPanel.gameObject.SetActive(false);
 
         switch(mode) {
             case UIMode.Start:
