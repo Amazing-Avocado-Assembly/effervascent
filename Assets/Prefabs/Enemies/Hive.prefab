@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7971983970417699184}
   - component: {fileID: 590171824365478058}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Physics
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7503857018443963436}
   - component: {fileID: 8088621576587788371}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -182,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1857405050234248559}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Spawn Point
   m_TagString: Untagged
   m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
@@ -215,7 +215,7 @@ GameObject:
   - component: {fileID: 965246708670760632}
   - component: {fileID: 3231625117405996430}
   - component: {fileID: 8989935855342895777}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Hive
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -252,11 +252,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb5fd2183118fb84180306b3ecdfa2db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 1906999764069435386, guid: 7a03ac1e8094a2444bab3a73192aa8d8, type: 3}
-  enemySpawnCount: {x: 1, y: 5}
+  enemyPrefab: {fileID: 2884131935082753357, guid: 47ab44e4de05318488deb5d81ac53416, type: 3}
+  enemySpawnCount: {x: 2, y: 3}
   spawnPoint: {fileID: 1857405050234248559}
   coolDown: 5
-  spawnDelay: 0.01
+  spawnDelay: 0.3
 --- !u!50 &8989935855342895777
 Rigidbody2D:
   serializedVersion: 5

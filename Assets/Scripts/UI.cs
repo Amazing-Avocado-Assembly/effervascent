@@ -10,7 +10,7 @@ public enum UIMode {
 
 public class UI : MonoBehaviour
 {
-    public const string StartText = "Unnamed Bubble Game";
+    public const string StartText = "Effervascent";
     public const string StartAscendButtonText = "Ascend";
     public const string EndText = "The End";
     public const string EndAscendButtonText = "Ascend Again";

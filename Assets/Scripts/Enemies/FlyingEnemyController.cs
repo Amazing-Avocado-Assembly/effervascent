@@ -11,11 +11,11 @@ public class FlyingEnemyController : EnemyController
     [SerializeField] float avoidRadius = 1.0f;
     [SerializeField] float avoidAcceleration = 0.5f;
     [SerializeField] float rotationMultiplier = 10.0f;
-    [SerializeReference, Layer] string enemyLayer;
     [ShowNonSerializedField] State state = State.Idle;
 
-    void Update()
+    protected override void Update()
     {
+        base.Update();
         if (rb.linearVelocity.sqrMagnitude > 0.001f)
         {
             var angle = Mathf.Atan2(rb.linearVelocity.y, rb.linearVelocity.x) * Mathf.Rad2Deg - 90;
@@ -34,7 +34,6 @@ public class FlyingEnemyController : EnemyController
                                       .Select(c => c.transform.position);
         foreach (var enemyPosition in enemyPositions)
         {
-            Debug.Log("Avoiding enemy at " + enemyPosition);
             Vector2 direction = transform.position - enemyPosition;
             if (direction.sqrMagnitude < 0.01f)
             {
