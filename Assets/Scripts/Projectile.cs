@@ -65,7 +65,7 @@ public class Projectile : MonoBehaviour
                 if (finalVolume > Bubble.GetVolume()) Bubble.DOVolume(finalVolume, 0.5f);
                 // * Change gravity scale of the bubble to -0.1f and damping to 0.4f
                 Bubble.Rb.gravityScale = -0.1f;
-                Bubble.Rb.linearDamping = 0.5f;
+                Bubble.Rb.linearDamping = 5f;
                 // * Tween the projectile scale to 0
                 transform.DOScale(Vector3.zero, 1.0f);
                 // * Set captured to the captureable
