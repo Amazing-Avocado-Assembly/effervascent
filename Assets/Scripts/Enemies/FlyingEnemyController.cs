@@ -10,8 +10,19 @@ public class FlyingEnemyController : EnemyController
     [SerializeField] float maxAcceleration = 1.0f;
     [SerializeField] float avoidRadius = 1.0f;
     [SerializeField] float avoidAcceleration = 0.5f;
-    [SerializeReference, Layer] string enemyLayer;
+    [SerializeField] float rotationMultiplier = 10.0f;
     [ShowNonSerializedField] State state = State.Idle;
+
+    protected override void Update()
+    {
+        base.Update();
+        if (rb.linearVelocity.sqrMagnitude > 0.01f)
+        {
+            var angle = Mathf.Atan2(rb.linearVelocity.y, rb.linearVelocity.x) * Mathf.Rad2Deg - 90;
+            angle = Mathf.LerpAngle(rb.rotation, angle, Time.deltaTime * rotationMultiplier);
+            rb.SetRotation(angle);
+        }
+    }
 
     void FixedUpdate()
     {
@@ -37,8 +48,13 @@ public class FlyingEnemyController : EnemyController
         }
         else // (state == State.Chase)
         {
-            Vector2 direction = (Player.position - transform.position).normalized;
-            acceleration += direction * maxAcceleration;
+            // Desired velocity => instantly move to the player position or go through the player if too close
+            var desiredVelocity = PlayerDirection.sqrMagnitude > maxAcceleration * maxAcceleration
+                                      ? PlayerDirection
+                                      : PlayerDirection.normalized * speed;
+            var steer = desiredVelocity - rb.linearVelocity;
+            Debug.DrawLine(transform.position, transform.position + (Vector3)steer, Color.red);
+            acceleration += steer;
         }
 
         acceleration = Vector2.ClampMagnitude(acceleration, maxAcceleration);

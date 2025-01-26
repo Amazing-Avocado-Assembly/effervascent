@@ -26,15 +26,17 @@ public class Player : MonoBehaviour
     public ParticleSystem popParticles;
     public AudioSource bubbleReleaseSound;
 
-    private InputAction mousePositionAction;
+    private InputAction lookAction;
     private InputAction attackAction;
+
+    private Vector3 lastLook = Vector3.up;
 
     void Awake()
     {
         Bubble = GetComponentInChildren<Bubble>();
         RB = GetComponent<Rigidbody2D>();
 
-        mousePositionAction = InputSystem.actions.FindAction("MousePosition");
+        lookAction = InputSystem.actions.FindAction("Look");
         attackAction = InputSystem.actions.FindAction("Attack");
     }
 
@@ -55,14 +57,8 @@ public class Player : MonoBehaviour
                 GameObject projectileObject = Instantiate(projectilePrefab.gameObject);
                 projectileObject.transform.parent = transform;
 
-                var look = mousePositionAction.ReadValue<Vector2>();
-                Vector3 mousePosition = Camera.main.ScreenToWorldPoint(look);
-                Vector3 direction = mousePosition - transform.position;
-                direction.z = 0;
-                direction.Normalize();
-
+                var direction = GetLookDirection();
                 projectileDirection = direction;
-
                 projectileObject.transform.localPosition = (Bubble.GetRadius() + projectileObject.GetComponentInChildren<Bubble>().GetRadius() + projectileOffset) * direction;
 
                 projectile = projectileObject.GetComponent<Projectile>();
@@ -124,13 +120,9 @@ public class Player : MonoBehaviour
         // If the mouse is not pressed, update indicator to be oriented towards the mouse
         if (!attackAction.IsPressed())
         {
-            var look = mousePositionAction.ReadValue<Vector2>();
-            Vector3 mousePositionWorld = Camera.main.ScreenToWorldPoint(look);
-            Vector3 directionIndicator = mousePositionWorld - transform.position;
-            directionIndicator.z = 0;
-            directionIndicator.Normalize();
+            var direction = GetLookDirection();
 
-            float angle = Mathf.Atan2(directionIndicator.y, directionIndicator.x) * Mathf.Rad2Deg - 90;
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg - 90;
             indicator.rotation = Quaternion.Euler(0, 0, angle);
             indicator.localScale = Bubble.transform.localScale;
             indicator.gameObject.SetActive(true);
@@ -165,5 +157,17 @@ public class Player : MonoBehaviour
         }
         Game.Instance.PlayGlobalSound(popSound);
         Game.Instance.KillAndRespawn();
+    }
+
+    private Vector3 GetLookDirection() {
+        var joystickDirection = lookAction.ReadValue<Vector2>();
+        joystickDirection.Normalize();
+
+        if (joystickDirection.magnitude < 0.1f) {
+            return lastLook;
+        }
+
+        lastLook = joystickDirection;
+        return joystickDirection;
     }
 }

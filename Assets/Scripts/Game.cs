@@ -10,6 +10,7 @@ public class Game : MonoBehaviour
     public RespawnPoint RespawnPoint;
     public FinishPoint FinishPoint;
     public UI UI;
+    public Texture2D CursorTexture;
 
     public Player Player => RespawnPoint.Player;
 
@@ -28,22 +29,24 @@ public class Game : MonoBehaviour
 
         Instance = this;
         // DontDestroyOnLoad(gameObject);
-        UI.Hide();
+        UI.Show(UIMode.Start);
+        // UI.Hide();
         FinishPoint.Finished += () =>
         {
-            UI.HeaderText = UI.TheEndText;
-            UI.Show();
+            UI.Show(UIMode.End);
             isFinished = true;
         };
 
         UI.Ascended += () =>
         {
             UI.Hide();
-            RespawnPoint.Kill().onComplete += () =>
-            {
-                isFinished = false;
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-            };
+            if (isFinished || isPaused) {
+                RespawnPoint.Kill().onComplete += () =>
+                {
+                    isFinished = false;
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                };
+            }
         };
         UI.Escaped += () =>
         {
@@ -57,6 +60,7 @@ public class Game : MonoBehaviour
     private void Start()
     {
         Spawn();
+        Cursor.SetCursor(CursorTexture, Vector2.zero, CursorMode.Auto);
     }
 
     public void Spawn()
@@ -82,8 +86,7 @@ public class Game : MonoBehaviour
             isPaused = !isPaused;
             if (isPaused)
             {
-                UI.HeaderText = UI.PauseText;
-                UI.Show();
+                UI.Show(UIMode.Pause);
             }
             else
             {

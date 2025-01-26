@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using NaughtyAttributes;
 using UnityEngine;
 
@@ -11,6 +12,8 @@ public class Hive : MonoBehaviour
     [SerializeField] private float spawnDelay = 0.01f;
 
     float lastSpawnTime = 0;
+
+    List<GameObject> spawnedEnemies = new List<GameObject>();
 
     void OnCollisionEnter2D(Collision2D other)
     {
@@ -25,9 +28,13 @@ public class Hive : MonoBehaviour
 
     IEnumerator DelayedSpawn(int spawnCount)
     {
+        // Delete dead enemies 
+        spawnedEnemies.RemoveAll(enemy => enemy == null);
+        spawnCount = Mathf.Min(spawnCount, enemySpawnCount.y - spawnedEnemies.Count);
         for (int i = 0; i < spawnCount; i++)
         {
-            Instantiate(enemyPrefab, spawnPoint.position, Quaternion.identity);
+            var enemy = Instantiate(enemyPrefab, spawnPoint.position, Quaternion.identity);
+            spawnedEnemies.Add(enemy);
             yield return new WaitForSeconds(spawnDelay);
         }
     }

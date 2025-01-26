@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7971983970417699184}
   - component: {fileID: 590171824365478058}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Physics
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78,10 +78,13 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0, y: 1.3178205}
-      - {x: -0.71702564, y: 0}
-      - {x: 0, y: -1.344949}
-      - {x: 0.6898974, y: -0.01356411}
+    - - {x: 0.20420778, y: 1.7943053}
+      - {x: -0.73063934, y: 1.2933159}
+      - {x: -1.8664998, y: -1.3739879}
+      - {x: -1.1844053, y: -2.570196}
+      - {x: 1.6341276, y: -2.5700457}
+      - {x: 2.1190865, y: -1.2569978}
+      - {x: 1.2889069, y: 1.1436136}
   m_UseDelaunayMesh: 0
 --- !u!1 &468774660995149884
 GameObject:
@@ -93,7 +96,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7503857018443963436}
   - component: {fileID: 8088621576587788371}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,8 +113,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.38, y: 5.2302, z: 1.38}
-  m_ConstrainProportionsScale: 1
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 965246708670760632}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -159,7 +162,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3625043607559282579, guid: 19fb86013d8c24d6cb8410c0aadf30fa, type: 3}
+  m_Sprite: {fileID: 5920260895808310015, guid: ccbab763fc3102441ad1d2076013a472, type: 3}
   m_Color: {r: 1, g: 0.6356951, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -179,7 +182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1857405050234248559}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Spawn Point
   m_TagString: Untagged
   m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
@@ -195,7 +198,7 @@ Transform:
   m_GameObject: {fileID: 4903058416899639615}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.37, y: -0.23, z: 0}
+  m_LocalPosition: {x: -0.06, y: -0.23, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -212,7 +215,7 @@ GameObject:
   - component: {fileID: 965246708670760632}
   - component: {fileID: 3231625117405996430}
   - component: {fileID: 8989935855342895777}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Hive
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -249,11 +252,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb5fd2183118fb84180306b3ecdfa2db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 1906999764069435386, guid: 7a03ac1e8094a2444bab3a73192aa8d8, type: 3}
-  enemySpawnCount: {x: 1, y: 5}
+  enemyPrefab: {fileID: 2884131935082753357, guid: 47ab44e4de05318488deb5d81ac53416, type: 3}
+  enemySpawnCount: {x: 2, y: 3}
   spawnPoint: {fileID: 1857405050234248559}
   coolDown: 5
-  spawnDelay: 0.01
+  spawnDelay: 0.3
 --- !u!50 &8989935855342895777
 Rigidbody2D:
   serializedVersion: 5

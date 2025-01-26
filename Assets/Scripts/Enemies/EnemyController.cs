@@ -3,27 +3,31 @@ using NaughtyAttributes;
 
 public class EnemyController : MonoBehaviour
 {
-    protected Transform Player => Game.Instance.Player.transform;
     protected Rigidbody2D rb;
+    [SerializeField] protected float despawnDistance = -1;
     [SerializeField, Layer] protected string groundLayer = "Ground";
     [SerializeField, Layer] protected string blockLayer = "EnemyBlocker";
+
+    protected Transform Player => Game.Instance.Player ? Game.Instance.Player.transform : null;
+    protected Vector2 PlayerDirection => Player.position - transform.position;
 
     protected virtual void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
-    protected Vector2 PlayerDirection => Player.position - transform.position;
-
-    protected bool PlayerVisible
+    protected virtual void Update()
     {
-        get
+        if (despawnDistance > 0
+            && Player != null
+            && Vector2.Distance(transform.position, Player.position) > despawnDistance)
         {
-            var direction = Player.position - transform.position;
-            return !Physics2D.Raycast(transform.position,
-                                      Player.position - transform.position,
-                                      direction.magnitude,
-                                      1 << LayerMask.NameToLayer("Ground"));
+            Destroy(gameObject);
         }
     }
+
+    protected bool PlayerVisible => !Physics2D.Raycast(transform.position,
+                                      Player.position - transform.position,
+                                      PlayerDirection.magnitude,
+                                      1 << LayerMask.NameToLayer("Ground"));
 }

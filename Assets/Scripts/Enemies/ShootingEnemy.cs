@@ -9,8 +9,10 @@ public class ShootingEnemy : EnemyController
     [ShowNonSerializedField] State state = State.Idle;
     float lastAttackTime = 0;
 
-    void Update()
+    protected override void Update()
     {
+        base.Update();
+
         if (state == State.Idle)
             return;
 
