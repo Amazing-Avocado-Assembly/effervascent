@@ -60,6 +60,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 7d2efdcfb8d693c49bcc1a37b8e73aa3, type: 3}
+    - target: {fileID: 5759126118091789858, guid: 7a03ac1e8094a2444bab3a73192aa8d8, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759126118091789858, guid: 7a03ac1e8094a2444bab3a73192aa8d8, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5899423243348630046, guid: 7a03ac1e8094a2444bab3a73192aa8d8, type: 3}
       propertyPath: m_Radius
       value: 0.42
