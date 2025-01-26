@@ -18,11 +18,19 @@ public class BossFight : MonoBehaviour
 
     public BossFightStatus Status { get; set; } = BossFightStatus.NotBegun;
 
-    public void Awake()
+    public void Start()
     {
+        Boss.Defeated += () =>
+        {
+            foreach (var door in Exit)
+            {
+                door.Toggle(isOpen: true);
+            }
+            Status = BossFightStatus.Ended;
+        };
         Reset();
     }
-    
+
     public void Reset()
     {
         foreach (var door in Entry)
@@ -30,13 +38,13 @@ public class BossFight : MonoBehaviour
             door.Toggle(isOpen: true, animated: false);
         }
         StartTrigger.Triggered += OnStartTrigger;
-        Boss.SetPathPosition(Boss.InitialPathPosition);
+        Boss.Reset();
         Status = BossFightStatus.NotBegun;
     }
 
     private void OnStartTrigger(Collider2D collider)
     {
-        if (!collider.CompareTag("Player"))
+        if (!collider.transform.parent.CompareTag("Player"))
         {
             return;
         }
@@ -47,6 +55,12 @@ public class BossFight : MonoBehaviour
 
     private void BeginFight()
     {
+        if (Status != BossFightStatus.NotBegun)
+        {
+            return;
+        }
+
+        Status = BossFightStatus.InProgress;
         foreach (var door in Entry)
         {
             door.Toggle(isOpen: false, duration: 0.5f);

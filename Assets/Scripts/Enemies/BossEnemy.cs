@@ -5,14 +5,21 @@ using UnityEngine.Splines;
 
 public class BossEnemy : MonoBehaviour
 {
+    public const float InitialSpeed = 2f;
+    public const float InitialSize = 1.0f;
+
     public SplineContainer path;
     public Transform center;
     public float InitialPathPosition = 0f;
+    public int MaxHealth = 3;
+    public CollisionListener Collider;
 
     private float pathPosition = 0f;
 
-    public float Speed { get; set; } = 0.5f;
-    public float Size { get; set; } = 1f;
+    public float Speed { get; set; } = InitialSpeed;
+    public int Health { get; set; }
+
+    public event Action Defeated;
 
     public void Update()
     {
@@ -20,9 +27,16 @@ public class BossEnemy : MonoBehaviour
 
     }
 
-    private void Start()
+    public void Reset()
     {
         SetPathPosition(InitialPathPosition);
+        SetHealth(MaxHealth);
+    }
+
+    private void Start()
+    {
+        Reset();
+        Collider.Collided += OnCollided;
     }
 
     private void OnTriggerEnter2D(Collider2D collider)
@@ -42,7 +56,15 @@ public class BossEnemy : MonoBehaviour
             {
                 tweenPathPosition = p;
                 SetPathPosition(p);
-            }, tweenPathPosition + 0.1f * dir, Speed);
+            }, tweenPathPosition + -0.1f * dir, 1f / Speed);
+        }
+    }
+
+    private void OnCollided(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Projectile"))
+        {
+            SetHealth(Health - 1);
         }
     }
 
@@ -60,5 +82,19 @@ public class BossEnemy : MonoBehaviour
         up.z = 0f;
         up.Normalize();
         transform.up = up;
+    }
+
+    public void SetHealth(int h)
+    {
+        if (h <= 0)
+        {
+            Health = 0;
+            Defeated?.Invoke();
+            return;
+        }
+
+        Health = h;
+        transform.DOScale(h / (float)MaxHealth, 0.5f);
+        Speed = InitialSpeed * Math.Max(1, MaxHealth - h + 1);
     }
 }

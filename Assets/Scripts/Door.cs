@@ -11,9 +11,13 @@ public class Door : MonoBehaviour
 
     private Vector3[] closedPositions;
 
-    private void Start()
+    private void Awake()
     {
         closedPositions = SlidingObjects.Select(s => s.localPosition).ToArray();
+    }
+
+    private void Start()
+    {
         Toggle(IsInitiallyOpen, animated: false);
     }
 

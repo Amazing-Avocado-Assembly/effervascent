@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 913297287586580221}
   - component: {fileID: 166570686766465325}
   - component: {fileID: 6847833216387800053}
+  - component: {fileID: 860341326232826033}
   m_Layer: 0
   m_Name: BossSprite
   m_TagString: Enemy
@@ -155,6 +156,18 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: -0.0000019073486}
   m_Radius: 1.2
+--- !u!114 &860341326232826033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 822790337638070420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afef3bd86a72eb34887e78ee63869774, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1121715666050084515
 GameObject:
   m_ObjectHideFlags: 0
@@ -799,6 +812,8 @@ MonoBehaviour:
   path: {fileID: 3512631666004678499}
   center: {fileID: 5759534082243816298}
   InitialPathPosition: 0.5
+  MaxHealth: 3
+  Collider: {fileID: 860341326232826033}
 --- !u!58 &1873011910814926294
 CircleCollider2D:
   m_ObjectHideFlags: 0
