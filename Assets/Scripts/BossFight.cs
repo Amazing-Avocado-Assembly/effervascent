@@ -15,6 +15,7 @@ public class BossFight : MonoBehaviour
     public Door[] Exit;
     public Button Button;
     public BossEnemy Boss;
+    public Transform Center;
 
     public BossFightStatus Status { get; set; } = BossFightStatus.NotBegun;
 
@@ -27,6 +28,7 @@ public class BossFight : MonoBehaviour
                 door.Toggle(isOpen: true);
             }
             Status = BossFightStatus.Ended;
+            Game.Instance.PlayerFollowCamera.Follow = Game.Instance.Player.transform;
         };
         Reset();
     }
@@ -37,6 +39,11 @@ public class BossFight : MonoBehaviour
         {
             door.Toggle(isOpen: true, animated: false);
         }
+        foreach (var door in Exit)
+        {
+            door.Toggle(isOpen: false, animated: false);
+        }
+
         StartTrigger.Triggered += OnStartTrigger;
         Boss.Reset();
         Status = BossFightStatus.NotBegun;
@@ -65,6 +72,8 @@ public class BossFight : MonoBehaviour
         {
             door.Toggle(isOpen: false, duration: 0.5f);
         }
+        
+        Game.Instance.PlayerFollowCamera.Follow = Center;
 
         StartCoroutine(UnlockButton());
     }

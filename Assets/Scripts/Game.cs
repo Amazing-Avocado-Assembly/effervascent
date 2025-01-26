@@ -1,6 +1,6 @@
+using Unity.Cinemachine;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 
 public class Game : MonoBehaviour
@@ -12,6 +12,7 @@ public class Game : MonoBehaviour
     public UI UI;
     public Texture2D CursorTexture;
     public BossFight BossFight;
+    public CinemachineCamera PlayerFollowCamera;
 
     public Player Player => RespawnPoint.Player;
 

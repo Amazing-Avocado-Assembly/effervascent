@@ -11,7 +11,7 @@ public class BossEnemy : MonoBehaviour
     public SplineContainer path;
     public Transform center;
     public float InitialPathPosition = 0f;
-    public int MaxHealth = 3;
+    public int MaxHealth = 2;
     public CollisionListener Collider;
 
     private float pathPosition = 0f;
@@ -24,7 +24,6 @@ public class BossEnemy : MonoBehaviour
     public void Update()
     {
         // pathPosition = (pathPosition + Time.deltaTime * 0.1f) % 1f;
-
     }
 
     public void Reset()
@@ -89,6 +88,7 @@ public class BossEnemy : MonoBehaviour
         if (h <= 0)
         {
             Health = 0;
+            transform.DOScale(0f, 0.5f);
             Defeated?.Invoke();
             return;
         }
