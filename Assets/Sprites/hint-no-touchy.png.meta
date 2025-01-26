@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hint-no-touchy_0: -6094968699733533504
+      hint-no-touchy_1: -8720911001065109443
+      hint-no-touchy_2: -829633655030680703
+      hint-no-touchy_3: 4615881130726799949
+      hint-no-touchy_4: 3619698740382153534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -328,11 +328,9 @@ Transform:
   - {fileID: 1516888891}
   - {fileID: 1469444164}
   - {fileID: 1105948075}
-  - {fileID: 1122296967}
   - {fileID: 966018106}
   - {fileID: 1501137356}
   - {fileID: 131066121}
-  - {fileID: 1867643799}
   - {fileID: 461546221}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6979,11 +6977,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 1288696778624410899, guid: 672a8bac00212f14cbf461a1196f7b98, type: 3}
   m_PrefabInstance: {fileID: 1121487132}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1122296967 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8239440048465591331, guid: 70fd40d9f1cd2d545838c125943b3e4d, type: 3}
-  m_PrefabInstance: {fileID: 1681228581}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1146573587 stripped
 Transform:
