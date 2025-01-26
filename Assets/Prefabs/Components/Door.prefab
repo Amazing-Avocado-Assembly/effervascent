@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7489995869850383125}
+  - component: {fileID: 8973898206048622287}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -33,6 +34,21 @@ Transform:
   - {fileID: 3659759007878881961}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8973898206048622287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1580271021538954771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55fc5e1e13b76fc4e9038aba34273892, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SlidingObjects:
+  - {fileID: 3659759007878881961}
+  IsInitiallyOpen: 0
 --- !u!1 &3466205185052992390
 GameObject:
   m_ObjectHideFlags: 0
@@ -177,6 +193,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3659759007878881961}
   - component: {fileID: 8875431323513458956}
+  - component: {fileID: 7960119779083051559}
   m_Layer: 0
   m_Name: Sliding
   m_TagString: Untagged
@@ -297,6 +314,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &7960119779083051559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5272024609727701502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60e462a54473d654eaad60c832c0a5dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7706946736036933512
 GameObject:
   m_ObjectHideFlags: 0
