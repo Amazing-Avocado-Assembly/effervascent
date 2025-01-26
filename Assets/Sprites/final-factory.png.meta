@@ -325,6 +325,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1947,7 +1960,80 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      final-factory_0: -3333431179703061469
+      final-factory_1: -3059440486740663649
+      final-factory_10: 6025927988419886307
+      final-factory_11: -2075119634103432
+      final-factory_12: 8607575634765012735
+      final-factory_13: -3220362236700872332
+      final-factory_14: 2031146765619125147
+      final-factory_15: -7476629023175733111
+      final-factory_16: 7672097055071689502
+      final-factory_17: 5940826386959843152
+      final-factory_18: 6454258000691058474
+      final-factory_19: 1797642637560474804
+      final-factory_2: 5029494009225437730
+      final-factory_20: 5421110287975845196
+      final-factory_21: 4298930717413779047
+      final-factory_22: 1661748556843412950
+      final-factory_23: 5562499144338222930
+      final-factory_24: -5493361259267942320
+      final-factory_25: -6365380707210298916
+      final-factory_26: 8230742408752234489
+      final-factory_27: -1548064550098940567
+      final-factory_28: 9210278127509193682
+      final-factory_29: 6723073464745875007
+      final-factory_3: -4272466679144795720
+      final-factory_30: 8179629049504676448
+      final-factory_31: 192592817487287751
+      final-factory_32: -5494592300095309143
+      final-factory_33: -258185020716092196
+      final-factory_34: 5652662564528989042
+      final-factory_35: -3683605619025101406
+      final-factory_36: -6328394501164973912
+      final-factory_37: -7155892043775579220
+      final-factory_38: -8222531058999259570
+      final-factory_39: -2090667884180683116
+      final-factory_4: -8134593853782700783
+      final-factory_40: -1528165642865843359
+      final-factory_41: -1775132061347188511
+      final-factory_42: 817470032596784997
+      final-factory_43: 5814331153787901916
+      final-factory_44: 583860942897196577
+      final-factory_45: -8679719440040022881
+      final-factory_46: -2243842169226304965
+      final-factory_47: 5244221708945827389
+      final-factory_48: 7543307296456983300
+      final-factory_49: 537389802764081444
+      final-factory_5: -7568209201337333970
+      final-factory_50: 8762615282369747626
+      final-factory_51: -7160048772454378321
+      final-factory_52: 1482667590519725840
+      final-factory_53: 7228786042443280859
+      final-factory_54: 6840435231117695422
+      final-factory_55: -2881561427696739912
+      final-factory_56: -2370061754056585167
+      final-factory_57: -6145742558949019905
+      final-factory_58: -833707971402855466
+      final-factory_59: 6685823015216821687
+      final-factory_6: -2996225980285553634
+      final-factory_60: 3417014335414344181
+      final-factory_61: -7707250740168209611
+      final-factory_62: -8299900593413256716
+      final-factory_63: 8609557637657710720
+      final-factory_64: -7446586686195639999
+      final-factory_65: 8210600270338917847
+      final-factory_66: -7810591872520980390
+      final-factory_67: -5765544551974998010
+      final-factory_68: -8837799113043494361
+      final-factory_69: 8515752758349502520
+      final-factory_7: -7902448351691224023
+      final-factory_70: -6621880571009541725
+      final-factory_71: -3086904967202413112
+      final-factory_72: -3387128436998617387
+      final-factory_8: -6197720232977151586
+      final-factory_9: 1493919322993954807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
