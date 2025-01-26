@@ -251,6 +251,7 @@ GameObject:
   - component: {fileID: 8234036289297739069}
   - component: {fileID: 7034957656151258791}
   - component: {fileID: 8336851184336230197}
+  - component: {fileID: 2098364862461770634}
   m_Layer: 8
   m_Name: ShootingEnemy
   m_TagString: Enemy
@@ -319,3 +320,18 @@ MonoBehaviour:
   blockLayer: EnemyBlocker
   bulletPrefab: {fileID: 664720748610903456, guid: 4c1c20bec78e2c3429989dcb0d27f5f8, type: 3}
   coolDown: 2
+--- !u!114 &2098364862461770634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5500822739764454729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a33ea53168c569438e4312843575dde, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minVolume: 5
+  minWrappingBubbleRadius: 0.8
+  captureOrigin: {fileID: 8234036289297739069}
