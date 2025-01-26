@@ -22,7 +22,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2816002777456035221, guid: 7a03ac1e8094a2444bab3a73192aa8d8, type: 3}
       propertyPath: m_Radius
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 3303382384469531025, guid: 7a03ac1e8094a2444bab3a73192aa8d8, type: 3}
       propertyPath: despawnDistance
