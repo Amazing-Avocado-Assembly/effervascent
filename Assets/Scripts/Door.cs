@@ -11,18 +11,13 @@ public class Door : MonoBehaviour
 
     private Vector3[] closedPositions;
 
-    private void Awake()
-    {
-        IsOpen = IsInitiallyOpen;
-        Toggle(IsInitiallyOpen, animated: false);
-    }
-
     private void Start()
     {
         closedPositions = SlidingObjects.Select(s => s.localPosition).ToArray();
+        Toggle(IsInitiallyOpen, animated: false);
     }
 
-    public void Toggle(bool? isOpen = null, bool animated = true)
+    public void Toggle(bool? isOpen = null, bool animated = true, float duration = 2f)
     {
         if (isOpen != null)
         {
@@ -45,7 +40,7 @@ public class Door : MonoBehaviour
             var targetPosition = IsOpen ? Vector3.zero : closedPositions[i];
             if (animated)
             {
-                door.DOLocalMove(targetPosition, 2f).SetEase(Ease.InOutCubic);
+                door.DOLocalMove(targetPosition, duration).SetEase(Ease.InOutCubic);
                 if (door.TryGetComponent<AudioSource>(out var audioSource))
                 {
                     audioSource.Play();
