@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lore-fight_0: -7456019776755658688
+      lore-fight_1: -7441695537590703070
+      lore-fight_2: -8080842820594842173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

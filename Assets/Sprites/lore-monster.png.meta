@@ -1572,7 +1572,65 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lore-monster_0: 5182943139447725599
+      lore-monster_1: -7230105019687078347
+      lore-monster_10: -5919348875423602283
+      lore-monster_11: 976287387886704844
+      lore-monster_12: 5395608375502769550
+      lore-monster_13: -2453686780038607396
+      lore-monster_14: 7807137305450548744
+      lore-monster_15: -1952851308175783720
+      lore-monster_16: -838236156681467040
+      lore-monster_17: 4808984402792995861
+      lore-monster_18: -360920835696787106
+      lore-monster_19: -3339788769714831547
+      lore-monster_2: -1507158661041098691
+      lore-monster_20: 7202293382853459574
+      lore-monster_21: -2843949855720638026
+      lore-monster_22: 2932879264647641262
+      lore-monster_23: -1584840564315626992
+      lore-monster_24: 7361833509278852608
+      lore-monster_25: 4674638509631846698
+      lore-monster_26: 7353451227986883711
+      lore-monster_27: 348629736331011436
+      lore-monster_28: 5723091774639601536
+      lore-monster_29: -4864602940325766092
+      lore-monster_3: 3330839662447733160
+      lore-monster_30: 1146216613661273856
+      lore-monster_31: -9097678116486692408
+      lore-monster_32: -8863785291636059178
+      lore-monster_33: -7734957123622686399
+      lore-monster_34: -3052815171438797799
+      lore-monster_35: -6335340290021264901
+      lore-monster_36: -1265716278538084728
+      lore-monster_37: 5477709606261592523
+      lore-monster_38: -3073457793828110631
+      lore-monster_39: -4973585411337437307
+      lore-monster_4: 1313756408028338514
+      lore-monster_40: -2787654896883026772
+      lore-monster_41: 6045150335663939986
+      lore-monster_42: -6581254917274767007
+      lore-monster_43: -3236043379621158926
+      lore-monster_44: 1098979024168087203
+      lore-monster_45: 1888082527756128015
+      lore-monster_46: 4019499037438723275
+      lore-monster_47: 2093794025634513032
+      lore-monster_48: 1169579220279571106
+      lore-monster_49: -8387699623793339468
+      lore-monster_5: 5685901823923538591
+      lore-monster_50: 4123636127210150320
+      lore-monster_51: -4775136741256344922
+      lore-monster_52: -3017480351546277906
+      lore-monster_53: -4460920081819340222
+      lore-monster_54: -3299832613625774604
+      lore-monster_55: -1245165212090773954
+      lore-monster_56: 6221781649657580293
+      lore-monster_57: 3737094486847727295
+      lore-monster_6: -5781838241313334043
+      lore-monster_7: -3566966044877694981
+      lore-monster_8: -8717802126037486868
+      lore-monster_9: 2299685819877483045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

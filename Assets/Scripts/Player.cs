@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 public class Player : MonoBehaviour
 {
     private const float ExpectedMaxProjectileVolumeHeuristic = 25f;
-    
+
     public Bubble Bubble { get; private set; }
     public Rigidbody2D RB { get; private set; }
 
@@ -159,7 +159,8 @@ public class Player : MonoBehaviour
         Game.Instance.KillAndRespawn();
     }
 
-    public void VictoryPop() {
+    public void VictoryPop()
+    {
         if (popParticles != null)
         {
             Instantiate(popParticles, transform.position, Quaternion.identity);
@@ -168,11 +169,13 @@ public class Player : MonoBehaviour
         Game.Instance.PlayGlobalSound(popSound);
     }
 
-    private Vector3 GetLookDirection() {
+    private Vector3 GetLookDirection()
+    {
         var joystickDirection = lookAction.ReadValue<Vector2>();
         joystickDirection.Normalize();
 
-        if (joystickDirection.magnitude < 0.1f) {
+        if (joystickDirection.magnitude < 0.1f)
+        {
             return lastLook;
         }
 
