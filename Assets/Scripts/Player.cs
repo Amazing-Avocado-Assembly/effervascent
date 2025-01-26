@@ -159,6 +159,15 @@ public class Player : MonoBehaviour
         Game.Instance.KillAndRespawn();
     }
 
+    public void VictoryPop() {
+        if (popParticles != null)
+        {
+            Instantiate(popParticles, transform.position, Quaternion.identity);
+        }
+        // TODO: Play victory sound
+        Game.Instance.PlayGlobalSound(popSound);
+    }
+
     private Vector3 GetLookDirection() {
         var joystickDirection = lookAction.ReadValue<Vector2>();
         joystickDirection.Normalize();
