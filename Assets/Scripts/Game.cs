@@ -11,6 +11,7 @@ public class Game : MonoBehaviour
     public FinishPoint FinishPoint;
     public UI UI;
     public Texture2D CursorTexture;
+    public BossFight BossFight;
 
     public Player Player => RespawnPoint.Player;
 
@@ -65,11 +66,13 @@ public class Game : MonoBehaviour
 
     public void Spawn()
     {
+        BossFight?.Reset();
         RespawnPoint.Spawn();
     }
 
     public void KillAndRespawn()
     {
+        BossFight?.Reset();
         RespawnPoint.Respawn();
     }
 

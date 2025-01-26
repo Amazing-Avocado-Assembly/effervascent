@@ -14,12 +14,24 @@ public class BossFight : MonoBehaviour
     public Door[] Entry;
     public Door[] Exit;
     public Button Button;
+    public BossEnemy Boss;
 
     public BossFightStatus Status { get; set; } = BossFightStatus.NotBegun;
 
     public void Awake()
     {
+        Reset();
+    }
+    
+    public void Reset()
+    {
+        foreach (var door in Entry)
+        {
+            door.Toggle(isOpen: true, animated: false);
+        }
         StartTrigger.Triggered += OnStartTrigger;
+        Boss.SetPathPosition(Boss.InitialPathPosition);
+        Status = BossFightStatus.NotBegun;
     }
 
     private void OnStartTrigger(Collider2D collider)
