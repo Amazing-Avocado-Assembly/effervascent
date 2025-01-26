@@ -29,22 +29,24 @@ public class Game : MonoBehaviour
 
         Instance = this;
         // DontDestroyOnLoad(gameObject);
-        UI.Hide();
+        UI.Show(UIMode.Start);
+        // UI.Hide();
         FinishPoint.Finished += () =>
         {
-            UI.HeaderText = UI.TheEndText;
-            UI.Show();
+            UI.Show(UIMode.End);
             isFinished = true;
         };
 
         UI.Ascended += () =>
         {
             UI.Hide();
-            RespawnPoint.Kill().onComplete += () =>
-            {
-                isFinished = false;
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-            };
+            if (isFinished || isPaused) {
+                RespawnPoint.Kill().onComplete += () =>
+                {
+                    isFinished = false;
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                };
+            }
         };
         UI.Escaped += () =>
         {
@@ -84,8 +86,7 @@ public class Game : MonoBehaviour
             isPaused = !isPaused;
             if (isPaused)
             {
-                UI.HeaderText = UI.PauseText;
-                UI.Show();
+                UI.Show(UIMode.Pause);
             }
             else
             {
