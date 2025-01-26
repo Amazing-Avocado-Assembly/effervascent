@@ -1,0 +1,6980 @@
+fileFormatVersion: 2
+guid: 1a8c90d0dbf1acc4680f0df57fe32d31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4695536098673849635
+    second: lore-good-guy_0
+  - first:
+      213: 1297813825061069879
+    second: lore-good-guy_1
+  - first:
+      213: -4833448086818422032
+    second: lore-good-guy_2
+  - first:
+      213: 7417042832901197727
+    second: lore-good-guy_3
+  - first:
+      213: 173287162977505849
+    second: lore-good-guy_4
+  - first:
+      213: -2869971160746151244
+    second: lore-good-guy_5
+  - first:
+      213: -5334783258083561571
+    second: lore-good-guy_6
+  - first:
+      213: -6790701171758696983
+    second: lore-good-guy_7
+  - first:
+      213: 1022634318727609990
+    second: lore-good-guy_8
+  - first:
+      213: -7240015202864835076
+    second: lore-good-guy_9
+  - first:
+      213: -6131268572759249980
+    second: lore-good-guy_10
+  - first:
+      213: -2349795815773155273
+    second: lore-good-guy_11
+  - first:
+      213: -4051731245481743076
+    second: lore-good-guy_12
+  - first:
+      213: 4475981732845514320
+    second: lore-good-guy_13
+  - first:
+      213: 7233749530217615721
+    second: lore-good-guy_14
+  - first:
+      213: 5446166409377816297
+    second: lore-good-guy_15
+  - first:
+      213: 8696976606804309380
+    second: lore-good-guy_16
+  - first:
+      213: -2872275057405900499
+    second: lore-good-guy_17
+  - first:
+      213: -6174496422330908619
+    second: lore-good-guy_18
+  - first:
+      213: 9109673110892082559
+    second: lore-good-guy_19
+  - first:
+      213: 7792951163871900897
+    second: lore-good-guy_20
+  - first:
+      213: 4854307490750942017
+    second: lore-good-guy_21
+  - first:
+      213: -1789113135674796303
+    second: lore-good-guy_22
+  - first:
+      213: -1854587004857257779
+    second: lore-good-guy_23
+  - first:
+      213: 228110931022323144
+    second: lore-good-guy_24
+  - first:
+      213: 6548810790123992738
+    second: lore-good-guy_25
+  - first:
+      213: -3024185563652869277
+    second: lore-good-guy_26
+  - first:
+      213: -6300036310085597972
+    second: lore-good-guy_27
+  - first:
+      213: 5067601907899097663
+    second: lore-good-guy_28
+  - first:
+      213: -2669405603232671925
+    second: lore-good-guy_29
+  - first:
+      213: -2304163961293794745
+    second: lore-good-guy_30
+  - first:
+      213: -961322002908869615
+    second: lore-good-guy_31
+  - first:
+      213: -6455621741386706567
+    second: lore-good-guy_32
+  - first:
+      213: 1322135067187044251
+    second: lore-good-guy_33
+  - first:
+      213: -8760190747837643441
+    second: lore-good-guy_34
+  - first:
+      213: 6514294218300480066
+    second: lore-good-guy_35
+  - first:
+      213: -6532398755206684198
+    second: lore-good-guy_36
+  - first:
+      213: 3300501781517398837
+    second: lore-good-guy_37
+  - first:
+      213: 4527049453634825789
+    second: lore-good-guy_38
+  - first:
+      213: 8558987951957955247
+    second: lore-good-guy_39
+  - first:
+      213: -8957638801135566038
+    second: lore-good-guy_40
+  - first:
+      213: 3990971724553046073
+    second: lore-good-guy_41
+  - first:
+      213: -3816960949707690781
+    second: lore-good-guy_42
+  - first:
+      213: 7675665020580606794
+    second: lore-good-guy_43
+  - first:
+      213: 8421248807764928782
+    second: lore-good-guy_44
+  - first:
+      213: -5639061584634078211
+    second: lore-good-guy_45
+  - first:
+      213: 7648812066008946247
+    second: lore-good-guy_46
+  - first:
+      213: 8732896024001806992
+    second: lore-good-guy_47
+  - first:
+      213: 5736168543270950050
+    second: lore-good-guy_48
+  - first:
+      213: 3367974338734923696
+    second: lore-good-guy_49
+  - first:
+      213: 297112449129169832
+    second: lore-good-guy_50
+  - first:
+      213: 1763308919825261425
+    second: lore-good-guy_51
+  - first:
+      213: 5951792201336550139
+    second: lore-good-guy_52
+  - first:
+      213: -5686618906400442081
+    second: lore-good-guy_53
+  - first:
+      213: 5464548701237202011
+    second: lore-good-guy_54
+  - first:
+      213: 8005587364130459118
+    second: lore-good-guy_55
+  - first:
+      213: 7277521923437618544
+    second: lore-good-guy_56
+  - first:
+      213: -6123294356691086953
+    second: lore-good-guy_57
+  - first:
+      213: -6405951934784472213
+    second: lore-good-guy_58
+  - first:
+      213: 6802223411915785938
+    second: lore-good-guy_59
+  - first:
+      213: -3577752734996715015
+    second: lore-good-guy_60
+  - first:
+      213: -1914650594653599574
+    second: lore-good-guy_61
+  - first:
+      213: 7961139407448952977
+    second: lore-good-guy_62
+  - first:
+      213: -3193037220566986636
+    second: lore-good-guy_63
+  - first:
+      213: -4503471023315405473
+    second: lore-good-guy_64
+  - first:
+      213: 8161223169207460453
+    second: lore-good-guy_65
+  - first:
+      213: 7292961695171641965
+    second: lore-good-guy_66
+  - first:
+      213: -3512413349567513368
+    second: lore-good-guy_67
+  - first:
+      213: -6547177150710121775
+    second: lore-good-guy_68
+  - first:
+      213: 9105119019239677713
+    second: lore-good-guy_69
+  - first:
+      213: 8112235529156182841
+    second: lore-good-guy_70
+  - first:
+      213: 8417466136879486586
+    second: lore-good-guy_71
+  - first:
+      213: -1898747855319309004
+    second: lore-good-guy_72
+  - first:
+      213: 7085295380652366684
+    second: lore-good-guy_73
+  - first:
+      213: -4796698874944536617
+    second: lore-good-guy_74
+  - first:
+      213: -726007590536834580
+    second: lore-good-guy_75
+  - first:
+      213: 7482567373059737111
+    second: lore-good-guy_76
+  - first:
+      213: 7434290142018073755
+    second: lore-good-guy_77
+  - first:
+      213: -6166658050865348754
+    second: lore-good-guy_78
+  - first:
+      213: 6512292234554664839
+    second: lore-good-guy_79
+  - first:
+      213: -1402165609764572469
+    second: lore-good-guy_80
+  - first:
+      213: -7394332476617519652
+    second: lore-good-guy_81
+  - first:
+      213: 3282168313538832411
+    second: lore-good-guy_82
+  - first:
+      213: -557425740678641951
+    second: lore-good-guy_83
+  - first:
+      213: -1524983511647944972
+    second: lore-good-guy_84
+  - first:
+      213: -6071186469003820891
+    second: lore-good-guy_85
+  - first:
+      213: 6940631685623844393
+    second: lore-good-guy_86
+  - first:
+      213: -4473191234660478314
+    second: lore-good-guy_87
+  - first:
+      213: -7585432801047619383
+    second: lore-good-guy_88
+  - first:
+      213: -8023812337108966047
+    second: lore-good-guy_89
+  - first:
+      213: 7250755272650692800
+    second: lore-good-guy_90
+  - first:
+      213: 4573399553153587899
+    second: lore-good-guy_91
+  - first:
+      213: -8909255423612673317
+    second: lore-good-guy_92
+  - first:
+      213: 6036366583169618970
+    second: lore-good-guy_93
+  - first:
+      213: -242255388196151191
+    second: lore-good-guy_94
+  - first:
+      213: 3750048376249828950
+    second: lore-good-guy_95
+  - first:
+      213: -6030512435163038658
+    second: lore-good-guy_96
+  - first:
+      213: 1370396479617760633
+    second: lore-good-guy_97
+  - first:
+      213: 3075707333280629014
+    second: lore-good-guy_98
+  - first:
+      213: 6532182945480892243
+    second: lore-good-guy_99
+  - first:
+      213: -3832400770558294015
+    second: lore-good-guy_100
+  - first:
+      213: -2684370920284351399
+    second: lore-good-guy_101
+  - first:
+      213: 1193428649342420376
+    second: lore-good-guy_102
+  - first:
+      213: 1257845060375302333
+    second: lore-good-guy_103
+  - first:
+      213: -9110528135507424198
+    second: lore-good-guy_104
+  - first:
+      213: 5493745667741416126
+    second: lore-good-guy_105
+  - first:
+      213: 359059367566998789
+    second: lore-good-guy_106
+  - first:
+      213: 1575919910705778956
+    second: lore-good-guy_107
+  - first:
+      213: 4785315559419739141
+    second: lore-good-guy_108
+  - first:
+      213: 8609231530311067137
+    second: lore-good-guy_109
+  - first:
+      213: -1985758971266466580
+    second: lore-good-guy_110
+  - first:
+      213: -4387604762714760541
+    second: lore-good-guy_111
+  - first:
+      213: 7263622426821415701
+    second: lore-good-guy_112
+  - first:
+      213: -8942901372599032616
+    second: lore-good-guy_113
+  - first:
+      213: 4085012932154283940
+    second: lore-good-guy_114
+  - first:
+      213: -5017012009798549576
+    second: lore-good-guy_115
+  - first:
+      213: -6413272421621772705
+    second: lore-good-guy_116
+  - first:
+      213: -1795394496412785192
+    second: lore-good-guy_117
+  - first:
+      213: -7620396598647720872
+    second: lore-good-guy_118
+  - first:
+      213: 7220201262480924896
+    second: lore-good-guy_119
+  - first:
+      213: -2892954174299070363
+    second: lore-good-guy_120
+  - first:
+      213: 7074449684774940245
+    second: lore-good-guy_121
+  - first:
+      213: 8401352178475724848
+    second: lore-good-guy_122
+  - first:
+      213: 1463926185095686738
+    second: lore-good-guy_123
+  - first:
+      213: -8318262720051125423
+    second: lore-good-guy_124
+  - first:
+      213: 5208391501187982668
+    second: lore-good-guy_125
+  - first:
+      213: 7954294855250283624
+    second: lore-good-guy_126
+  - first:
+      213: 5575748791952128431
+    second: lore-good-guy_127
+  - first:
+      213: -4505947318623094193
+    second: lore-good-guy_128
+  - first:
+      213: -8540282371047532013
+    second: lore-good-guy_129
+  - first:
+      213: 1591842724134707501
+    second: lore-good-guy_130
+  - first:
+      213: -8601981039200969108
+    second: lore-good-guy_131
+  - first:
+      213: -5642782188209203468
+    second: lore-good-guy_132
+  - first:
+      213: 1941417982730121283
+    second: lore-good-guy_133
+  - first:
+      213: -5639890057335356236
+    second: lore-good-guy_134
+  - first:
+      213: -952638425054145572
+    second: lore-good-guy_135
+  - first:
+      213: -7871080146124272229
+    second: lore-good-guy_136
+  - first:
+      213: -4929100140183534705
+    second: lore-good-guy_137
+  - first:
+      213: 8243692578302238561
+    second: lore-good-guy_138
+  - first:
+      213: -8494619257001115038
+    second: lore-good-guy_139
+  - first:
+      213: -12011139309799388
+    second: lore-good-guy_140
+  - first:
+      213: -1022124517965597209
+    second: lore-good-guy_141
+  - first:
+      213: -408102848550578664
+    second: lore-good-guy_142
+  - first:
+      213: -2642296143674622923
+    second: lore-good-guy_143
+  - first:
+      213: -2242826621731054399
+    second: lore-good-guy_144
+  - first:
+      213: 2105132417028052515
+    second: lore-good-guy_145
+  - first:
+      213: 8165970246729275219
+    second: lore-good-guy_146
+  - first:
+      213: 3152331847156354764
+    second: lore-good-guy_147
+  - first:
+      213: -7359307193056779794
+    second: lore-good-guy_148
+  - first:
+      213: -3463041846694863239
+    second: lore-good-guy_149
+  - first:
+      213: -7965011455925840583
+    second: lore-good-guy_150
+  - first:
+      213: 6780931365339532457
+    second: lore-good-guy_151
+  - first:
+      213: 5994371900638918174
+    second: lore-good-guy_152
+  - first:
+      213: -502184395510752192
+    second: lore-good-guy_153
+  - first:
+      213: 210968889961828595
+    second: lore-good-guy_154
+  - first:
+      213: 2377013941075457740
+    second: lore-good-guy_155
+  - first:
+      213: 7405438566944089343
+    second: lore-good-guy_156
+  - first:
+      213: 1213765812390235726
+    second: lore-good-guy_157
+  - first:
+      213: -22609570613081787
+    second: lore-good-guy_158
+  - first:
+      213: 7945436695046795702
+    second: lore-good-guy_159
+  - first:
+      213: -2973273069705893438
+    second: lore-good-guy_160
+  - first:
+      213: 5031755812609933946
+    second: lore-good-guy_161
+  - first:
+      213: 856323817081903500
+    second: lore-good-guy_162
+  - first:
+      213: 8438174221148714274
+    second: lore-good-guy_163
+  - first:
+      213: 557096771924118877
+    second: lore-good-guy_164
+  - first:
+      213: 2739062885567283686
+    second: lore-good-guy_165
+  - first:
+      213: -2613609673266373953
+    second: lore-good-guy_166
+  - first:
+      213: 8410499959057573795
+    second: lore-good-guy_167
+  - first:
+      213: -8823557260183171205
+    second: lore-good-guy_168
+  - first:
+      213: -2281098716226130662
+    second: lore-good-guy_169
+  - first:
+      213: 5062922767731863229
+    second: lore-good-guy_170
+  - first:
+      213: 5793904026832518755
+    second: lore-good-guy_171
+  - first:
+      213: -2122252164280078124
+    second: lore-good-guy_172
+  - first:
+      213: 4543450931691381667
+    second: lore-good-guy_173
+  - first:
+      213: 6793774791666142438
+    second: lore-good-guy_174
+  - first:
+      213: 3724274128492511283
+    second: lore-good-guy_175
+  - first:
+      213: -3596375273821476773
+    second: lore-good-guy_176
+  - first:
+      213: 6207057801421112001
+    second: lore-good-guy_177
+  - first:
+      213: 3152871003641717048
+    second: lore-good-guy_178
+  - first:
+      213: -6167375089426600710
+    second: lore-good-guy_179
+  - first:
+      213: 1866778071842851304
+    second: lore-good-guy_180
+  - first:
+      213: -2511128311380715693
+    second: lore-good-guy_181
+  - first:
+      213: 7879221884372683648
+    second: lore-good-guy_182
+  - first:
+      213: -8345404256917910326
+    second: lore-good-guy_183
+  - first:
+      213: -1516676025785634064
+    second: lore-good-guy_184
+  - first:
+      213: 6951058441802107881
+    second: lore-good-guy_185
+  - first:
+      213: 1704600884721345030
+    second: lore-good-guy_186
+  - first:
+      213: 4521574113811260076
+    second: lore-good-guy_187
+  - first:
+      213: -7514031857452438912
+    second: lore-good-guy_188
+  - first:
+      213: 1368339995670586327
+    second: lore-good-guy_189
+  - first:
+      213: 2714695144239706569
+    second: lore-good-guy_190
+  - first:
+      213: 4578329799210369934
+    second: lore-good-guy_191
+  - first:
+      213: -316632359335652623
+    second: lore-good-guy_192
+  - first:
+      213: 7321517130862606058
+    second: lore-good-guy_193
+  - first:
+      213: 3642445459106303941
+    second: lore-good-guy_194
+  - first:
+      213: -1361455735596125006
+    second: lore-good-guy_195
+  - first:
+      213: -7326019486289717078
+    second: lore-good-guy_196
+  - first:
+      213: 7809563624970745879
+    second: lore-good-guy_197
+  - first:
+      213: -8425661085491520668
+    second: lore-good-guy_198
+  - first:
+      213: 8806312501678956851
+    second: lore-good-guy_199
+  - first:
+      213: -6317464289785902450
+    second: lore-good-guy_200
+  - first:
+      213: 710970867131499502
+    second: lore-good-guy_201
+  - first:
+      213: -1583260498020050447
+    second: lore-good-guy_202
+  - first:
+      213: -2410266382687968977
+    second: lore-good-guy_203
+  - first:
+      213: 8883237721409570993
+    second: lore-good-guy_204
+  - first:
+      213: -5411181385858532343
+    second: lore-good-guy_205
+  - first:
+      213: 5650476821096729699
+    second: lore-good-guy_206
+  - first:
+      213: -3677014249159968685
+    second: lore-good-guy_207
+  - first:
+      213: 3768972752587772496
+    second: lore-good-guy_208
+  - first:
+      213: 4158212359930164465
+    second: lore-good-guy_209
+  - first:
+      213: -9222204106405960169
+    second: lore-good-guy_210
+  - first:
+      213: -7900309031795701931
+    second: lore-good-guy_211
+  - first:
+      213: -3148912793145144734
+    second: lore-good-guy_212
+  - first:
+      213: -8250817191141615117
+    second: lore-good-guy_213
+  - first:
+      213: 7808189884779460000
+    second: lore-good-guy_214
+  - first:
+      213: -6558887083279238405
+    second: lore-good-guy_215
+  - first:
+      213: 1931671129519856136
+    second: lore-good-guy_216
+  - first:
+      213: -3170364019160842757
+    second: lore-good-guy_217
+  - first:
+      213: -8393566608486543128
+    second: lore-good-guy_218
+  - first:
+      213: 8547323547039605076
+    second: lore-good-guy_219
+  - first:
+      213: 1227145201779889392
+    second: lore-good-guy_220
+  - first:
+      213: -2639552164000560659
+    second: lore-good-guy_221
+  - first:
+      213: -3490890165973002850
+    second: lore-good-guy_222
+  - first:
+      213: -3131824594847972553
+    second: lore-good-guy_223
+  - first:
+      213: 3988956420301189613
+    second: lore-good-guy_224
+  - first:
+      213: -5826582432983022007
+    second: lore-good-guy_225
+  - first:
+      213: 3322111631819898645
+    second: lore-good-guy_226
+  - first:
+      213: -4040340367066058480
+    second: lore-good-guy_227
+  - first:
+      213: 27122153100726146
+    second: lore-good-guy_228
+  - first:
+      213: -4070831501602712131
+    second: lore-good-guy_229
+  - first:
+      213: -5931090497007657425
+    second: lore-good-guy_230
+  - first:
+      213: -5158124622972122694
+    second: lore-good-guy_231
+  - first:
+      213: 5041717921493138766
+    second: lore-good-guy_232
+  - first:
+      213: -8542504034515720758
+    second: lore-good-guy_233
+  - first:
+      213: 4332404245754824308
+    second: lore-good-guy_234
+  - first:
+      213: 8503406726250763060
+    second: lore-good-guy_235
+  - first:
+      213: 3423111720134122358
+    second: lore-good-guy_236
+  - first:
+      213: 5735841818343058939
+    second: lore-good-guy_237
+  - first:
+      213: -663978508016970119
+    second: lore-good-guy_238
+  - first:
+      213: 488050310655810761
+    second: lore-good-guy_239
+  - first:
+      213: 1672499731485606914
+    second: lore-good-guy_240
+  - first:
+      213: -7715199523766864282
+    second: lore-good-guy_241
+  - first:
+      213: 4173239848332451364
+    second: lore-good-guy_242
+  - first:
+      213: -8731141955968435927
+    second: lore-good-guy_243
+  - first:
+      213: 8618690876064424333
+    second: lore-good-guy_244
+  - first:
+      213: 6317505249312223479
+    second: lore-good-guy_245
+  - first:
+      213: -3431395758532390566
+    second: lore-good-guy_246
+  - first:
+      213: -8898670808845617706
+    second: lore-good-guy_247
+  - first:
+      213: -5084392002711577795
+    second: lore-good-guy_248
+  - first:
+      213: 2251773003165013851
+    second: lore-good-guy_249
+  - first:
+      213: 8940563975487114621
+    second: lore-good-guy_250
+  - first:
+      213: -3321573899435160536
+    second: lore-good-guy_251
+  - first:
+      213: 762735167539873908
+    second: lore-good-guy_252
+  - first:
+      213: 1826236939027669591
+    second: lore-good-guy_253
+  - first:
+      213: 7171357591684620554
+    second: lore-good-guy_254
+  - first:
+      213: -5525807616070570766
+    second: lore-good-guy_255
+  - first:
+      213: -2999965687694194519
+    second: lore-good-guy_256
+  - first:
+      213: 6852561075391593669
+    second: lore-good-guy_257
+  - first:
+      213: -5386328711914152891
+    second: lore-good-guy_258
+  - first:
+      213: -1753002855413930330
+    second: lore-good-guy_259
+  - first:
+      213: 6334617610374780610
+    second: lore-good-guy_260
+  - first:
+      213: -6214032072433612703
+    second: lore-good-guy_261
+  - first:
+      213: -5711827627978937576
+    second: lore-good-guy_262
+  - first:
+      213: -6471413567798685093
+    second: lore-good-guy_263
+  - first:
+      213: 2775075111281457667
+    second: lore-good-guy_264
+  - first:
+      213: 4005162293238399110
+    second: lore-good-guy_265
+  - first:
+      213: 1700249144539398955
+    second: lore-good-guy_266
+  - first:
+      213: 4829460410434706150
+    second: lore-good-guy_267
+  - first:
+      213: 2964021117932416735
+    second: lore-good-guy_268
+  - first:
+      213: -7177419889761269302
+    second: lore-good-guy_269
+  - first:
+      213: -6871757916683368454
+    second: lore-good-guy_270
+  - first:
+      213: 1805261716888888018
+    second: lore-good-guy_271
+  - first:
+      213: 5812454469886004454
+    second: lore-good-guy_272
+  - first:
+      213: -3630431970533963449
+    second: lore-good-guy_273
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lore-good-guy_0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 969
+        width: 106
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda8588dbca16deb0800000000000000
+      internalID: -4695536098673849635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1006
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7342b5b3cc2c20210800000000000000
+      internalID: 1297813825061069879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 981
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f285e0e2942cecb0800000000000000
+      internalID: -4833448086818422032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 975
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fceeac821aee660800000000000000
+      internalID: 7417042832901197727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1011
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d861b1c3a76200800000000000000
+      internalID: 173287162977505849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1001
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23c106f60db28d0800000000000000
+      internalID: -2869971160746151244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 987
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f6a3444ea07f5b0800000000000000
+      internalID: -5334783258083561571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1005
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e57e71534592c1a0800000000000000
+      internalID: -6790701171758696983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 979
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ef1e6ae70213e00800000000000000
+      internalID: 1022634318727609990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 995
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf550d0488c468b90800000000000000
+      internalID: -7240015202864835076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 973
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb2b2ac7bb59eaa0800000000000000
+      internalID: -6131268572759249980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 986
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7305422c729d36fd0800000000000000
+      internalID: -2349795815773155273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 977
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1da5b336eb55c7c0800000000000000
+      internalID: -4051731245481743076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 999
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ee467dba1ed1e30800000000000000
+      internalID: 4475981732845514320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 987
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96115c62fd0736460800000000000000
+      internalID: 7233749530217615721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 961
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee11aa8e7ba49b40800000000000000
+      internalID: 5446166409377816297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 974
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f374352ed1b870800000000000000
+      internalID: 8696976606804309380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 999
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d294b12ad01a328d0800000000000000
+      internalID: -2872275057405900499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 976
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530cb00c738cf4aa0800000000000000
+      internalID: -6174496422330908619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 985
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7576a2ed6f0c6e70800000000000000
+      internalID: 9109673110892082559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 975
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43d827bcf162c60800000000000000
+      internalID: 7792951163871900897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 979
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b4ab091f6fd5340800000000000000
+      internalID: 4854307490750942017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 968
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f65e1d051bcb27e0800000000000000
+      internalID: -1789113135674796303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 999
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc07d62f1fe2346e0800000000000000
+      internalID: -1854587004857257779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 990
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd18f4eea96a2300800000000000000
+      internalID: 228110931022323144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 973
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f59e67bc02ea50800000000000000
+      internalID: 6548810790123992738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 973
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633b9fa04fe706d0800000000000000
+      internalID: -3024185563652869277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 957
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce40941ea56c198a0800000000000000
+      internalID: -6300036310085597972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 980
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32ea6ff51db35640800000000000000
+      internalID: 5067601907899097663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4711e93fbd54fad0800000000000000
+      internalID: -2669405603232671925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 962
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74293dec517f500e0800000000000000
+      internalID: -2304163961293794745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 968
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c89dd4bb2b8a2f0800000000000000
+      internalID: -961322002908869615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_32
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 996
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9715b54ca360966a0800000000000000
+      internalID: -6455621741386706567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_33
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 980
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f55c0b6da295210800000000000000
+      internalID: 1322135067187044251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_34
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 963
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454976adec8d6680800000000000000
+      internalID: -8760190747837643441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 996
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a5e2cc31c676a50800000000000000
+      internalID: 6514294218300480066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_36
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1006
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1a3b831f14855a0800000000000000
+      internalID: -6532398755206684198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1002
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53373eb22ecbdcd20800000000000000
+      internalID: 3300501781517398837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 975
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea7842e7f43de30800000000000000
+      internalID: 4527049453634825789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 962
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa25d41e132a7c670800000000000000
+      internalID: 8558987951957955247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1007
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a230f0058f210b380800000000000000
+      internalID: -8957638801135566038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_41
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 973
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938cc9e63a7c26730800000000000000
+      internalID: 3990971724553046073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 988
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eca2274d3e670bc0800000000000000
+      internalID: -3816960949707690781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1006
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4339963ba0758a60800000000000000
+      internalID: 7675665020580606794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_44
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 951
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a2084c294ed470800000000000000
+      internalID: 8421248807764928782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_45
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 996
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb9555ad570eb1b0800000000000000
+      internalID: -5639061584634078211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_46
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 993
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465f248c0a062a60800000000000000
+      internalID: 7648812066008946247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_47
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 947
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928c0b3aaa713970800000000000000
+      internalID: 8732896024001806992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_48
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 985
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a45f6906e6fa9f40800000000000000
+      internalID: 5736168543270950050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_49
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 986
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf1de811d27dbe20800000000000000
+      internalID: 3367974338734923696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_50
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 958
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c0b4c23e8f1400800000000000000
+      internalID: 297112449129169832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_51
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1003
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1736673ce18887810800000000000000
+      internalID: 1763308919825261425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_52
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1014
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2fa912973099250800000000000000
+      internalID: 5951792201336550139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_53
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 995
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f193bfecb321511b0800000000000000
+      internalID: -5686618906400442081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_54
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cc013671af5db40800000000000000
+      internalID: 5464548701237202011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_55
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 972
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed0a51da4f891f60800000000000000
+      internalID: 8005587364130459118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_56
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 983
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ed93a1a3fef460800000000000000
+      internalID: 7277521923437618544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 988
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7911646a930b50ba0800000000000000
+      internalID: -6123294356691086953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_58
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 958
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf1fec7ac7917a0800000000000000
+      internalID: -6405951934784472213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_59
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 990
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60616472a566e50800000000000000
+      internalID: 6802223411915785938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_60
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1004
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a650e7d4495ec0800000000000000
+      internalID: -3577752734996715015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 947
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa88eacad6bcd65e0800000000000000
+      internalID: -1914650594653599574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_62
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 993
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190db547c16ab7e60800000000000000
+      internalID: 7961139407448952977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_63
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 987
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4701189b09d00b3d0800000000000000
+      internalID: -3193037220566986636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_64
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1016
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f553507f6f47081c0800000000000000
+      internalID: -4503471023315405473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_65
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1006
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5626c4d7b3d724170800000000000000
+      internalID: 8161223169207460453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_66
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 979
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d628c31a50ec53560800000000000000
+      internalID: 7292961695171641965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_67
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1017
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec30ba0ba6614fc0800000000000000
+      internalID: -3512413349567513368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_68
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 972
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da7e52e111c325a0800000000000000
+      internalID: -6547177150710121775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_69
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 947
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f1f6bc181eb5e70800000000000000
+      internalID: 9105119019239677713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_70
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93348a9bb33749070800000000000000
+      internalID: 8112235529156182841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_71
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 969
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d4959ad8d0d470800000000000000
+      internalID: 8417466136879486586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_72
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 973
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43568a5b2ea46a5e0800000000000000
+      internalID: -1898747855319309004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_73
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 947
+        width: 121
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b1084fb96045260800000000000000
+      internalID: 7085295380652366684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_74
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 948
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3a6889c3be6db0800000000000000
+      internalID: -4796698874944536617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_75
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 956
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce190d561f3bce5f0800000000000000
+      internalID: -726007590536834580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_76
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 984
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7164727a16b67d760800000000000000
+      internalID: 7482567373059737111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_77
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 990
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94fc20ee77eb2760800000000000000
+      internalID: 7434290142018073755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_78
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 953
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f3ed2dc21ab6aa0800000000000000
+      internalID: -6166658050865348754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 930
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876a22a84f406a50800000000000000
+      internalID: 6512292234554664839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 967
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2b6b19ec18a8ce0800000000000000
+      internalID: -1402165609764572469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_81
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 964
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd04141acd026990800000000000000
+      internalID: -7394332476617519652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_82
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 966
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18668501ba9c8d20800000000000000
+      internalID: 3282168313538832411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_83
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 954
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6c0320e30a348f0800000000000000
+      internalID: -557425740678641951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 956
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe75eb639b26dae0800000000000000
+      internalID: -1524983511647944972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 953
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a08edda210debba0800000000000000
+      internalID: -6071186469003820891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 947
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e0e6abeb3125060800000000000000
+      internalID: 6940631685623844393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_87
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 970
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692dba5a5480ce1c0800000000000000
+      internalID: -4473191234660478314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_88
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 956
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8d5f98e012bb690800000000000000
+      internalID: -7585432801047619383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_89
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 948
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165293ef031b5a090800000000000000
+      internalID: -8023812337108966047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_90
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 960
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c892ab118bdf9460800000000000000
+      internalID: 7250755272650692800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_91
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 972
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba56a5a9aaf77f30800000000000000
+      internalID: 4573399553153587899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_92
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 966
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2285e3567fb5480800000000000000
+      internalID: -8909255423612673317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_93
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 958
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141dd3ec6b75c350800000000000000
+      internalID: 6036366583169618970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_94
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 953
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960e4a9020653acf0800000000000000
+      internalID: -242255388196151191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_95
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 949
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656c6ec2129da0430800000000000000
+      internalID: 3750048376249828950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_96
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 969
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cf78824e05f4ca0800000000000000
+      internalID: -6030512435163038658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_97
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 960
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dff096650a40310800000000000000
+      internalID: 1370396479617760633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_98
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 940
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6118149168b1faa20800000000000000
+      internalID: 3075707333280629014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 962
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fd049a7c9f6aa50800000000000000
+      internalID: 6532182945480892243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 951
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10880f9ddc390dac0800000000000000
+      internalID: -3832400770558294015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_101
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 947
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9541013ded23fbad0800000000000000
+      internalID: -2684370920284351399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_102
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 950
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89544d49809ef8010800000000000000
+      internalID: 1193428649342420376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_103
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 956
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db056260b63c47110800000000000000
+      internalID: 1257845060375302333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_104
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 942
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc0ee2ee6e09180800000000000000
+      internalID: -9110528135507424198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_105
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 959
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba7114e394bd3c40800000000000000
+      internalID: 5493745667741416126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_106
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 961
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d7b19a792abf400800000000000000
+      internalID: 359059367566998789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_107
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 961
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0155182fcaced510800000000000000
+      internalID: 1575919910705778956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_108
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 955
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cfc59c52bd86240800000000000000
+      internalID: 4785315559419739141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_109
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 952
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a84196722a7770800000000000000
+      internalID: 8609231530311067137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_110
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 961
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecfd149cba2174e0800000000000000
+      internalID: -1985758971266466580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_111
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 947
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa139ff6b81c13c0800000000000000
+      internalID: -4387604762714760541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_112
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 941
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5135045ec129dc460800000000000000
+      internalID: 7263622426821415701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_113
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 947
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a1e8459e64e380800000000000000
+      internalID: -8942901372599032616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_114
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 947
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7dee35e91e0b830800000000000000
+      internalID: 4085012932154283940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_115
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 952
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb61a882eff5ab0800000000000000
+      internalID: -5017012009798549576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_116
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 955
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ecc6526ba7ff6a0800000000000000
+      internalID: -6413272421621772705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_117
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 957
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5ef99c73a7517e0800000000000000
+      internalID: -1795394496412785192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_118
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 935
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854f10a0ba9ee3690800000000000000
+      internalID: -7620396598647720872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_119
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 959
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a0014bce433460800000000000000
+      internalID: 7220201262480924896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_120
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 952
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ab6981892ad7d0800000000000000
+      internalID: -2892954174299070363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_121
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 955
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e626a918e7d2260800000000000000
+      internalID: 7074449684774940245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030fff64b49979470800000000000000
+      internalID: 8401352178475724848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_123
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 948
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a6500fb19e05410800000000000000
+      internalID: 1463926185095686738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_124
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536afec0289f8c80800000000000000
+      internalID: -8318262720051125423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_125
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 942
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45297f997ce74840800000000000000
+      internalID: 5208391501187982668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_126
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 938
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c09e5f605536e60800000000000000
+      internalID: 7954294855250283624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_127
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 945
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9be151cf9016d40800000000000000
+      internalID: 5575748791952128431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_128
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 948
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ab8d889c8a771c0800000000000000
+      internalID: -4505947318623094193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_129
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 938
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a5e209e62da7980800000000000000
+      internalID: -8540282371047532013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_130
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 950
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21e65e068c571610800000000000000
+      internalID: 1591842724134707501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_131
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 941
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ed7c1f1df9f9880800000000000000
+      internalID: -8601981039200969108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_132
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 944
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f693ee1f7fc0b1b0800000000000000
+      internalID: -5642782188209203468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_133
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 945
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3403f258e5d41fa10800000000000000
+      internalID: 1941417982730121283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_134
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 945
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c440dfd51bb1b0800000000000000
+      internalID: -5639890057335356236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_135
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 952
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd39243566c87c2f0800000000000000
+      internalID: -952638425054145572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_136
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 947
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d02a35f4e44c290800000000000000
+      internalID: -7871080146124272229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_137
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 941
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83480ab981589bb0800000000000000
+      internalID: -4929100140183534705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_138
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 948
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f9a3719ba776270800000000000000
+      internalID: 8243692578302238561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_139
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 942
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262814ccacc0d1a80800000000000000
+      internalID: -8494619257001115038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_140
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 941
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4287714bee355dff0800000000000000
+      internalID: -12011139309799388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_141
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 946
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e571769a2fa0d1f0800000000000000
+      internalID: -1022124517965597209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_142
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 947
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81651581f90265af0800000000000000
+      internalID: -408102848550578664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_143
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 911
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb3e428ada45bd0800000000000000
+      internalID: -2642296143674622923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_144
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 943
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc5eee0211efd0e0800000000000000
+      internalID: -2242826621731054399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_145
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 932
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326dd12a7cee63d10800000000000000
+      internalID: 2105132417028052515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_146
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 937
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35715ba9caa535170800000000000000
+      internalID: 8165970246729275219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_147
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 937
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccec7ebfc155fbb20800000000000000
+      internalID: 3152331847156354764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_148
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 935
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1afd4691d7ed990800000000000000
+      internalID: -7359307193056779794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_149
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 943
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9075d9cdc0ffc0800000000000000
+      internalID: -3463041846694863239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_150
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 944
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9359f910848967190800000000000000
+      internalID: -7965011455925840583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_151
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 932
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac0e5d5625ba1e50800000000000000
+      internalID: 6780931365339532457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_152
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e167a2deb79403350800000000000000
+      internalID: 5994371900638918174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_153
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 942
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c56d5f3f1e709f0800000000000000
+      internalID: -502184395510752192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_154
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 938
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f055d076138de200800000000000000
+      internalID: 210968889961828595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_155
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 934
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc634ffd599dcf020800000000000000
+      internalID: 2377013941075457740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_156
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff42ea4142765c660800000000000000
+      internalID: 7405438566944089343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_157
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 938
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e8808539928d010800000000000000
+      internalID: 1213765812390235726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_158
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 934
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549451f17bcafaff0800000000000000
+      internalID: -22609570613081787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_159
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 920
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b13e91d39cd34e60800000000000000
+      internalID: 7945436695046795702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_160
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 933
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9e1fb65efccb6d0800000000000000
+      internalID: -2973273069705893438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_161
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 934
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a724f1f804364d540800000000000000
+      internalID: 5031755812609933946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_162
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 934
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c899fd189f542eb00800000000000000
+      internalID: 856323817081903500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_163
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 937
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2257d6c2fba6a1570800000000000000
+      internalID: 8438174221148714274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_164
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 879
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dcd0cff843bb700800000000000000
+      internalID: 557096771924118877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_165
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 877
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c1b7ae2b130620800000000000000
+      internalID: 2739062885567283686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_166
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 884
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbade6389d79abbd0800000000000000
+      internalID: -2613609673266373953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_167
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 853
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7601be62918b470800000000000000
+      internalID: 8410499959057573795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_168
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 873
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f867bcb6d6c8580800000000000000
+      internalID: -8823557260183171205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_169
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 853
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dedb9adc8e750e0800000000000000
+      internalID: -2281098716226130662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_170
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 862
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe25e7ce6d134640800000000000000
+      internalID: 5062922767731863229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_171
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 847
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebe06d305186050800000000000000
+      internalID: 5793904026832518755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_172
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 851
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0384896ee3c82e0800000000000000
+      internalID: -2122252164280078124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_173
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 814
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3e1e5dc849d0f30800000000000000
+      internalID: 4543450931691381667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_174
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 837
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec83459d26584e50800000000000000
+      internalID: 6793774791666142438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_175
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 782
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33049fa76974fa330800000000000000
+      internalID: 3724274128492511283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_176
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 770
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b586fdc2ebb171ec0800000000000000
+      internalID: -3596375273821476773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_177
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 805
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2c50a1f26e32650800000000000000
+      internalID: 6207057801421112001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_178
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 806
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831a1b2297f31cb20800000000000000
+      internalID: 3152871003641717048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_179
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 769
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc62264805196aa0800000000000000
+      internalID: -6167375089426600710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_180
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 777
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e98ea604c028e910800000000000000
+      internalID: 1866778071842851304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_181
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 782
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d9b6fa1ea62dd0800000000000000
+      internalID: -2511128311380715693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_182
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 756
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b8484de8e985d60800000000000000
+      internalID: 7879221884372683648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_183
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc006f4b0b2f2c80800000000000000
+      internalID: -8345404256917910326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_184
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 761
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f232b3b03fa3fae0800000000000000
+      internalID: -1516676025785634064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_185
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 773
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb489413de177060800000000000000
+      internalID: 6951058441802107881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_186
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 766
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602e1a92975f7a710800000000000000
+      internalID: 1704600884721345030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_187
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 773
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2625f33bbdfbe30800000000000000
+      internalID: 4521574113811260076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a249136dbc8b790800000000000000
+      internalID: -7514031857452438912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_189
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 737
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3a7ede9f15df210800000000000000
+      internalID: 1368339995670586327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_190
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 746
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b2e1c9d88ca520800000000000000
+      internalID: 2714695144239706569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_191
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 731
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83058202be798f30800000000000000
+      internalID: 4578329799210369934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_192
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 750
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29769fb881b9bf0800000000000000
+      internalID: -316632359335652623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_193
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 715
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b00a1a014b9560800000000000000
+      internalID: 7321517130862606058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_194
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 722
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf04c7b8d09c8230800000000000000
+      internalID: 3642445459106303941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_195
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 720
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ff56c8332b1de0800000000000000
+      internalID: -1361455735596125006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89c169710c45a90800000000000000
+      internalID: -7326019486289717078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71871357db4216c60800000000000000
+      internalID: 7809563624970745879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_198
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 705
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b127142e9021b80800000000000000
+      internalID: -8425661085491520668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_199
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 704
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e7abff8e463a70800000000000000
+      internalID: 8806312501678956851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_200
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 699
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a881623bbd358a0800000000000000
+      internalID: -6317464289785902450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_201
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 684
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3460d9c30edd900800000000000000
+      internalID: 710970867131499502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_202
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 676
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f95b9c27f0270ae0800000000000000
+      internalID: -1583260498020050447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_203
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 694
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2161ddbe730d8ed0800000000000000
+      internalID: -2410266382687968977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_204
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 689
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c7f764a9974b70800000000000000
+      internalID: 8883237721409570993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_205
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 680
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c32b0033f97e4b0800000000000000
+      internalID: -5411181385858532343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_206
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 685
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c8c053bb68a6e40800000000000000
+      internalID: 5650476821096729699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_207
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 647
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35835c4a50f98fcc0800000000000000
+      internalID: -3677014249159968685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052de16efb41e4430800000000000000
+      internalID: 3768972752587772496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4b6463c10f4b930800000000000000
+      internalID: 4158212359930164465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_210
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 675
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716268ff936240080800000000000000
+      internalID: -9222204106405960169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_211
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557c1001bc67c5290800000000000000
+      internalID: -7900309031795701931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_212
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 669
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a86ef8f70dc44d0800000000000000
+      internalID: -3148912793145144734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f95157ba753f7d80800000000000000
+      internalID: -8250817191141615117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_214
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 651
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f315a4534c5c60800000000000000
+      internalID: 7808189884779460000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_215
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 653
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa3e3fb2f62af4a0800000000000000
+      internalID: -6558887083279238405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_216
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 658
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a98e968acaeca10800000000000000
+      internalID: 1931671129519856136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_217
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 624
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdfc3dc8ba9004d0800000000000000
+      internalID: -3170364019160842757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_218
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 639
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0549ef3af048b80800000000000000
+      internalID: -8393566608486543128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_219
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 644
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a0a9fa713e9670800000000000000
+      internalID: 8547323547039605076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_220
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 649
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45aef2f02b70110800000000000000
+      internalID: 1227145201779889392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 613
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de902a2ba4d6e5bd0800000000000000
+      internalID: -2639552164000560659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_222
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95564bb3eddd8fc0800000000000000
+      internalID: -3490890165973002850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_223
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 635
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7334145cf168984d0800000000000000
+      internalID: -3131824594847972553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_224
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 626
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f098dabe9b5730800000000000000
+      internalID: 3988956420301189613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_225
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 623
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9460483d522d32fa0800000000000000
+      internalID: -5826582432983022007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_226
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 609
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f71d68de28a1e20800000000000000
+      internalID: 3322111631819898645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_227
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 621
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113b51c7d3dde7c0800000000000000
+      internalID: -4040340367066058480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fcc1d547b506000800000000000000
+      internalID: 27122153100726146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_229
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 605
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5108641508187c0800000000000000
+      internalID: -4070831501602712131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_230
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 613
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed9230e9880bda0800000000000000
+      internalID: -5931090497007657425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab90d8cfbf8aa68b0800000000000000
+      internalID: -5158124622972122694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_232
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 594
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4db158ccb7c7f540800000000000000
+      internalID: 5041717921493138766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_233
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 594
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5695a37dde27980800000000000000
+      internalID: -8542504034515720758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_234
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 580
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4764c9b15bacf1c30800000000000000
+      internalID: 4332404245754824308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_235
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 571
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43318d25d5b220670800000000000000
+      internalID: 8503406726250763060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b121919f5518f20800000000000000
+      internalID: 3423111720134122358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_237
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 558
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd2b267ebdc99f40800000000000000
+      internalID: 5735841818343058939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_238
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 551
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976972b901319c6f0800000000000000
+      internalID: -663978508016970119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_239
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 548
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9827fb27e5c600800000000000000
+      internalID: 488050310655810761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_240
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 530
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204c22ef4a9e53710800000000000000
+      internalID: 1672499731485606914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_241
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 545
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666fc96f8ea1ee490800000000000000
+      internalID: -7715199523766864282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_242
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 532
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e5c5208835ae930800000000000000
+      internalID: 4173239848332451364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_243
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 542
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929fdfe86a0c4d680800000000000000
+      internalID: -8731141955968435927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_244
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 517
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8168b020bdbb9770800000000000000
+      internalID: 8618690876064424333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_245
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 527
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0bbeb7d894ca750800000000000000
+      internalID: 6317505249312223479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5115e8ecbb3160d0800000000000000
+      internalID: -3431395758532390566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_247
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 490
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d57e99eb02918480800000000000000
+      internalID: -8898670808845617706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_248
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b1a8b696c9079b0800000000000000
+      internalID: -5084392002711577795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_249
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 467
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b571770bd97ef3f10800000000000000
+      internalID: 2251773003165013851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_250
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d409a0193431c70800000000000000
+      internalID: 8940563975487114621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_251
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 462
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c45fc032667e1d0800000000000000
+      internalID: -3321573899435160536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_252
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 466
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47889eef797c59a00800000000000000
+      internalID: 762735167539873908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_253
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752e07af1d8185910800000000000000
+      internalID: 1826236939027669591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_254
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01a9a1fbb7c58360800000000000000
+      internalID: 7171357591684620554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_255
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 411
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc27fa00436053b0800000000000000
+      internalID: -5525807616070570766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_256
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 412
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a880aef91bfd56d0800000000000000
+      internalID: -2999965687694194519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc726cddff291f50800000000000000
+      internalID: 6852561075391593669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_258
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c9ed2139aef35b0800000000000000
+      internalID: -5386328711914152891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_259
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6aec8d0351ca7e0800000000000000
+      internalID: -1753002855413930330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_260
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 352
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c69256872519e750800000000000000
+      internalID: 6334617610374780610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_261
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 343
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168c5b3e0c253c9a0800000000000000
+      internalID: -6214032072433612703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_262
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bad00f8038bb0b0800000000000000
+      internalID: -5711827627978937576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_263
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 295
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5257b8a5abe036a0800000000000000
+      internalID: -6471413567798685093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_264
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a75f85c1c038620800000000000000
+      internalID: 2775075111281457667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680834ca2e1359730800000000000000
+      internalID: 4005162293238399110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_266
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 259
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23cee1b69f789710800000000000000
+      internalID: 1700249144539398955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_267
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ead5ccd7a0b50340800000000000000
+      internalID: 4829460410434706150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_268
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2e11b081522920800000000000000
+      internalID: 2964021117932416735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_269
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c4fa43aea46c90800000000000000
+      internalID: -7177419889761269302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_270
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70c99359c92a0a0800000000000000
+      internalID: -6871757916683368454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_271
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d226c187f39d0910800000000000000
+      internalID: 1805261716888888018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_272
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eccfae6b8cf9a050800000000000000
+      internalID: 5812454469886004454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-good-guy_273
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7490a1f8b5d1e9dc0800000000000000
+      internalID: -3630431970533963449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

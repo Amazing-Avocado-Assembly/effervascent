@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: 51ea63ef3333d8b40aeedbebd77f64fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5182943139447725599
+    second: lore-monster_0
+  - first:
+      213: -7230105019687078347
+    second: lore-monster_1
+  - first:
+      213: -1507158661041098691
+    second: lore-monster_2
+  - first:
+      213: 3330839662447733160
+    second: lore-monster_3
+  - first:
+      213: 1313756408028338514
+    second: lore-monster_4
+  - first:
+      213: 5685901823923538591
+    second: lore-monster_5
+  - first:
+      213: -5781838241313334043
+    second: lore-monster_6
+  - first:
+      213: -3566966044877694981
+    second: lore-monster_7
+  - first:
+      213: -8717802126037486868
+    second: lore-monster_8
+  - first:
+      213: 2299685819877483045
+    second: lore-monster_9
+  - first:
+      213: -5919348875423602283
+    second: lore-monster_10
+  - first:
+      213: 976287387886704844
+    second: lore-monster_11
+  - first:
+      213: 5395608375502769550
+    second: lore-monster_12
+  - first:
+      213: -2453686780038607396
+    second: lore-monster_13
+  - first:
+      213: 7807137305450548744
+    second: lore-monster_14
+  - first:
+      213: -1952851308175783720
+    second: lore-monster_15
+  - first:
+      213: -838236156681467040
+    second: lore-monster_16
+  - first:
+      213: 4808984402792995861
+    second: lore-monster_17
+  - first:
+      213: -360920835696787106
+    second: lore-monster_18
+  - first:
+      213: -3339788769714831547
+    second: lore-monster_19
+  - first:
+      213: 7202293382853459574
+    second: lore-monster_20
+  - first:
+      213: -2843949855720638026
+    second: lore-monster_21
+  - first:
+      213: 2932879264647641262
+    second: lore-monster_22
+  - first:
+      213: -1584840564315626992
+    second: lore-monster_23
+  - first:
+      213: 7361833509278852608
+    second: lore-monster_24
+  - first:
+      213: 4674638509631846698
+    second: lore-monster_25
+  - first:
+      213: 7353451227986883711
+    second: lore-monster_26
+  - first:
+      213: 348629736331011436
+    second: lore-monster_27
+  - first:
+      213: 5723091774639601536
+    second: lore-monster_28
+  - first:
+      213: -4864602940325766092
+    second: lore-monster_29
+  - first:
+      213: 1146216613661273856
+    second: lore-monster_30
+  - first:
+      213: -9097678116486692408
+    second: lore-monster_31
+  - first:
+      213: -8863785291636059178
+    second: lore-monster_32
+  - first:
+      213: -7734957123622686399
+    second: lore-monster_33
+  - first:
+      213: -3052815171438797799
+    second: lore-monster_34
+  - first:
+      213: -6335340290021264901
+    second: lore-monster_35
+  - first:
+      213: -1265716278538084728
+    second: lore-monster_36
+  - first:
+      213: 5477709606261592523
+    second: lore-monster_37
+  - first:
+      213: -3073457793828110631
+    second: lore-monster_38
+  - first:
+      213: -4973585411337437307
+    second: lore-monster_39
+  - first:
+      213: -2787654896883026772
+    second: lore-monster_40
+  - first:
+      213: 6045150335663939986
+    second: lore-monster_41
+  - first:
+      213: -6581254917274767007
+    second: lore-monster_42
+  - first:
+      213: -3236043379621158926
+    second: lore-monster_43
+  - first:
+      213: 1098979024168087203
+    second: lore-monster_44
+  - first:
+      213: 1888082527756128015
+    second: lore-monster_45
+  - first:
+      213: 4019499037438723275
+    second: lore-monster_46
+  - first:
+      213: 2093794025634513032
+    second: lore-monster_47
+  - first:
+      213: 1169579220279571106
+    second: lore-monster_48
+  - first:
+      213: -8387699623793339468
+    second: lore-monster_49
+  - first:
+      213: 4123636127210150320
+    second: lore-monster_50
+  - first:
+      213: -4775136741256344922
+    second: lore-monster_51
+  - first:
+      213: -3017480351546277906
+    second: lore-monster_52
+  - first:
+      213: -4460920081819340222
+    second: lore-monster_53
+  - first:
+      213: -3299832613625774604
+    second: lore-monster_54
+  - first:
+      213: -1245165212090773954
+    second: lore-monster_55
+  - first:
+      213: 6221781649657580293
+    second: lore-monster_56
+  - first:
+      213: 3737094486847727295
+    second: lore-monster_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lore-monster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e54dd23538de740800000000000000
+      internalID: 5182943139447725599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1011
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53678c49ac189ab90800000000000000
+      internalID: -7230105019687078347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1013
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30fd7cde2f751be0800000000000000
+      internalID: -1507158661041098691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 840
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9aaf38605893e20800000000000000
+      internalID: 3330839662447733160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 806
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591ce51e766b3210800000000000000
+      internalID: 1313756408028338514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 802
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a45ba659168ee40800000000000000
+      internalID: 5685901823923538591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 663
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecdfb5c0c8c2cfa0800000000000000
+      internalID: -5781838241313334043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 669
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf75f21e7479f7ec0800000000000000
+      internalID: -3566966044877694981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 562
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f36fb725240780800000000000000
+      internalID: -8717802126037486868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 588
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522ecc4a1102aef10800000000000000
+      internalID: 2299685819877483045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 561
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599a4c25f8f3adda0800000000000000
+      internalID: -5919348875423602283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_11
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 553
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc85ea9e4387c8d00800000000000000
+      internalID: 976287387886704844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 537
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d07f8fa3d01ea40800000000000000
+      internalID: 5395608375502769550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 526
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd0abdafd0c2fdd0800000000000000
+      internalID: -2453686780038607396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 508
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e841ce306885c60800000000000000
+      internalID: 7807137305450548744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 489
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d88605f41416e4e0800000000000000
+      internalID: -1952851308175783720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 483
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bcc1b18acfd54f0800000000000000
+      internalID: -838236156681467040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_17
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 467
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cded2d5d1fcb240800000000000000
+      internalID: 4808984402792995861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_18
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 465
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5181448960cdfaf0800000000000000
+      internalID: -360920835696787106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_19
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 420
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ffe441fcfa6a1d0800000000000000
+      internalID: -3339788769714831547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_20
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 399
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e702d1cafa3f360800000000000000
+      internalID: 7202293382853459574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_21
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b97fb29ca24888d0800000000000000
+      internalID: -2843949855720638026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_22
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 368
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87e62f62ea3b820800000000000000
+      internalID: 2932879264647641262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012665257e3810ae0800000000000000
+      internalID: -1584840564315626992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 315
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0062220729c7a2660800000000000000
+      internalID: 7361833509278852608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 250
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b7fb05f6afd040800000000000000
+      internalID: 4674638509631846698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 311
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74715d7ee4bc0660800000000000000
+      internalID: 7353451227986883711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 281
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e528e5e496d400800000000000000
+      internalID: 348629736331011436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0877a5495a18c6f40800000000000000
+      internalID: 5723091774639601536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 268
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cdf8846657d7cb0800000000000000
+      internalID: -4864602940325766092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f6eecefed28ef00800000000000000
+      internalID: 1146216613661273856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c147f164fd8eb180800000000000000
+      internalID: -9097678116486692408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d353b65d328df480800000000000000
+      internalID: -8863785291636059178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_33
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141b7954a79e7a490800000000000000
+      internalID: -7734957123622686399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c977da6c832a5d0800000000000000
+      internalID: -3052815171438797799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 235
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1ff0282995418a0800000000000000
+      internalID: -6335340290021264901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ede4f20c54f6ee0800000000000000
+      internalID: -1265716278538084728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_37
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 218
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc197ff5ddbb40c40800000000000000
+      internalID: 5477709606261592523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 227
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de38be9b62e855d0800000000000000
+      internalID: -3073457793828110631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_39
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 219
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fba296b664afab0800000000000000
+      internalID: -4973585411337437307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 200
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4b8e214a24059d0800000000000000
+      internalID: -2787654896883026772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 214
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2912513a330b4e350800000000000000
+      internalID: 6045150335663939986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_42
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1617b8f858faaa4a0800000000000000
+      internalID: -6581254917274767007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 198
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff1de701b34713d0800000000000000
+      internalID: -3236043379621158926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_44
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 190
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee42f899b504f00800000000000000
+      internalID: 1098979024168087203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_45
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 197
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f86853e01d33a10800000000000000
+      internalID: 1888082527756128015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 181
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc44f8d041128c730800000000000000
+      internalID: 4019499037438723275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 178
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c7caa296ae0d10800000000000000
+      internalID: 2093794025634513032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_48
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 175
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23179aa1e2b3010800000000000000
+      internalID: 1169579220279571106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3de11d1a7e89b80800000000000000
+      internalID: -8387699623793339468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_50
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b91451b5391a3930800000000000000
+      internalID: 4123636127210150320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 152
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aacf7ffe6e4bbdb0800000000000000
+      internalID: -4775136741256344922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_52
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeffc598b91cf16d0800000000000000
+      internalID: -3017480351546277906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24270cf02d0a712c0800000000000000
+      internalID: -4460920081819340222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_54
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd369e98b3a432d0800000000000000
+      internalID: -3299832613625774604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_55
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec7a636d848bee0800000000000000
+      internalID: -1245165212090773954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_56
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b42e92275385650800000000000000
+      internalID: 6221781649657580293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lore-monster_57
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb621a4c2a3dcd330800000000000000
+      internalID: 3737094486847727295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
